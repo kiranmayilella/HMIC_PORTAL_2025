@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_CP_EditModifiersForModificationRange</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a06a529c-7a1d-476d-b7eb-39e517bbc60a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>30439880-891c-468d-8a15-9776a7ccea53</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30439880-891c-468d-8a15-9776a7ccea53</id>
+      <masked>false</masked>
+      <name>ModifierNewLoc</name>
+   </variable>
+</TestCaseEntity>

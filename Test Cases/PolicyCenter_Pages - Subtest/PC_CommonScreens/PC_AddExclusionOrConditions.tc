@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_AddExclusionOrConditions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>567dd320-bd7d-469e-b5f5-495c9133c4a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>429e80e0-e3e3-4ecd-9783-eff2b51eb0cf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>429e80e0-e3e3-4ecd-9783-eff2b51eb0cf</id>
+      <masked>false</masked>
+      <name>ExclusionsConditions</name>
+   </variable>
+</TestCaseEntity>

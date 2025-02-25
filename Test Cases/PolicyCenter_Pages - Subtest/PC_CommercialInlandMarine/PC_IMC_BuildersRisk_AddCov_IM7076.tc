@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_BuildersRisk_AddCov_IM7076</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e565d49c-d95f-467a-8b69-5b19d8d6276e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08a74017-b926-4ae4-bec8-10902f24d371</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2000'</defaultValue>
+      <description></description>
+      <id>08a74017-b926-4ae4-bec8-10902f24d371</id>
+      <masked>false</masked>
+      <name>TestingEndorsementLimit</name>
+   </variable>
+</TestCaseEntity>

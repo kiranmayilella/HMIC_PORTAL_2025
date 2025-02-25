@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_0005-cstest8 080200005csrtest8020</name>
+   <tag></tag>
+   <elementGuidId>5e969b76-ecad-4814-81d1-98cd1eea0699</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-6-option-3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-6-option-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67eeeacd-18c7-4dd3-b3f7-3963450febad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamicGenericSelectControl__option jut__GenericSelectControl__option jut__GenericSelectControl__optionFocused css-1n7v3ny-option</value>
+      <webElementGuid>d96ec544-a898-405b-afd6-718f85022181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-6-option-3</value>
+      <webElementGuid>1fb8d1e3-0b6c-4d67-a31b-a831903987bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>2193f272-9510-4f85-918b-d19b5369104f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0005-cstest8 080200005csrtest8020</value>
+      <webElementGuid>660f6e4b-645f-4b8a-af5a-04cf35cbc5fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-6-option-3&quot;)</value>
+      <webElementGuid>80705043-606d-46a2-8612-361c629ff931</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-6-option-3']</value>
+      <webElementGuid>574d0d6f-10e1-4d01-b397-8ac2568ac913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[2]/following::div[3]</value>
+      <webElementGuid>82451701-264e-4f33-8c09-3e75648aff41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'react-select-6-option-3', '&quot;', ')')])[1]/following::div[7]</value>
+      <webElementGuid>4b215124-e205-46ea-8e3a-28505a1b54ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0005-cstest8 080200005csrtest8020']/parent::*</value>
+      <webElementGuid>15fd1337-714c-4467-b06c-061c7d811257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[4]</value>
+      <webElementGuid>c8f85d5b-6635-4ee5-b7c2-0d31ecb2c4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-6-option-3' and (text() = '0005-cstest8 080200005csrtest8020' or . = '0005-cstest8 080200005csrtest8020')]</value>
+      <webElementGuid>9fc351a0-c0d2-4927-bbbf-b5033dd6ea7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

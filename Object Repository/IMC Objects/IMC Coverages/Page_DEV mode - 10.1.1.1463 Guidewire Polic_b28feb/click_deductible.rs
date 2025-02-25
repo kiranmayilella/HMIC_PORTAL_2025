@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_deductible</name>
+   <tag></tag>
+   <elementGuidId>b6ace50a-12d1-4c56-a76c-9a7dd9498e52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='IM7ContractorsEquipmentPopup-IM7ContractorsEquipmentPanelSet-CEClauseCovPatterns-CoverageCategoryInputSet-2-CoverageInputSet-CovPatternInputGroup-IM7CECEBlnktDedType']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

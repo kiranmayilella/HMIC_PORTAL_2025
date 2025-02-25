@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_CPRisksSpecialClass_TextField_ManufacturingPercentage</name>
+   <tag></tag>
+   <elementGuidId>1c4dc1c5-e6bc-4e35-9036-3d252c369c69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='CP7SpecialClassBusinessIncomePopup-CP7SpecClsBICV-LobEntityDV-7-LobInputSet-LobInternalInputSet-Input']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_PhotographicEquipment_Blanket_PropertyType_Coverage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d8f90ba-1d84-41cd-9526-81894598778b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e3d3d323-2089-40d3-8c41-d04d42ecdc56</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b1239448-b98f-4888-9c3a-b17b9b147603</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ec9dcfa-dbef-48cd-b22b-9d596d3c4b1b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69d1e878-f41f-48a7-a6f8-deaf297cffe5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Blanket Property'</defaultValue>
+      <description></description>
+      <id>e3d3d323-2089-40d3-8c41-d04d42ecdc56</id>
+      <masked>false</masked>
+      <name>PhotographicEquipment_CoverageType</name>
+   </variable>
+   <variable>
+      <defaultValue>'500'</defaultValue>
+      <description></description>
+      <id>b1239448-b98f-4888-9c3a-b17b9b147603</id>
+      <masked>false</masked>
+      <name>PhotographicEquipment_Deductible</name>
+   </variable>
+   <variable>
+      <defaultValue>'25000'</defaultValue>
+      <description></description>
+      <id>3ec9dcfa-dbef-48cd-b22b-9d596d3c4b1b</id>
+      <masked>false</masked>
+      <name>PhotographicEquipment_Blanket_BlanketLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>'Motion Picture Producer'</defaultValue>
+      <description></description>
+      <id>69d1e878-f41f-48a7-a6f8-deaf297cffe5</id>
+      <masked>false</masked>
+      <name>PhotographicEquipment_PropertyType</name>
+   </variable>
+</TestCaseEntity>

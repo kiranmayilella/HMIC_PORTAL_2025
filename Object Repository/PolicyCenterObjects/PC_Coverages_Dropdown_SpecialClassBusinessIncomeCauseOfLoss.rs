@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Coverages_Dropdown_SpecialClassBusinessIncomeCauseOfLoss</name>
+   <tag></tag>
+   <elementGuidId>82dde719-db9e-407c-b112-ee70d46aadb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='CP7SpecialClassBusinessIncomePopup-CP7SpecClsBICV-CP7SpecClsBICoveragesDV-0-LobCoverageInputSet-CovPatternInputGroup-CovTermIterator-1-LobCovTermWithPostOnChangeInputSet-OptionTermInput']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='CP7SpecialClassBusinessIncomePopup-CP7SpecClsBICV-CP7SpecClsBICoveragesDV-0-LobCoverageInputSet-CovPatternInputGroup-CovTermIterator-1-LobCovTermWithPostOnChangeInputSet-OptionTermInput']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

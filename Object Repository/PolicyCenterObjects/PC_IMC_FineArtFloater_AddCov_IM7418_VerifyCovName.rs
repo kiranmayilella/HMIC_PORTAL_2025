@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_FineArtFloater_AddCov_IM7418_VerifyCovName</name>
+   <tag></tag>
+   <elementGuidId>b66354fa-30fd-4ba7-9676-fe793cf4217a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7FineArtFloaterPopup-IM7FineArtFloaterPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-InputGroup--header--label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>feef969c-b23d-4dc4-8ff4-ea05ec1cba57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-InputGroup--header--label</value>
+      <webElementGuid>ecc0e18d-37b6-4b34-899a-7e92cd3b9662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IM 7418 Breakage Limitation</value>
+      <webElementGuid>b62ea0b6-fef1-47fb-a8d2-8728d6cca1bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7FineArtFloaterPopup-IM7FineArtFloaterPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup&quot;)/div[@class=&quot;gw-InputGroup--header&quot;]/div[@class=&quot;gw-InputGroup--header--label&quot;]</value>
+      <webElementGuid>bc42277d-242f-4de7-8dfa-418ac4b67d55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IM7FineArtFloaterPopup-IM7FineArtFloaterPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup']/div/div[2]</value>
+      <webElementGuid>6af73938-d27c-4148-83ae-d7be5f31e0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Coverages'])[1]/following::div[8]</value>
+      <webElementGuid>eaabda28-6e0a-45d0-ac35-e501d9aed1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AC'])[2]/following::div[9]</value>
+      <webElementGuid>ec0d2623-bb30-4cb7-823e-52ebf0bb2d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit'])[1]/preceding::div[1]</value>
+      <webElementGuid>ce16539c-b563-4f02-8df1-d4e0addaf8f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breakage Load'])[1]/preceding::div[6]</value>
+      <webElementGuid>c75f1f94-d327-4907-a836-799f9b9c071f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IM 7418 Breakage Limitation']/parent::*</value>
+      <webElementGuid>2a5f7663-15e7-457e-9931-f4d749ce6f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>7968a965-769e-4054-accb-ab6241c3519b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IM 7418 Breakage Limitation' or . = 'IM 7418 Breakage Limitation')]</value>
+      <webElementGuid>68c8b23e-c4ef-4ed5-912c-09ab74d91f1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

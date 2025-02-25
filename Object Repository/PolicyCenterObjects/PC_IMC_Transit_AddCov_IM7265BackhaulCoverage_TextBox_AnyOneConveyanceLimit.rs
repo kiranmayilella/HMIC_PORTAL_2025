@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_Transit_AddCov_IM7265BackhaulCoverage_TextBox_AnyOneConveyanceLimit</name>
+   <tag></tag>
+   <elementGuidId>0889be2f-c202-4941-9431-fd4d3373fa8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7TransitPopup-IM7TransitPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup-IM7TransitBackhaulCovTransitBackhaulAnyOConveLmt']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='IM7TransitPopup-IM7TransitPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup-IM7TransitBackhaulCovTransitBackhaulAnyOConveLmt']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

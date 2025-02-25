@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_CreatePolicy_WC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c40c6b7a-581e-40a9-8865-2b1c920fec8b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>aa3a5d49-e84f-43de-ab77-37f8bb80749f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Katalon Files/PC_CreatePolicy_WC/PC_CreatePolicy</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>677b488f-f03a-4329-a3e1-500debfa4f4e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>aa3a5d49-e84f-43de-ab77-37f8bb80749f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>LOB</value>
+      <variableId>bdf46825-a30f-4946-9eb9-50e58ade9e53</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>aa3a5d49-e84f-43de-ab77-37f8bb80749f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Address1</value>
+      <variableId>acc5a120-2106-4ad1-8141-dc6a5d810a60</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>aa3a5d49-e84f-43de-ab77-37f8bb80749f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>City</value>
+      <variableId>2ea620dc-fb88-424f-93ae-6cd19fcdb69a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>aa3a5d49-e84f-43de-ab77-37f8bb80749f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>AddressType</value>
+      <variableId>3fecc9be-124e-42a7-9541-27fb67650cab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>aa3a5d49-e84f-43de-ab77-37f8bb80749f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>AgencyName</value>
+      <variableId>f6ee1a49-504b-47c3-88d4-bb1187c3f29f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>aa3a5d49-e84f-43de-ab77-37f8bb80749f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProducerCode</value>
+      <variableId>1859f388-e2d5-40fb-a1ca-788a2ae400cc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>aa3a5d49-e84f-43de-ab77-37f8bb80749f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ZipCode</value>
+      <variableId>6dcdb721-6219-496f-8352-7924f52bb76d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>aa3a5d49-e84f-43de-ab77-37f8bb80749f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>State</value>
+      <variableId>cd917e59-bd39-4238-b063-bfd5399402c1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'PC_CreatePolicy_WC'</defaultValue>
+      <description></description>
+      <id>677b488f-f03a-4329-a3e1-500debfa4f4e</id>
+      <masked>false</masked>
+      <name>TCName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PC_CreatePolicy_WC/PC_CreatePolicy')</defaultValue>
+      <description></description>
+      <id>bdf46825-a30f-4946-9eb9-50e58ade9e53</id>
+      <masked>false</masked>
+      <name>LOB</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PC_CreatePolicy_WC/PC_CreatePolicy')</defaultValue>
+      <description></description>
+      <id>acc5a120-2106-4ad1-8141-dc6a5d810a60</id>
+      <masked>false</masked>
+      <name>Address1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PC_CreatePolicy_WC/PC_CreatePolicy')</defaultValue>
+      <description></description>
+      <id>2ea620dc-fb88-424f-93ae-6cd19fcdb69a</id>
+      <masked>false</masked>
+      <name>City</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PC_CreatePolicy_WC/PC_CreatePolicy')</defaultValue>
+      <description></description>
+      <id>3fecc9be-124e-42a7-9541-27fb67650cab</id>
+      <masked>false</masked>
+      <name>AddressType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PC_CreatePolicy_WC/PC_CreatePolicy')</defaultValue>
+      <description></description>
+      <id>f6ee1a49-504b-47c3-88d4-bb1187c3f29f</id>
+      <masked>false</masked>
+      <name>AgencyName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PC_CreatePolicy_WC/PC_CreatePolicy')</defaultValue>
+      <description></description>
+      <id>1859f388-e2d5-40fb-a1ca-788a2ae400cc</id>
+      <masked>false</masked>
+      <name>ProducerCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PC_CreatePolicy_WC/PC_CreatePolicy')</defaultValue>
+      <description></description>
+      <id>6dcdb721-6219-496f-8352-7924f52bb76d</id>
+      <masked>false</masked>
+      <name>ZipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PC_CreatePolicy_WC/PC_CreatePolicy')</defaultValue>
+      <description></description>
+      <id>cd917e59-bd39-4238-b063-bfd5399402c1</id>
+      <masked>false</masked>
+      <name>State</name>
+   </variable>
+</TestCaseEntity>

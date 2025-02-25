@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_Risk_Building_AddNewOccupancy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93e87367-adfc-4f23-b661-2b4c1544a00e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc2983ba-ada7-4246-b472-31d5cd97f1af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a9add77-8569-46c9-86ac-7cbdb0cf8013</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b9393e6-8d66-404f-b7dc-fa3d1c878b93</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2ec287e-9274-4e1d-bd52-7b1a563599b9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1634a122-ce84-4f85-9b35-508a25ed9e10</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Building and Personal Property Coverage Form'</defaultValue>
+      <description></description>
+      <id>cc2983ba-ada7-4246-b472-31d5cd97f1af</id>
+      <masked>false</masked>
+      <name>Occupancy_Coverage</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sprinklered Building, but Not Rated as Sprinklered'</defaultValue>
+      <description></description>
+      <id>3a9add77-8569-46c9-86ac-7cbdb0cf8013</id>
+      <masked>false</masked>
+      <name>Occupancy_SprinklerSystem</name>
+   </variable>
+   <variable>
+      <defaultValue>'Residential Apartments and Condominiums'</defaultValue>
+      <description></description>
+      <id>8b9393e6-8d66-404f-b7dc-fa3d1c878b93</id>
+      <masked>false</masked>
+      <name>Occupancy_OccupancyCategory</name>
+   </variable>
+   <variable>
+      <defaultValue>'200'</defaultValue>
+      <description></description>
+      <id>d2ec287e-9274-4e1d-bd52-7b1a563599b9</id>
+      <masked>false</masked>
+      <name>Occupancy_SquareFootage</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>1634a122-ce84-4f85-9b35-508a25ed9e10</id>
+      <masked>false</masked>
+      <name>BuildingNumber</name>
+   </variable>
+</TestCaseEntity>

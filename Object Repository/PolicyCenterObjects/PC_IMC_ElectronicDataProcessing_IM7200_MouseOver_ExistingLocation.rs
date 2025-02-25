@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_ElectronicDataProcessing_IM7200_MouseOver_ExistingLocation</name>
+   <tag></tag>
+   <elementGuidId>e52b0d3e-cf3f-4211-9fe0-24dba2aef864</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7ElectronicProcessingPopup-IM7ElectronicProcessingPanelSet-EDPClauseCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB-addExistingLocations']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00bbb526-ed0c-4171-9de1-3bd80333b3ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>239e2124-5b1a-4e6c-8ce0-46acf6b913c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Existing Location</value>
+      <webElementGuid>274fec3f-2106-4271-b8a9-f9b74f0810f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7ElectronicProcessingPopup-IM7ElectronicProcessingPanelSet-EDPClauseCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB-addExistingLocations&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>d8fdeca1-45ad-4c06-96f3-124c473f263e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IM7ElectronicProcessingPopup-IM7ElectronicProcessingPanelSet-EDPClauseCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB-addExistingLocations']/div/div[2]</value>
+      <webElementGuid>d002a1a5-1749-48bb-ab85-6eecef716994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EL'])[1]/following::div[1]</value>
+      <webElementGuid>836dd255-2eb3-49a4-8c98-083cfd8df70c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Location'])[1]/following::div[5]</value>
+      <webElementGuid>96148701-e52a-4f03-a2aa-a1f6b64c41fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re'])[2]/preceding::div[12]</value>
+      <webElementGuid>e36e53d2-8f28-414e-98ac-8d9b410af279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Existing Location']/parent::*</value>
+      <webElementGuid>b2162607-e4fd-46be-9ab4-b2ef60671651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div[3]/div[2]/div/div[2]</value>
+      <webElementGuid>d6865fb7-e234-45b6-beaf-f667fa6bdf25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Existing Location' or . = 'Existing Location')]</value>
+      <webElementGuid>9e3ae02c-f07e-4ef5-b91b-8a1afeab35d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

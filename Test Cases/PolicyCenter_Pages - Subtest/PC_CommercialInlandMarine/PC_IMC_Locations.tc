@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_Locations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1aab5a4c-2c1f-4a20-a6a5-5d9773751bb8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c499527-9358-4a1e-bfe4-60018263abc6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'0074'</defaultValue>
+      <description></description>
+      <id>8c499527-9358-4a1e-bfe4-60018263abc6</id>
+      <masked>false</masked>
+      <name>ClassCode</name>
+   </variable>
+</TestCaseEntity>

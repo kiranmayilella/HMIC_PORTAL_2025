@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_PolicyInfo_Dropdown_LegalEntity</name>
+   <tag></tag>
+   <elementGuidId>ee9f5993-3629-4baa-8a18-618a5797ffb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='Legal Entity']/..//select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;SubmissionWizard-LOBWizardStepGroup-SubmissionWizard_PolicyInfoScreen-SubmissionWizard_PolicyInfoDV-AccountInfoInputSet-OrganizationType&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>eeb9f2e0-0c62-4839-9d2e-b2915409efb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SubmissionWizard-LOBWizardStepGroup-SubmissionWizard_PolicyInfoScreen-SubmissionWizard_PolicyInfoDV-AccountInfoInputSet-OrganizationType</value>
+      <webElementGuid>a5517bc3-b1da-4ff2-bb7e-c9d5711c8d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7e19f149-02de-40a7-9122-94ef3df78ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-focus</value>
+      <webElementGuid>1934258f-0878-4c5c-85e1-34e569f5ed40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   &lt;none>IndividualJoint ventureLimited partnershipPartnershipTrustAssociationCorporationEstateHospitalInstitutionLtd Liability CompanyLtd Liability PartnershipMunicipalityNon-profitReligious organizationSchool   </value>
+      <webElementGuid>6448cd24-326a-45e4-b02f-2d629db646f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubmissionWizard-LOBWizardStepGroup-SubmissionWizard_PolicyInfoScreen-SubmissionWizard_PolicyInfoDV-AccountInfoInputSet-OrganizationType&quot;)/div[@class=&quot;gw-vw--value&quot;]/div[@class=&quot;gw-select-wrapper&quot;]/select[@class=&quot;gw-focus&quot;]</value>
+      <webElementGuid>bc6e8e46-3090-4e0f-8087-3599f324175f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal Entity'])[1]/following::select[1]</value>
+      <webElementGuid>d47871de-ee78-494f-b401-e7cd97803a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description Of Operations Of Other Name Insureds'])[1]/following::select[1]</value>
+      <webElementGuid>da8cd5e8-b26f-48d8-abfb-cdaaef327e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Number'])[1]/preceding::select[1]</value>
+      <webElementGuid>378f1fac-8c62-4ace-b59d-03ce3ced6efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Named Insureds'])[1]/preceding::select[1]</value>
+      <webElementGuid>4b4a2299-2740-42e2-8efd-98efb8b653f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>51993d24-1aee-402a-b127-759a9e12aaf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

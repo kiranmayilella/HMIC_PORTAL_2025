@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_ValuablePapersRecordsSchedule_Textbox_Limit_Schedule2</name>
+   <tag></tag>
+   <elementGuidId>ec87696a-35b2-469a-a6aa-138a7b59ff0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>[name='IM7ValPapRecPopup-IM7ValPapRecPanelSet-ScheduleInputSet-1-LimitCell1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='IM7ValPapRecPopup-IM7ValPapRecPanelSet-ScheduleInputSet-1-LimitCell1']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

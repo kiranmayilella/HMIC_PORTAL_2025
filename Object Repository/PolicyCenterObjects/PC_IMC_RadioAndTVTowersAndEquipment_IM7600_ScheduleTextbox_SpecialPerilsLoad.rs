@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_RadioAndTVTowersAndEquipment_IM7600_ScheduleTextbox_SpecialPerilsLoad</name>
+   <tag></tag>
+   <elementGuidId>4a1a9220-6d73-4efb-95af-a1c0b8c63377</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@name,'-0-SpclPerilsLoadCell')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//input[contains(@name,'-0-SpclPerilsLoadCell')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

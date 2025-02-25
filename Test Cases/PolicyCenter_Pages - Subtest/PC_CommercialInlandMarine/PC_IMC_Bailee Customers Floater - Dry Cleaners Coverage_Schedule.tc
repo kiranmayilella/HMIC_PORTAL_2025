@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_Bailee Customers Floater - Dry Cleaners Coverage_Schedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46083080-1180-4254-b3cc-7e4f50d8cb5b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d511e7f0-fb22-4b51-9aeb-60d87ad0a0b3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2971956-6f4c-490c-bcdb-bde7a3027b0c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0274756d-20cb-46e4-b75f-e31f2dab49ff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d488e977-24a1-4e63-bccb-f6e0504bed3b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Processing Location'</defaultValue>
+      <description></description>
+      <id>d511e7f0-fb22-4b51-9aeb-60d87ad0a0b3</id>
+      <masked>false</masked>
+      <name>ScheduleCoverageType</name>
+   </variable>
+   <variable>
+      <defaultValue>'25000'</defaultValue>
+      <description></description>
+      <id>c2971956-6f4c-490c-bcdb-bde7a3027b0c</id>
+      <masked>false</masked>
+      <name>ScheduleLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>'0.2'</defaultValue>
+      <description></description>
+      <id>0274756d-20cb-46e4-b75f-e31f2dab49ff</id>
+      <masked>false</masked>
+      <name>ScheduleSpecialPerilsLoad</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>d488e977-24a1-4e63-bccb-f6e0504bed3b</id>
+      <masked>false</masked>
+      <name>ScheduleIncludeEQ</name>
+   </variable>
+</TestCaseEntity>

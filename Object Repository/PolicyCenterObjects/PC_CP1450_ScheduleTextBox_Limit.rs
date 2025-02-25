@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_CP1450_ScheduleTextBox_Limit</name>
+   <tag></tag>
+   <elementGuidId>d56d8b83-a47a-4dee-82df-eec1fe2c984d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@name,'-0-1-UnvalidatedScheduledItemColumnInput-LobScheduledItemColumnInput-IntRangeValue')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='CP7BuildingPopup-CP7BuildingCV-LobAdditionalCoveragesPanelSet-LobClausesDV-0-LobCoverageInputSet-CovPatternInputGroup-LobScheduleInputSet-LobScheduledItemsLVInputSet-LobScheduledItemsLV-ScheduledItemsIterator-0-1-UnvalidatedScheduledItemColumnInput-LobScheduledItemColumnInput-IntRangeValue']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

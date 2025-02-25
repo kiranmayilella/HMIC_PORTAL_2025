@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Loc_WorkClassification_TypeList_0005</name>
+   <tag></tag>
+   <elementGuidId>17a3f97d-a564-4b36-99e0-55d0ec89abbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;react-select-19-option-1&quot;]/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.jut__LookupField__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e93ad128-12f6-46c8-bcd8-87459c4fe0cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jut__LookupField__title</value>
+      <webElementGuid>b4d5ef94-be33-412d-839a-5322fbd081dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0005 - Farm: Nursery Employees And Drivers</value>
+      <webElementGuid>c698ccd4-8fba-4cb2-9b47-65cff3f711f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-19-option-0&quot;)/div[@class=&quot;jut__LookupField__item&quot;]/div[@class=&quot;jut__LookupField__title&quot;]</value>
+      <webElementGuid>ef00f823-7e25-4a33-87c9-fe147719c1b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-19-option-0']/div/div</value>
+      <webElementGuid>f5a47ec4-07b5-49a9-9e26-ac65b7b2f40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next: State Coverages'])[2]/following::div[10]</value>
+      <webElementGuid>f0339acb-2730-46fc-b32e-6945a174a0e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::div[10]</value>
+      <webElementGuid>575efa65-9ee8-4b97-aa52-36907c1ae152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[1]/preceding::div[1]</value>
+      <webElementGuid>3725d813-f51f-4d80-ab05-9ecf6267786f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[2]/preceding::div[3]</value>
+      <webElementGuid>f1a4c5c5-3d1b-4df1-904b-e8bc89a16310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0005 - Farm: Nursery Employees And Drivers']/parent::*</value>
+      <webElementGuid>efe31439-3ab9-478f-af7d-eff700c3bebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div</value>
+      <webElementGuid>90538190-4b88-459a-9737-c0d89d93a9fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '0005 - Farm: Nursery Employees And Drivers' or . = '0005 - Farm: Nursery Employees And Drivers')]</value>
+      <webElementGuid>f79bed15-24e7-4194-8fc5-e8ae8ed9c302</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

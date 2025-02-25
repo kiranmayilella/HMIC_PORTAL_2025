@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_Valuable Papers and Records Coverage_Schedule1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a54a694c-f009-4822-8741-0591e7e37385</testCaseGuid>
+   <variable>
+      <defaultValue>'A'</defaultValue>
+      <description></description>
+      <id>91bb5758-4d2c-4aa1-8913-8fc86fab0a90</id>
+      <masked>false</masked>
+      <name>SectionOfBuilding</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e715ef6-199e-4497-980a-c3443e1d47fb</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'1000'</defaultValue>
+      <description></description>
+      <id>dd7f190a-e500-4fdc-8989-5f9714a1c03a</id>
+      <masked>false</masked>
+      <name>ScheduleLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>'UL Class A or SMNA 4 hours'</defaultValue>
+      <description></description>
+      <id>65a055b7-f1b7-409d-a599-a59137b569f1</id>
+      <masked>false</masked>
+      <name>ReceptacleType</name>
+   </variable>
+   <variable>
+      <defaultValue>'ABC'</defaultValue>
+      <description></description>
+      <id>6476583c-0af9-460c-8276-82505f226280</id>
+      <masked>false</masked>
+      <name>Container</name>
+   </variable>
+   <variable>
+      <defaultValue>'XYZ'</defaultValue>
+      <description></description>
+      <id>aeb3914b-4f8a-4576-beaa-ec975639ed25</id>
+      <masked>false</masked>
+      <name>NameOfManufacturer</name>
+   </variable>
+   <variable>
+      <defaultValue>'SMNA 4 hours'</defaultValue>
+      <description></description>
+      <id>1720e675-8a9b-4403-ae6b-a87bbcd503d6</id>
+      <masked>false</masked>
+      <name>ClassORHourOfLabel</name>
+   </variable>
+   <variable>
+      <defaultValue>'QWERTY'</defaultValue>
+      <description></description>
+      <id>80618fe7-48b9-47dc-a6e7-66751c283dc6</id>
+      <masked>false</masked>
+      <name>IssuerOfLabel</name>
+   </variable>
+</TestCaseEntity>

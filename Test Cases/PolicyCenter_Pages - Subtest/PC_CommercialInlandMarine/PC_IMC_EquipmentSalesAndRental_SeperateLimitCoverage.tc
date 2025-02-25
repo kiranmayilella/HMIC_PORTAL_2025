@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_EquipmentSalesAndRental_SeperateLimitCoverage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86becb15-ec93-40fd-8ef5-897202841a8c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7bf96335-acef-4634-bc86-f38225c5bb33</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70c9d428-24c5-44ec-9211-78cd4f8d30f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7bf96335-acef-4634-bc86-f38225c5bb33</id>
+      <masked>false</masked>
+      <name>ESR_SeperateLimitCov_PropertyInsideBuilding</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>70c9d428-24c5-44ec-9211-78cd4f8d30f8</id>
+      <masked>false</masked>
+      <name>ESR_SeperateLimitCov_PropertyOutsideBuilding</name>
+   </variable>
+</TestCaseEntity>

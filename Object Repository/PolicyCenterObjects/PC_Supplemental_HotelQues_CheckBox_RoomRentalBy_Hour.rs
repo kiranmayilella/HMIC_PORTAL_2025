@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Supplemental_HotelQues_CheckBox_RoomRentalBy_Hour</name>
+   <tag></tag>
+   <elementGuidId>30f1b32a-8f80-4c3c-bc90-92eb36de012a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(text(),'Hour')]/../../../../..//input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='SubmissionWizard-SupplementalScreen-GL7Supplenetal-GL7GenericSupplementalPanelSet-GenralInformation-QuestionSetLV-14-QuestionModalInput-BooleanCheckboxInput_NoPost']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

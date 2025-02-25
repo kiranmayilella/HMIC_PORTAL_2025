@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_catastrophe_limit</name>
+   <tag></tag>
+   <elementGuidId>1449baca-9832-48ce-aa69-09c84aca6cbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/input[@name=&quot;IM7ContractorsEquipmentPopup-IM7ContractorsEquipmentPanelSet-CEClauseCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-IM7CEComprehensiveCatsLimit&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

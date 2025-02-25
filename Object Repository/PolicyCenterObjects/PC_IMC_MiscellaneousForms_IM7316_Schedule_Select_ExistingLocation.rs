@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_MiscellaneousForms_IM7316_Schedule_Select_ExistingLocation</name>
+   <tag></tag>
+   <elementGuidId>4e6265c5-e92c-4cf5-998e-c578e7c015ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7MiscellaneousFormsPopup-IM7MiscellaneousFormsPanelSet-MiscFCovCovPatterns-CoverageCategoryInputSet-4-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB-addExistingLocations-0-UnassignedAccountLocation']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b3136c96-d2b1-4c12-a996-64b461436ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>8739a373-4994-43bd-840a-ba3470eb0e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1: 69 Washington Ave, Cicero, IN</value>
+      <webElementGuid>806a731f-73af-41b4-bb0a-31b823cc589f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7MiscellaneousFormsPopup-IM7MiscellaneousFormsPanelSet-MiscFCovCovPatterns-CoverageCategoryInputSet-4-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB-addExistingLocations-0-UnassignedAccountLocation&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>d073094d-8776-40bb-9807-700d64d808a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IM7MiscellaneousFormsPopup-IM7MiscellaneousFormsPanelSet-MiscFCovCovPatterns-CoverageCategoryInputSet-4-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB-addExistingLocations-0-UnassignedAccountLocation']/div/div[2]</value>
+      <webElementGuid>b1b81e89-c42b-4ecf-bb5f-57085b5aa1d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Existing Location'])[1]/following::div[10]</value>
+      <webElementGuid>8bc83616-9fd6-4a99-9d87-8894e4332e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EL'])[1]/following::div[11]</value>
+      <webElementGuid>c19bfb50-3156-42e3-b212-6fb731d95a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re'])[2]/preceding::div[2]</value>
+      <webElementGuid>bd315030-4f78-464a-8c85-79e0e5b28ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1: 69 Washington Ave, Cicero, IN']/parent::*</value>
+      <webElementGuid>85db1e75-44b5-44a7-a168-ac16c2a33d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[4]/div/div/div[2]</value>
+      <webElementGuid>327192db-b06a-491c-8f28-a4e83343850f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1: 69 Washington Ave, Cicero, IN' or . = '1: 69 Washington Ave, Cicero, IN')]</value>
+      <webElementGuid>8b62281c-ca8c-4603-bd37-ec6edbfc58c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

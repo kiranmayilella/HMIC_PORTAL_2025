@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_SearchSubmission</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7a7ca6c-10b4-4059-8891-71e7598f7945</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d86f6248-e0b6-4103-a815-02822a614cf1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.SubmissionNumber</defaultValue>
+      <description></description>
+      <id>d86f6248-e0b6-4103-a815-02822a614cf1</id>
+      <masked>false</masked>
+      <name>SubmissionNumber</name>
+   </variable>
+</TestCaseEntity>

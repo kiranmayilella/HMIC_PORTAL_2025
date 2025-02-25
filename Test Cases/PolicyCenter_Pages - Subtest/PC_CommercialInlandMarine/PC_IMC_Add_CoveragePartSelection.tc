@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_Add_CoveragePartSelection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e1c3a03-3f6f-487c-9adb-ebfb5a8cbd48</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>88bfd5fc-070d-411b-b0ba-ea32a86083ea</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Fine Arts Floater'</defaultValue>
+      <description></description>
+      <id>88bfd5fc-070d-411b-b0ba-ea32a86083ea</id>
+      <masked>false</masked>
+      <name>CoveragePartSelectionOption</name>
+   </variable>
+</TestCaseEntity>

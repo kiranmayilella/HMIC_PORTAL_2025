@@ -1,0 +1,498 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AgencyPortal_SmokeTest_WC,Chrome 115.0.0.0,,,2024-04-11 07:05:50,2024-04-11 07:55:44,49m - 53.714s,FAILED
+,,,,,,,
+Test Cases/Portal_WorkersCompensation/WC_SmokeTest_AllState/Portal_SmokeTest_IAState,Chrome 115.0.0.0,,,2024-04-11 07:05:51,2024-04-11 07:21:02,15m - 11.333s,FAILED
+"comment(""Portal Smoke Test"")",Chrome 115.0.0.0,,,2024-04-11 07:05:51,2024-04-11 07:05:51,0.084s,PASSED
+"callTestCase(findTestCase(""Portal_Pages/Portal_CommonScreens/Portal_Login""), [""Portal_Username"":Portal_Username, ""Portal_Password"":Portal_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:05:51,2024-04-11 07:07:39,1m - 47.536s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Tab_Quote""))",Chrome 115.0.0.0,,,2024-04-11 07:07:39,2024-04-11 07:08:07,28.257s,PASSED
+"comment(""User is able to Initiate the quote successfully"")",Chrome 115.0.0.0,,,2024-04-11 07:08:07,2024-04-11 07:08:07,0.005s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard""), ""New Business Dashboard"")",Chrome 115.0.0.0,,,2024-04-11 07:08:07,2024-04-11 07:08:37,30.263s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Title_StartANewBusiness""))",Chrome 115.0.0.0,,,2024-04-11 07:08:37,2024-04-11 07:09:08,30.237s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Dropdown_SelectLineOfBusiness""))",Chrome 115.0.0.0,,,2024-04-11 07:09:08,2024-04-11 07:09:38,30.250s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_LOB_TypeList_WorkersComp""))",Chrome 115.0.0.0,,,2024-04-11 07:09:38,2024-04-11 07:10:08,30.223s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_Next""))",Chrome 115.0.0.0,,,2024-04-11 07:10:08,2024-04-11 07:10:40,31.664s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_PreQual_Title_PreQualification""), ""Pre-Qualification"")",Chrome 115.0.0.0,,,2024-04-11 07:10:40,2024-04-11 07:10:42,2.254s,PASSED
+"comment(""Prequalification statement should be displayed."")",Chrome 115.0.0.0,,,2024-04-11 07:10:42,2024-04-11 07:10:42,0.005s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PreQual_CheckBox_RiskDoesNotHaveAny""))",Chrome 115.0.0.0,,,2024-04-11 07:10:42,2024-04-11 07:10:43,0.533s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PreQual_Button_Agree""))",Chrome 115.0.0.0,,,2024-04-11 07:10:43,2024-04-11 07:10:43,0.579s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_AccInfo_Header_AccInfo""), ""Step 1: Account Information"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:10:43,2024-04-11 07:10:55,11.781s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_AccInfo_Header_AccInfo""), ""Step 1: Account Information"")",Chrome 115.0.0.0,,,2024-04-11 07:10:55,2024-04-11 07:10:55,0.469s,PASSED
+"comment(""User successfully navigated to Account Information screen"")",Chrome 115.0.0.0,,,2024-04-11 07:10:55,2024-04-11 07:10:56,0.005s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Dropdown_SearchOrQuoteFor""))",Chrome 115.0.0.0,,,2024-04-11 07:10:56,2024-04-11 07:10:56,0.608s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_Individual""))",Chrome 115.0.0.0,,,2024-04-11 07:10:56,2024-04-11 07:10:57,0.664s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_FirstName""), ""Auto_FirstName"")",Chrome 115.0.0.0,,,2024-04-11 07:10:57,2024-04-11 07:10:58,1.134s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_LastName""), ""LastName"" + RandomStringUtils.randomAlphabetic(5))",Chrome 115.0.0.0,,,2024-04-11 07:10:58,2024-04-11 07:10:59,0.930s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_ZipCode""), ""52246"")",Chrome 115.0.0.0,,,2024-04-11 07:10:59,2024-04-11 07:11:00,0.878s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Button_CreateNewAcc""))",Chrome 115.0.0.0,,,2024-04-11 07:11:00,2024-04-11 07:11:00,0.540s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_AccInfo_SubTitle_AddNewAcc""), ""Add a New Account"")",Chrome 115.0.0.0,,,2024-04-11 07:11:00,2024-04-11 07:11:01,1.235s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:11:01,2024-04-11 07:11:02,0.684s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_Address""), ""919 Highway 1 W"")",Chrome 115.0.0.0,,,2024-04-11 07:11:02,2024-04-11 07:11:03,1.012s,PASSED
+"sendKeys(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_Address""), Keys.chord(SPACE))",Chrome 115.0.0.0,,,2024-04-11 07:11:03,2024-04-11 07:11:04,0.779s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_1stAddress""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:11:04,2024-04-11 07:11:05,0.798s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:11:05,2024-04-11 07:11:05,0.025s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""))",Chrome 115.0.0.0,,,2024-04-11 07:11:05,2024-04-11 07:11:06,0.726s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""))",Chrome 115.0.0.0,,,2024-04-11 07:11:06,2024-04-11 07:11:06,0.553s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode""))",Chrome 115.0.0.0,,,2024-04-11 07:11:06,2024-04-11 07:11:07,0.721s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode""))",Chrome 115.0.0.0,,,2024-04-11 07:11:07,2024-04-11 07:11:07,0.621s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Button_AddAccount""))",Chrome 115.0.0.0,,,2024-04-11 07:11:07,2024-04-11 07:11:08,0.641s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_StandardizeAddress_Button_Continue""))",Chrome 115.0.0.0,,,2024-04-11 07:11:08,2024-04-11 07:11:09,1.084s,PASSED
+"AccountNumber = getText(findTestObject(""Portal/Portal_NewAccountCreated_Label_AccountNum""))",Chrome 115.0.0.0,,,2024-04-11 07:11:09,2024-04-11 07:11:11,1.916s,PASSED
+"click(findTestObject(""Portal/Portal_NewAccountCreated_Button_Continue""))",Chrome 115.0.0.0,,,2024-04-11 07:11:11,2024-04-11 07:11:12,0.576s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolicyDetails_Dropdown_OrgType""))",Chrome 115.0.0.0,,,2024-04-11 07:11:12,2024-04-11 07:11:21,9.145s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolDetails_OrgType_TypeList_Individual""))",Chrome 115.0.0.0,,,2024-04-11 07:11:21,2024-04-11 07:11:21,0.609s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:11:21,2024-04-11 07:11:22,0.724s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:11:22,2024-04-11 07:11:23,0.560s,PASSED
+"sendKeys(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), Keys.chord(""123456789""))",Chrome 115.0.0.0,,,2024-04-11 07:11:23,2024-04-11 07:11:23,0.722s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolicyDetails_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:11:23,2024-04-11 07:11:24,0.636s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:11:24,2024-04-11 07:11:25,1.393s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextLoc""))",Chrome 115.0.0.0,,,2024-04-11 07:11:25,2024-04-11 07:11:26,0.522s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Loc_Header_Loc""), ""Step 3: Locations"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:11:26,2024-04-11 07:11:40,13.870s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Loc_Header_Loc""), ""Step 3: Locations"")",Chrome 115.0.0.0,,,2024-04-11 07:11:40,2024-04-11 07:11:40,0.492s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_MaxNumOfEmp""), ""51"")",Chrome 115.0.0.0,,,2024-04-11 07:11:40,2024-04-11 07:11:41,0.977s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_WorkClassification""))",Chrome 115.0.0.0,,,2024-04-11 07:11:41,2024-04-11 07:11:42,0.854s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_WorkClassification_TypeList_0005""))",Chrome 115.0.0.0,,,2024-04-11 07:11:42,2024-04-11 07:11:43,0.765s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_TotalPayroll""), ""5000"")",Chrome 115.0.0.0,,,2024-04-11 07:11:43,2024-04-11 07:11:44,1.014s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_FullTimeEmployees""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:11:44,2024-04-11 07:11:45,0.993s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_PartTimeEmployees""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:11:45,2024-04-11 07:11:46,0.977s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:11:46,2024-04-11 07:11:47,0.664s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:11:47,2024-04-11 07:11:48,0.963s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextStateCov""))",Chrome 115.0.0.0,,,2024-04-11 07:11:48,2024-04-11 07:11:48,0.509s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Cov_Header_Coverages""), ""Step 4: Coverages"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:11:48,2024-04-11 07:12:02,14.159s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Cov_Header_Coverages""), ""Step 4: Coverages"")",Chrome 115.0.0.0,,,2024-04-11 07:12:02,2024-04-11 07:12:03,0.495s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_Chkbox_ExpRating""))",Chrome 115.0.0.0,,,2024-04-11 07:12:03,2024-04-11 07:12:03,0.624s,PASSED
+"setText(findTestObject(""Portal/Portal_StateCov_input_ExpRating""), ""3.22"")",Chrome 115.0.0.0,,,2024-04-11 07:12:03,2024-04-11 07:12:06,2.886s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_StateCov_Button_NextLineCov""))",Chrome 115.0.0.0,,,2024-04-11 07:12:06,2024-04-11 07:12:07,0.619s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_LineCov_button_NextSupplementalQues""))",Chrome 115.0.0.0,,,2024-04-11 07:12:07,2024-04-11 07:12:09,1.949s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Supplemental_CheckBox_IhaveReviewed""))",Chrome 115.0.0.0,,,2024-04-11 07:12:09,2024-04-11 07:12:11,1.959s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:12:11,2024-04-11 07:12:13,2.077s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextQuote""))",Chrome 115.0.0.0,,,2024-04-11 07:12:13,2024-04-11 07:12:13,0.459s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Quote_Header_Quote""), ""Step 6: Quote"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:12:13,2024-04-11 07:12:44,31.203s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_Quote""), ""Step 6: Quote"")",Chrome 115.0.0.0,,,2024-04-11 07:12:44,2024-04-11 07:12:45,0.335s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Portal/Portal_Quote_Label_SubmissionNum""), 30)",Chrome 115.0.0.0,,,2024-04-11 07:12:45,2024-04-11 07:12:45,0.414s,PASSED
+"SubmissionNumber = getText(findTestObject(""Object Repository/Portal/Portal_Quote_Label_SubmissionNum""))",Chrome 115.0.0.0,,,2024-04-11 07:12:45,2024-04-11 07:12:46,0.395s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:12:46,2024-04-11 07:12:47,1.503s,PASSED
+"click(findTestObject(""Portal/Portal_Quote_Button_NextAdditionalInfo""))",Chrome 115.0.0.0,,,2024-04-11 07:12:47,2024-04-11 07:12:48,0.455s,PASSED
+"waitForElementHasAttribute(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 7: Additional Info"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:12:48,2024-04-11 07:13:02,14.349s,PASSED
+"verifyElementText(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 7: Additional Info"")",Chrome 115.0.0.0,,,2024-04-11 07:13:02,2024-04-11 07:13:02,0.486s,PASSED
+"setText(findTestObject(""Portal/Portal_AddInfo_TextArea_DescriptionOfOp""), ""Individual"")",Chrome 115.0.0.0,,,2024-04-11 07:13:02,2024-04-11 07:13:04,1.100s,PASSED
+"setText(findTestObject(""Portal/Portal_AccAndInsCont_TextBox_FirstName""), ""AccAndIns_FirstName"")",Chrome 115.0.0.0,,,2024-04-11 07:13:04,2024-04-11 07:13:05,1.038s,PASSED
+"setText(findTestObject(""Portal/Portal_AccAndInsCont_TextBox_LastName""), ""LastName"" + RandomStringUtils.randomAlphabetic(5))",Chrome 115.0.0.0,,,2024-04-11 07:13:05,2024-04-11 07:13:06,0.963s,PASSED
+"sendKeys(findTestObject(""Portal/Portal_AccAndIns_TextBox_PhoneNum""), Keys.chord(""8567123411""))",Chrome 115.0.0.0,,,2024-04-11 07:13:06,2024-04-11 07:13:06,0.518s,PASSED
+"click(findTestObject(""Portal/Portal_Common_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:13:06,2024-04-11 07:13:07,0.612s,PASSED
+"setText(findTestObject(""Portal/Portal_AccInfo_TextBox_FirstName""), ""Test"")",Chrome 115.0.0.0,,,2024-04-11 07:13:07,2024-04-11 07:13:08,1.012s,PASSED
+"setText(findTestObject(""Portal/Portal_AccInfo_TextBox_LastName""), ""Person"")",Chrome 115.0.0.0,,,2024-04-11 07:13:08,2024-04-11 07:13:09,0.952s,PASSED
+"setText(findTestObject(""Portal/Portal_FirstCall_TextBox_EmailAddress""), ""ssomasundaram@hastingsmutual.com"")",Chrome 115.0.0.0,,,2024-04-11 07:13:09,2024-04-11 07:13:10,1.163s,PASSED
+"setText(findTestObject(""Portal/Portal_AdditionalInfo_input_IA_BureauID""), ""756787655"")",Chrome 115.0.0.0,,,2024-04-11 07:13:10,2024-04-11 07:13:11,1.162s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:13:11,2024-04-11 07:13:13,2.428s,PASSED
+"click(findTestObject(""Portal/Portal_Common_Button_NextReview""))",Chrome 115.0.0.0,,,2024-04-11 07:13:13,2024-04-11 07:13:14,0.537s,PASSED
+"waitForElementHasAttribute(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 8: Review"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:13:14,2024-04-11 07:13:34,20.595s,PASSED
+"verifyElementText(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 8: Review"")",Chrome 115.0.0.0,,,2024-04-11 07:13:34,2024-04-11 07:13:35,0.383s,PASSED
+"comment(""User should be able to quote the submission in Portal"")",Chrome 115.0.0.0,,,2024-04-11 07:13:35,2024-04-11 07:13:35,0.004s,PASSED
+SubmissionNumber = SubmissionNumber,Chrome 115.0.0.0,,,2024-04-11 07:13:35,2024-04-11 07:13:35,0.001s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:13:35,2024-04-11 07:13:37,1.811s,PASSED
+"comment(""Login to PC and approve UW issues"")",Chrome 115.0.0.0,,,2024-04-11 07:13:37,2024-04-11 07:13:37,0.003s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_Login""), [""PC_Username"":PC_Username, ""PC_Password"":PC_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:13:37,2024-04-11 07:14:26,49.793s,PASSED
+"SubmissionNumber = SubmissionNumber.replace(""Quote No. "", """")",Chrome 115.0.0.0,,,2024-04-11 07:14:26,2024-04-11 07:14:26,0.001s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_SearchSubmission""), [""SubmissionNumber"":SubmissionNumber], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:14:26,2024-04-11 07:14:29,2.497s,PASSED
+"click(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_Common_LeftPanel_RiskAnalysis""))",Chrome 115.0.0.0,,,2024-04-11 07:14:29,2024-04-11 07:14:31,1.572s,PASSED
+"verifyElementText(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title""), ""Risk Analysis"")",Chrome 115.0.0.0,,,2024-04-11 07:14:31,2024-04-11 07:14:32,1.211s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_RiskAnalysisScreen_ApproveUWIssues""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:14:32,2024-04-11 07:14:46,14.736s,PASSED
+"click(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_Common_Button_ReleaseLock""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:14:46,2024-04-11 07:15:20,33.555s,PASSED
+"selectOptionByLabel(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_UWActivity_Dropdown_AssignTo""), ""Test Processor3 (Renewal Com Proc)"", false, OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:15:20,2024-04-11 07:15:54,33.616s,PASSED
+"click(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_UWActivity_Button_Release""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:15:54,2024-04-11 07:16:27,33.510s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:16:27,2024-04-11 07:16:28,0.613s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_LogOut""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:16:28,2024-04-11 07:16:30,2.025s,PASSED
+"callTestCase(findTestCase(""Portal_Pages/Portal_CommonScreens/Portal_Login""), [""Portal_Username"":Portal_Username, ""Portal_Password"":Portal_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:16:30,2024-04-11 07:17:30,59.987s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Tab_Quote""))",Chrome 115.0.0.0,,,2024-04-11 07:17:30,2024-04-11 07:17:41,11.340s,PASSED
+"comment(""User should able to search the quote in Portal"")",Chrome 115.0.0.0,,,2024-04-11 07:17:41,2024-04-11 07:17:41,0.003s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard""), ""New Business Dashboard"")",Chrome 115.0.0.0,,,2024-04-11 07:17:41,2024-04-11 07:18:11,30.233s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Quote_TextBox_SearchFor""), SubmissionNumber)",Chrome 115.0.0.0,,,2024-04-11 07:18:11,2024-04-11 07:19:12,1m - 0.320s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:19:12,2024-04-11 07:19:12,0.016s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Button_Search""))",Chrome 115.0.0.0,,,2024-04-11 07:19:12,2024-04-11 07:19:42,30.221s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:19:42,2024-04-11 07:19:42,0.032s,PASSED
+"click(findTestObject(""Portal/Portal_Quote_Table_QuoteNum"", [""SubmissionNumber"":SubmissionNumber]))",Chrome 115.0.0.0,,,2024-04-11 07:19:42,2024-04-11 07:21:02,1m - 19.944s,FAILED
+,,,,,,,
+Test Cases/Portal_WorkersCompensation/WC_SmokeTest_AllState/Portal_SmokeTest_ILState,Chrome 115.0.0.0,,,2024-04-11 07:21:02,2024-04-11 07:25:38,4m - 36.046s,FAILED
+"comment(""Portal Smoke Test"")",Chrome 115.0.0.0,,,2024-04-11 07:21:03,2024-04-11 07:21:03,0.001s,PASSED
+"callTestCase(findTestCase(""Portal_Pages/Portal_CommonScreens/Portal_Login""), [""Portal_Username"":Portal_Username, ""Portal_Password"":Portal_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:21:03,2024-04-11 07:22:01,58.531s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Tab_Quote""))",Chrome 115.0.0.0,,,2024-04-11 07:22:01,2024-04-11 07:22:08,6.928s,PASSED
+"comment(""User is able to Initiate the quote successfully"")",Chrome 115.0.0.0,,,2024-04-11 07:22:08,2024-04-11 07:22:08,0.001s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard""), ""New Business Dashboard"")",Chrome 115.0.0.0,,,2024-04-11 07:22:08,2024-04-11 07:22:38,30.172s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Title_StartANewBusiness""))",Chrome 115.0.0.0,,,2024-04-11 07:22:38,2024-04-11 07:23:04,25.729s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Dropdown_SelectLineOfBusiness""))",Chrome 115.0.0.0,,,2024-04-11 07:23:04,2024-04-11 07:23:05,0.900s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_LOB_TypeList_WorkersComp""))",Chrome 115.0.0.0,,,2024-04-11 07:23:05,2024-04-11 07:23:06,0.545s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_Next""))",Chrome 115.0.0.0,,,2024-04-11 07:23:06,2024-04-11 07:23:07,1.646s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_PreQual_Title_PreQualification""), ""Pre-Qualification"")",Chrome 115.0.0.0,,,2024-04-11 07:23:07,2024-04-11 07:23:09,1.715s,PASSED
+"comment(""Prequalification statement should be displayed."")",Chrome 115.0.0.0,,,2024-04-11 07:23:09,2024-04-11 07:23:09,0.002s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PreQual_CheckBox_RiskDoesNotHaveAny""))",Chrome 115.0.0.0,,,2024-04-11 07:23:09,2024-04-11 07:23:09,0.477s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PreQual_Button_Agree""))",Chrome 115.0.0.0,,,2024-04-11 07:23:09,2024-04-11 07:23:10,0.652s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_AccInfo_Header_AccInfo""), ""Step 1: Account Information"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:23:10,2024-04-11 07:23:21,11.099s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_AccInfo_Header_AccInfo""), ""Step 1: Account Information"")",Chrome 115.0.0.0,,,2024-04-11 07:23:21,2024-04-11 07:23:22,0.450s,PASSED
+"comment(""User successfully navigated to Account Information screen"")",Chrome 115.0.0.0,,,2024-04-11 07:23:22,2024-04-11 07:23:22,0.001s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Dropdown_SearchOrQuoteFor""))",Chrome 115.0.0.0,,,2024-04-11 07:23:22,2024-04-11 07:23:22,0.447s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_Individual""))",Chrome 115.0.0.0,,,2024-04-11 07:23:22,2024-04-11 07:23:23,0.569s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_FirstName""), ""Auto_FirstName"")",Chrome 115.0.0.0,,,2024-04-11 07:23:23,2024-04-11 07:23:24,1.105s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_LastName""), ""LastName"" + RandomStringUtils.randomAlphabetic(5))",Chrome 115.0.0.0,,,2024-04-11 07:23:24,2024-04-11 07:23:25,0.923s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_ZipCode""), ""60614"")",Chrome 115.0.0.0,,,2024-04-11 07:23:25,2024-04-11 07:23:26,0.976s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Button_CreateNewAcc""))",Chrome 115.0.0.0,,,2024-04-11 07:23:26,2024-04-11 07:23:26,0.575s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_AccInfo_SubTitle_AddNewAcc""), ""Add a New Account"")",Chrome 115.0.0.0,,,2024-04-11 07:23:26,2024-04-11 07:23:27,0.972s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:23:27,2024-04-11 07:23:28,0.609s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_Address""), ""10850 Lincoln Trail"")",Chrome 115.0.0.0,,,2024-04-11 07:23:28,2024-04-11 07:23:29,0.955s,PASSED
+"sendKeys(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_Address""), Keys.chord(SPACE))",Chrome 115.0.0.0,,,2024-04-11 07:23:29,2024-04-11 07:23:30,0.837s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_1stAddress""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:23:30,2024-04-11 07:23:30,0.717s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:23:30,2024-04-11 07:23:30,0.037s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""))",Chrome 115.0.0.0,,,2024-04-11 07:23:30,2024-04-11 07:23:31,0.877s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""))",Chrome 115.0.0.0,,,2024-04-11 07:23:31,2024-04-11 07:23:32,0.561s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode""))",Chrome 115.0.0.0,,,2024-04-11 07:23:32,2024-04-11 07:23:33,0.702s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode""))",Chrome 115.0.0.0,,,2024-04-11 07:23:33,2024-04-11 07:23:33,0.553s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Button_AddAccount""))",Chrome 115.0.0.0,,,2024-04-11 07:23:33,2024-04-11 07:23:34,0.682s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_StandardizeAddress_Button_Continue""))",Chrome 115.0.0.0,,,2024-04-11 07:23:34,2024-04-11 07:23:35,0.911s,PASSED
+"AccountNumber = getText(findTestObject(""Portal/Portal_NewAccountCreated_Label_AccountNum""))",Chrome 115.0.0.0,,,2024-04-11 07:23:35,2024-04-11 07:23:36,1.232s,PASSED
+"click(findTestObject(""Portal/Portal_NewAccountCreated_Button_Continue""))",Chrome 115.0.0.0,,,2024-04-11 07:23:36,2024-04-11 07:23:37,0.584s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolicyDetails_Dropdown_OrgType""))",Chrome 115.0.0.0,,,2024-04-11 07:23:37,2024-04-11 07:23:40,3.551s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolDetails_OrgType_TypeList_Individual""))",Chrome 115.0.0.0,,,2024-04-11 07:23:40,2024-04-11 07:23:41,0.642s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:23:41,2024-04-11 07:23:41,0.749s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:23:41,2024-04-11 07:23:42,0.584s,PASSED
+"sendKeys(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), Keys.chord(""123456789""))",Chrome 115.0.0.0,,,2024-04-11 07:23:42,2024-04-11 07:23:43,0.665s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolicyDetails_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:23:43,2024-04-11 07:23:43,0.603s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:23:43,2024-04-11 07:23:45,1.494s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextLoc""))",Chrome 115.0.0.0,,,2024-04-11 07:23:45,2024-04-11 07:23:45,0.499s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Loc_Header_Loc""), ""Step 3: Locations"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:23:45,2024-04-11 07:23:58,12.796s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Loc_Header_Loc""), ""Step 3: Locations"")",Chrome 115.0.0.0,,,2024-04-11 07:23:58,2024-04-11 07:23:59,0.469s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_MaxNumOfEmp""), ""51"")",Chrome 115.0.0.0,,,2024-04-11 07:23:59,2024-04-11 07:24:00,0.984s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_WorkClassification""))",Chrome 115.0.0.0,,,2024-04-11 07:24:00,2024-04-11 07:24:00,0.827s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_WorkClassification_TypeList_0005""))",Chrome 115.0.0.0,,,2024-04-11 07:24:00,2024-04-11 07:24:01,0.765s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_TotalPayroll""), ""5000"")",Chrome 115.0.0.0,,,2024-04-11 07:24:01,2024-04-11 07:24:02,1.022s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_FullTimeEmployees""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:24:02,2024-04-11 07:24:03,1.038s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_PartTimeEmployees""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:24:03,2024-04-11 07:24:04,1.030s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:24:04,2024-04-11 07:24:05,0.693s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:24:05,2024-04-11 07:24:06,0.923s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextStateCov""))",Chrome 115.0.0.0,,,2024-04-11 07:24:06,2024-04-11 07:24:06,0.558s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Cov_Header_Coverages""), ""Step 4: Coverages"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:24:06,2024-04-11 07:24:19,12.155s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Cov_Header_Coverages""), ""Step 4: Coverages"")",Chrome 115.0.0.0,,,2024-04-11 07:24:19,2024-04-11 07:24:19,0.478s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_Chkbox_ExpRating""))",Chrome 115.0.0.0,,,2024-04-11 07:24:19,2024-04-11 07:24:20,0.617s,PASSED
+"setText(findTestObject(""Portal/Portal_StateCov_input_ExpRating""), ""3.22"")",Chrome 115.0.0.0,,,2024-04-11 07:24:20,2024-04-11 07:24:22,2.236s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_Checkbox_ContractingClassAdj""))",Chrome 115.0.0.0,,,2024-04-11 07:24:22,2024-04-11 07:24:23,0.621s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_TypeList_ContractingClassAdj""))",Chrome 115.0.0.0,,,2024-04-11 07:24:23,2024-04-11 07:24:24,1.627s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_Select_Credit_5_ContractingClassAdj""))",Chrome 115.0.0.0,,,2024-04-11 07:24:24,2024-04-11 07:24:25,0.638s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_Checkbox_BenefitsDeductibleEnd""))",Chrome 115.0.0.0,,,2024-04-11 07:24:25,2024-04-11 07:24:26,1.669s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_StateCov_Button_NextLineCov""))",Chrome 115.0.0.0,,,2024-04-11 07:24:26,2024-04-11 07:24:30,3.612s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_LineCov_button_NextSupplementalQues""))",Chrome 115.0.0.0,,,2024-04-11 07:24:30,2024-04-11 07:24:32,1.950s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Supplemental_CheckBox_IhaveReviewed""))",Chrome 115.0.0.0,,,2024-04-11 07:24:32,2024-04-11 07:24:34,1.888s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:24:34,2024-04-11 07:24:36,2.265s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextQuote""))",Chrome 115.0.0.0,,,2024-04-11 07:24:36,2024-04-11 07:24:37,0.599s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Quote_Header_Quote""), ""Step 6: Quote"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:24:37,2024-04-11 07:25:17,40.502s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_Quote""), ""Step 6: Quote"")",Chrome 115.0.0.0,,,2024-04-11 07:25:17,2024-04-11 07:25:38,20.720s,FAILED
+,,,,,,,
+Test Cases/Portal_WorkersCompensation/WC_SmokeTest_AllState/Portal_SmokeTest_WIState,Chrome 115.0.0.0,,,2024-04-11 07:25:38,2024-04-11 07:36:39,11m - 0.781s,FAILED
+"comment(""Portal Smoke Test"")",Chrome 115.0.0.0,,,2024-04-11 07:25:39,2024-04-11 07:25:39,0.003s,PASSED
+"callTestCase(findTestCase(""Portal_Pages/Portal_CommonScreens/Portal_Login""), [""Portal_Username"":Portal_Username, ""Portal_Password"":Portal_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:25:39,2024-04-11 07:26:41,1m - 1.784s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Tab_Quote""))",Chrome 115.0.0.0,,,2024-04-11 07:26:41,2024-04-11 07:26:49,8.821s,PASSED
+"comment(""User is able to Initiate the quote successfully"")",Chrome 115.0.0.0,,,2024-04-11 07:26:49,2024-04-11 07:26:49,0.003s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard""), ""New Business Dashboard"")",Chrome 115.0.0.0,,,2024-04-11 07:26:49,2024-04-11 07:27:20,30.252s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Title_StartANewBusiness""))",Chrome 115.0.0.0,,,2024-04-11 07:27:20,2024-04-11 07:27:50,30.207s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Dropdown_SelectLineOfBusiness""))",Chrome 115.0.0.0,,,2024-04-11 07:27:50,2024-04-11 07:27:51,1.450s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_LOB_TypeList_WorkersComp""))",Chrome 115.0.0.0,,,2024-04-11 07:27:51,2024-04-11 07:27:52,0.529s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_Next""))",Chrome 115.0.0.0,,,2024-04-11 07:27:52,2024-04-11 07:27:54,1.798s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_PreQual_Title_PreQualification""), ""Pre-Qualification"")",Chrome 115.0.0.0,,,2024-04-11 07:27:54,2024-04-11 07:27:56,1.955s,PASSED
+"comment(""Prequalification statement should be displayed."")",Chrome 115.0.0.0,,,2024-04-11 07:27:56,2024-04-11 07:27:56,0.002s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PreQual_CheckBox_RiskDoesNotHaveAny""))",Chrome 115.0.0.0,,,2024-04-11 07:27:56,2024-04-11 07:27:56,0.506s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PreQual_Button_Agree""))",Chrome 115.0.0.0,,,2024-04-11 07:27:56,2024-04-11 07:27:57,0.657s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_AccInfo_Header_AccInfo""), ""Step 1: Account Information"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:27:57,2024-04-11 07:28:08,11.037s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_AccInfo_Header_AccInfo""), ""Step 1: Account Information"")",Chrome 115.0.0.0,,,2024-04-11 07:28:08,2024-04-11 07:28:08,0.458s,PASSED
+"comment(""User successfully navigated to Account Information screen"")",Chrome 115.0.0.0,,,2024-04-11 07:28:08,2024-04-11 07:28:08,0.003s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Dropdown_SearchOrQuoteFor""))",Chrome 115.0.0.0,,,2024-04-11 07:28:08,2024-04-11 07:28:09,0.584s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_Individual""))",Chrome 115.0.0.0,,,2024-04-11 07:28:09,2024-04-11 07:28:09,0.599s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_FirstName""), ""Auto_FirstName"")",Chrome 115.0.0.0,,,2024-04-11 07:28:09,2024-04-11 07:28:11,1.048s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_LastName""), ""LastName"" + RandomStringUtils.randomAlphabetic(5))",Chrome 115.0.0.0,,,2024-04-11 07:28:11,2024-04-11 07:28:11,0.932s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_ZipCode""), ""54913"")",Chrome 115.0.0.0,,,2024-04-11 07:28:11,2024-04-11 07:28:12,0.917s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Button_CreateNewAcc""))",Chrome 115.0.0.0,,,2024-04-11 07:28:12,2024-04-11 07:28:13,0.702s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_AccInfo_SubTitle_AddNewAcc""), ""Add a New Account"")",Chrome 115.0.0.0,,,2024-04-11 07:28:13,2024-04-11 07:28:14,0.989s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:28:14,2024-04-11 07:28:15,0.661s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_Address""), ""955 N Mutual Way"")",Chrome 115.0.0.0,,,2024-04-11 07:28:15,2024-04-11 07:28:16,0.929s,PASSED
+"sendKeys(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_Address""), Keys.chord(SPACE))",Chrome 115.0.0.0,,,2024-04-11 07:28:16,2024-04-11 07:28:16,0.837s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_1stAddress""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:28:16,2024-04-11 07:28:17,0.702s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:28:17,2024-04-11 07:28:17,0.028s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""))",Chrome 115.0.0.0,,,2024-04-11 07:28:17,2024-04-11 07:28:18,0.852s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""))",Chrome 115.0.0.0,,,2024-04-11 07:28:18,2024-04-11 07:28:19,0.561s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode""))",Chrome 115.0.0.0,,,2024-04-11 07:28:19,2024-04-11 07:28:19,0.668s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode""))",Chrome 115.0.0.0,,,2024-04-11 07:28:19,2024-04-11 07:28:20,0.549s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Button_AddAccount""))",Chrome 115.0.0.0,,,2024-04-11 07:28:20,2024-04-11 07:28:21,0.702s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_StandardizeAddress_Button_Continue""))",Chrome 115.0.0.0,,,2024-04-11 07:28:21,2024-04-11 07:28:21,0.906s,PASSED
+"AccountNumber = getText(findTestObject(""Portal/Portal_NewAccountCreated_Label_AccountNum""))",Chrome 115.0.0.0,,,2024-04-11 07:28:21,2024-04-11 07:28:23,1.306s,PASSED
+"click(findTestObject(""Portal/Portal_NewAccountCreated_Button_Continue""))",Chrome 115.0.0.0,,,2024-04-11 07:28:23,2024-04-11 07:28:23,0.613s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolicyDetails_Dropdown_OrgType""))",Chrome 115.0.0.0,,,2024-04-11 07:28:23,2024-04-11 07:28:27,3.339s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolDetails_OrgType_TypeList_Individual""))",Chrome 115.0.0.0,,,2024-04-11 07:28:27,2024-04-11 07:28:27,0.651s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:28:27,2024-04-11 07:28:28,0.723s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:28:28,2024-04-11 07:28:29,0.593s,PASSED
+"sendKeys(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), Keys.chord(""123456789""))",Chrome 115.0.0.0,,,2024-04-11 07:28:29,2024-04-11 07:28:29,0.700s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolicyDetails_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:28:29,2024-04-11 07:28:30,0.616s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:28:30,2024-04-11 07:28:31,1.481s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextLoc""))",Chrome 115.0.0.0,,,2024-04-11 07:28:31,2024-04-11 07:28:32,0.547s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Loc_Header_Loc""), ""Step 3: Locations"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:28:32,2024-04-11 07:28:45,13.403s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Loc_Header_Loc""), ""Step 3: Locations"")",Chrome 115.0.0.0,,,2024-04-11 07:28:45,2024-04-11 07:28:46,0.467s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_MaxNumOfEmp""), ""51"")",Chrome 115.0.0.0,,,2024-04-11 07:28:46,2024-04-11 07:28:47,0.938s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_WorkClassification""))",Chrome 115.0.0.0,,,2024-04-11 07:28:47,2024-04-11 07:28:48,1.142s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_WorkClassification_TypeList_0005""))",Chrome 115.0.0.0,,,2024-04-11 07:28:48,2024-04-11 07:28:49,0.804s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_TotalPayroll""), ""5000"")",Chrome 115.0.0.0,,,2024-04-11 07:28:49,2024-04-11 07:28:50,1.028s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_FullTimeEmployees""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:28:50,2024-04-11 07:28:51,1.023s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_PartTimeEmployees""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:28:51,2024-04-11 07:28:52,1.079s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:28:52,2024-04-11 07:28:53,0.672s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:28:53,2024-04-11 07:28:54,0.991s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextStateCov""))",Chrome 115.0.0.0,,,2024-04-11 07:28:54,2024-04-11 07:28:54,0.532s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Cov_Header_Coverages""), ""Step 4: Coverages"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:28:54,2024-04-11 07:29:07,12.783s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Cov_Header_Coverages""), ""Step 4: Coverages"")",Chrome 115.0.0.0,,,2024-04-11 07:29:07,2024-04-11 07:29:07,0.466s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_Chkbox_ExpRating""))",Chrome 115.0.0.0,,,2024-04-11 07:29:07,2024-04-11 07:29:08,0.571s,PASSED
+"setText(findTestObject(""Portal/Portal_StateCov_input_ExpRating""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:29:08,2024-04-11 07:29:10,2.509s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_Checkbox_ContractingClassAdj""))",Chrome 115.0.0.0,,,2024-04-11 07:29:10,2024-04-11 07:29:11,0.715s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_TypeList_ContractingClassAdj""))",Chrome 115.0.0.0,,,2024-04-11 07:29:11,2024-04-11 07:29:13,1.736s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_Select_Credit_5_ContractingClassAdj""))",Chrome 115.0.0.0,,,2024-04-11 07:29:13,2024-04-11 07:29:13,0.615s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_StateCov_Button_NextLineCov""))",Chrome 115.0.0.0,,,2024-04-11 07:29:13,2024-04-11 07:29:15,1.569s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_LineCov_button_NextSupplementalQues""))",Chrome 115.0.0.0,,,2024-04-11 07:29:15,2024-04-11 07:29:17,2.052s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Supplemental_CheckBox_IhaveReviewed""))",Chrome 115.0.0.0,,,2024-04-11 07:29:17,2024-04-11 07:29:19,1.929s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:29:19,2024-04-11 07:29:22,2.637s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextQuote""))",Chrome 115.0.0.0,,,2024-04-11 07:29:22,2024-04-11 07:29:22,0.508s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Quote_Header_Quote""), ""Step 6: Quote"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:29:22,2024-04-11 07:29:42,19.309s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_Quote""), ""Step 6: Quote"")",Chrome 115.0.0.0,,,2024-04-11 07:29:42,2024-04-11 07:29:42,0.478s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Portal/Portal_Quote_Label_SubmissionNum""), 30)",Chrome 115.0.0.0,,,2024-04-11 07:29:42,2024-04-11 07:29:42,0.484s,PASSED
+"SubmissionNumber = getText(findTestObject(""Object Repository/Portal/Portal_Quote_Label_SubmissionNum""))",Chrome 115.0.0.0,,,2024-04-11 07:29:42,2024-04-11 07:29:43,0.438s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:29:43,2024-04-11 07:29:45,1.820s,PASSED
+"click(findTestObject(""Portal/Portal_Quote_Button_NextAdditionalInfo""))",Chrome 115.0.0.0,,,2024-04-11 07:29:45,2024-04-11 07:29:45,0.519s,PASSED
+"waitForElementHasAttribute(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 7: Additional Info"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:29:45,2024-04-11 07:29:59,14.082s,PASSED
+"verifyElementText(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 7: Additional Info"")",Chrome 115.0.0.0,,,2024-04-11 07:29:59,2024-04-11 07:30:00,0.488s,PASSED
+"setText(findTestObject(""Portal/Portal_AddInfo_TextArea_DescriptionOfOp""), ""Individual"")",Chrome 115.0.0.0,,,2024-04-11 07:30:00,2024-04-11 07:30:01,0.957s,PASSED
+"setText(findTestObject(""Portal/Portal_AccAndInsCont_TextBox_FirstName""), ""AccAndIns_FirstName"")",Chrome 115.0.0.0,,,2024-04-11 07:30:01,2024-04-11 07:30:02,1.148s,PASSED
+"setText(findTestObject(""Portal/Portal_AccAndInsCont_TextBox_LastName""), ""LastName"" + RandomStringUtils.randomAlphabetic(5))",Chrome 115.0.0.0,,,2024-04-11 07:30:02,2024-04-11 07:30:03,1.011s,PASSED
+"sendKeys(findTestObject(""Portal/Portal_AccAndIns_TextBox_PhoneNum""), Keys.chord(""8567123411""))",Chrome 115.0.0.0,,,2024-04-11 07:30:03,2024-04-11 07:30:04,0.594s,PASSED
+"click(findTestObject(""Portal/Portal_Common_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:30:04,2024-04-11 07:30:04,0.713s,PASSED
+"setText(findTestObject(""Portal/Portal_AccInfo_TextBox_FirstName""), ""Test"")",Chrome 115.0.0.0,,,2024-04-11 07:30:04,2024-04-11 07:30:05,1.022s,PASSED
+"setText(findTestObject(""Portal/Portal_AccInfo_TextBox_LastName""), ""Person"")",Chrome 115.0.0.0,,,2024-04-11 07:30:05,2024-04-11 07:30:06,0.911s,PASSED
+"setText(findTestObject(""Portal/Portal_FirstCall_TextBox_EmailAddress""), ""ssomasundaram@hastingsmutual.com"")",Chrome 115.0.0.0,,,2024-04-11 07:30:06,2024-04-11 07:30:07,1.129s,PASSED
+"setText(findTestObject(""Portal/Portal_AdditionalInfo_input_WI_BureauID""), ""912275645"")",Chrome 115.0.0.0,,,2024-04-11 07:30:07,2024-04-11 07:30:08,1.078s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:30:08,2024-04-11 07:30:11,2.747s,PASSED
+"click(findTestObject(""Portal/Portal_Common_Button_NextReview""))",Chrome 115.0.0.0,,,2024-04-11 07:30:11,2024-04-11 07:30:12,0.572s,PASSED
+"waitForElementHasAttribute(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 8: Review"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:30:12,2024-04-11 07:30:30,17.958s,PASSED
+"verifyElementText(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 8: Review"")",Chrome 115.0.0.0,,,2024-04-11 07:30:30,2024-04-11 07:30:30,0.485s,PASSED
+"comment(""User should be able to quote the submission in Portal"")",Chrome 115.0.0.0,,,2024-04-11 07:30:30,2024-04-11 07:30:30,0.004s,PASSED
+SubmissionNumber = SubmissionNumber,Chrome 115.0.0.0,,,2024-04-11 07:30:30,2024-04-11 07:30:30,0.000s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:30:30,2024-04-11 07:30:32,1.562s,PASSED
+"comment(""Login to PC and approve UW issues"")",Chrome 115.0.0.0,,,2024-04-11 07:30:32,2024-04-11 07:30:32,0.002s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_Login""), [""PC_Username"":PC_Username, ""PC_Password"":PC_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:30:32,2024-04-11 07:31:20,48.493s,PASSED
+"SubmissionNumber = SubmissionNumber.replace(""Quote No. "", """")",Chrome 115.0.0.0,,,2024-04-11 07:31:20,2024-04-11 07:31:20,0.000s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_SearchSubmission""), [""SubmissionNumber"":SubmissionNumber], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:31:20,2024-04-11 07:31:22,2.043s,PASSED
+"click(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_Common_LeftPanel_RiskAnalysis""))",Chrome 115.0.0.0,,,2024-04-11 07:31:22,2024-04-11 07:31:23,1.235s,PASSED
+"verifyElementText(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title""), ""Risk Analysis"")",Chrome 115.0.0.0,,,2024-04-11 07:31:23,2024-04-11 07:31:24,1.016s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_RiskAnalysisScreen_ApproveUWIssues""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:31:24,2024-04-11 07:31:44,19.881s,PASSED
+"click(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_Common_Button_ReleaseLock""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:31:44,2024-04-11 07:32:18,33.784s,PASSED
+"selectOptionByLabel(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_UWActivity_Dropdown_AssignTo""), ""Test Processor3 (Renewal Com Proc)"", false, OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:32:18,2024-04-11 07:32:52,33.749s,PASSED
+"click(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_UWActivity_Button_Release""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:32:52,2024-04-11 07:33:26,33.600s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:33:26,2024-04-11 07:33:26,0.651s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_LogOut""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:33:26,2024-04-11 07:33:28,1.382s,PASSED
+"callTestCase(findTestCase(""Portal_Pages/Portal_CommonScreens/Portal_Login""), [""Portal_Username"":Portal_Username, ""Portal_Password"":Portal_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:33:28,2024-04-11 07:34:25,57.697s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Tab_Quote""))",Chrome 115.0.0.0,,,2024-04-11 07:34:25,2024-04-11 07:34:33,7.970s,PASSED
+"comment(""User should able to search the quote in Portal"")",Chrome 115.0.0.0,,,2024-04-11 07:34:33,2024-04-11 07:34:33,0.003s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard""), ""New Business Dashboard"")",Chrome 115.0.0.0,,,2024-04-11 07:34:33,2024-04-11 07:35:03,30.186s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Quote_TextBox_SearchFor""), SubmissionNumber)",Chrome 115.0.0.0,,,2024-04-11 07:35:03,2024-04-11 07:35:33,29.496s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:35:33,2024-04-11 07:35:33,0.015s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Button_Search""))",Chrome 115.0.0.0,,,2024-04-11 07:35:33,2024-04-11 07:35:33,0.388s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:35:33,2024-04-11 07:35:33,0.019s,PASSED
+"click(findTestObject(""Portal/Portal_Quote_Table_QuoteNum"", [""SubmissionNumber"":SubmissionNumber]))",Chrome 115.0.0.0,,,2024-04-11 07:35:33,2024-04-11 07:35:37,3.920s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:35:37,2024-04-11 07:35:38,0.491s,PASSED
+"waitForElementHasAttribute(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 8: Review"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:35:38,2024-04-11 07:35:51,13.528s,PASSED
+"verifyElementText(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 8: Review"")",Chrome 115.0.0.0,,,2024-04-11 07:35:51,2024-04-11 07:35:52,0.450s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:35:52,2024-04-11 07:35:54,1.857s,PASSED
+"click(findTestObject(""Portal/Portal_Common_Button_NextPayment""))",Chrome 115.0.0.0,,,2024-04-11 07:35:54,2024-04-11 07:35:54,0.497s,PASSED
+"waitForElementHasAttribute(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 9: Payment"", 10, OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:35:54,2024-04-11 07:36:05,10.662s,PASSED
+"verifyElementText(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 9: Payment"", OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:36:05,2024-04-11 07:36:05,0.570s,PASSED
+"mouseOver(findTestObject(""Portal/Portal_Payment_DirectBill_PaymentPlan_Radio_FullPay""))",Chrome 115.0.0.0,,,2024-04-11 07:36:05,2024-04-11 07:36:39,33.481s,FAILED
+,,,,,,,
+Test Cases/Portal_WorkersCompensation/WC_SmokeTest_AllState/Portal_SmokeTest_INState,Chrome 115.0.0.0,,,2024-04-11 07:36:39,2024-04-11 07:51:03,14m - 24.026s,FAILED
+"comment(""Portal Smoke Test"")",Chrome 115.0.0.0,,,2024-04-11 07:36:40,2024-04-11 07:36:40,0.002s,PASSED
+"callTestCase(findTestCase(""Portal_Pages/Portal_CommonScreens/Portal_Login""), [""Portal_Username"":Portal_Username, ""Portal_Password"":Portal_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:36:40,2024-04-11 07:37:39,59.587s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Tab_Quote""))",Chrome 115.0.0.0,,,2024-04-11 07:37:39,2024-04-11 07:37:48,8.849s,PASSED
+"comment(""User is able to Initiate the quote successfully"")",Chrome 115.0.0.0,,,2024-04-11 07:37:48,2024-04-11 07:37:48,0.006s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard""), ""New Business Dashboard"")",Chrome 115.0.0.0,,,2024-04-11 07:37:48,2024-04-11 07:38:18,30.243s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Title_StartANewBusiness""))",Chrome 115.0.0.0,,,2024-04-11 07:38:18,2024-04-11 07:38:49,30.269s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Dropdown_SelectLineOfBusiness""))",Chrome 115.0.0.0,,,2024-04-11 07:38:49,2024-04-11 07:39:19,30.231s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_LOB_TypeList_WorkersComp""))",Chrome 115.0.0.0,,,2024-04-11 07:39:19,2024-04-11 07:39:49,30.196s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_Next""))",Chrome 115.0.0.0,,,2024-04-11 07:39:49,2024-04-11 07:40:21,31.567s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_PreQual_Title_PreQualification""), ""Pre-Qualification"")",Chrome 115.0.0.0,,,2024-04-11 07:40:21,2024-04-11 07:40:24,3.148s,PASSED
+"comment(""Prequalification statement should be displayed."")",Chrome 115.0.0.0,,,2024-04-11 07:40:24,2024-04-11 07:40:24,0.002s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PreQual_CheckBox_RiskDoesNotHaveAny""))",Chrome 115.0.0.0,,,2024-04-11 07:40:24,2024-04-11 07:40:24,0.412s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PreQual_Button_Agree""))",Chrome 115.0.0.0,,,2024-04-11 07:40:24,2024-04-11 07:40:25,0.621s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_AccInfo_Header_AccInfo""), ""Step 1: Account Information"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:40:25,2024-04-11 07:40:36,10.895s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_AccInfo_Header_AccInfo""), ""Step 1: Account Information"")",Chrome 115.0.0.0,,,2024-04-11 07:40:36,2024-04-11 07:40:36,0.345s,PASSED
+"comment(""User successfully navigated to Account Information screen"")",Chrome 115.0.0.0,,,2024-04-11 07:40:36,2024-04-11 07:40:36,0.000s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Dropdown_SearchOrQuoteFor""))",Chrome 115.0.0.0,,,2024-04-11 07:40:36,2024-04-11 07:40:36,0.402s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_Individual""))",Chrome 115.0.0.0,,,2024-04-11 07:40:36,2024-04-11 07:40:37,0.539s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_FirstName""), ""Auto_FirstName"")",Chrome 115.0.0.0,,,2024-04-11 07:40:37,2024-04-11 07:40:38,0.934s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_LastName""), ""LastName"" + RandomStringUtils.randomAlphabetic(5))",Chrome 115.0.0.0,,,2024-04-11 07:40:38,2024-04-11 07:40:39,0.786s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_ZipCode""), ""46268"")",Chrome 115.0.0.0,,,2024-04-11 07:40:39,2024-04-11 07:40:39,0.787s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Button_CreateNewAcc""))",Chrome 115.0.0.0,,,2024-04-11 07:40:39,2024-04-11 07:40:40,0.630s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_AccInfo_SubTitle_AddNewAcc""), ""Add a New Account"")",Chrome 115.0.0.0,,,2024-04-11 07:40:40,2024-04-11 07:40:42,1.610s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:40:42,2024-04-11 07:40:42,0.658s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_Address""), ""3221 W 86th St"")",Chrome 115.0.0.0,,,2024-04-11 07:40:42,2024-04-11 07:40:43,0.871s,PASSED
+"sendKeys(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_Address""), Keys.chord(SPACE))",Chrome 115.0.0.0,,,2024-04-11 07:40:43,2024-04-11 07:40:44,0.907s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_1stAddress""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:40:44,2024-04-11 07:40:45,0.590s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:40:45,2024-04-11 07:40:45,0.018s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""))",Chrome 115.0.0.0,,,2024-04-11 07:40:45,2024-04-11 07:40:46,0.821s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""))",Chrome 115.0.0.0,,,2024-04-11 07:40:46,2024-04-11 07:40:46,0.409s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode""))",Chrome 115.0.0.0,,,2024-04-11 07:40:46,2024-04-11 07:40:47,0.647s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode""))",Chrome 115.0.0.0,,,2024-04-11 07:40:47,2024-04-11 07:40:47,0.497s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Button_AddAccount""))",Chrome 115.0.0.0,,,2024-04-11 07:40:47,2024-04-11 07:40:48,0.799s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_StandardizeAddress_Button_Continue""))",Chrome 115.0.0.0,,,2024-04-11 07:40:48,2024-04-11 07:40:50,1.804s,PASSED
+"AccountNumber = getText(findTestObject(""Portal/Portal_NewAccountCreated_Label_AccountNum""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:40:50,2024-04-11 07:41:23,33.656s,PASSED
+"click(findTestObject(""Portal/Portal_NewAccountCreated_Button_Continue""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:41:23,2024-04-11 07:41:57,33.545s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolicyDetails_Dropdown_OrgType""))",Chrome 115.0.0.0,,,2024-04-11 07:41:57,2024-04-11 07:41:57,0.492s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolDetails_OrgType_TypeList_Individual""))",Chrome 115.0.0.0,,,2024-04-11 07:41:57,2024-04-11 07:41:58,0.530s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:41:58,2024-04-11 07:41:59,0.705s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:41:59,2024-04-11 07:41:59,0.487s,PASSED
+"sendKeys(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), Keys.chord(""123456789""))",Chrome 115.0.0.0,,,2024-04-11 07:41:59,2024-04-11 07:42:00,0.754s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolicyDetails_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:42:00,2024-04-11 07:42:01,0.660s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:42:01,2024-04-11 07:42:02,1.418s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextLoc""))",Chrome 115.0.0.0,,,2024-04-11 07:42:02,2024-04-11 07:42:02,0.497s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Loc_Header_Loc""), ""Step 3: Locations"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:42:02,2024-04-11 07:42:16,13.143s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Loc_Header_Loc""), ""Step 3: Locations"")",Chrome 115.0.0.0,,,2024-04-11 07:42:16,2024-04-11 07:42:16,0.385s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_MaxNumOfEmp""), ""51"")",Chrome 115.0.0.0,,,2024-04-11 07:42:16,2024-04-11 07:42:17,0.912s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_WorkClassification""))",Chrome 115.0.0.0,,,2024-04-11 07:42:17,2024-04-11 07:42:18,0.809s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_WorkClassification_TypeList_0005""))",Chrome 115.0.0.0,,,2024-04-11 07:42:18,2024-04-11 07:42:18,0.685s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_TotalPayroll""), ""5000"")",Chrome 115.0.0.0,,,2024-04-11 07:42:18,2024-04-11 07:42:19,1.054s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_FullTimeEmployees""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:42:19,2024-04-11 07:42:20,1.008s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_PartTimeEmployees""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:42:20,2024-04-11 07:42:22,1.120s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:42:22,2024-04-11 07:42:22,0.654s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:42:22,2024-04-11 07:42:23,0.973s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextStateCov""))",Chrome 115.0.0.0,,,2024-04-11 07:42:23,2024-04-11 07:42:24,0.493s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Cov_Header_Coverages""), ""Step 4: Coverages"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:42:24,2024-04-11 07:42:36,12.298s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Cov_Header_Coverages""), ""Step 4: Coverages"")",Chrome 115.0.0.0,,,2024-04-11 07:42:36,2024-04-11 07:42:36,0.503s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_Chkbox_ExpRating""))",Chrome 115.0.0.0,,,2024-04-11 07:42:36,2024-04-11 07:42:37,0.540s,PASSED
+"setText(findTestObject(""Portal/Portal_StateCov_input_ExpRating""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:42:37,2024-04-11 07:42:40,2.495s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_StateCov_Button_NextLineCov""))",Chrome 115.0.0.0,,,2024-04-11 07:42:40,2024-04-11 07:42:40,0.569s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_LineCov_button_NextSupplementalQues""))",Chrome 115.0.0.0,,,2024-04-11 07:42:40,2024-04-11 07:42:42,2.026s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Supplemental_CheckBox_IhaveReviewed""))",Chrome 115.0.0.0,,,2024-04-11 07:42:42,2024-04-11 07:42:44,1.836s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:42:44,2024-04-11 07:42:46,2.127s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextQuote""))",Chrome 115.0.0.0,,,2024-04-11 07:42:46,2024-04-11 07:42:47,0.516s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Quote_Header_Quote""), ""Step 6: Quote"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:42:47,2024-04-11 07:43:10,23.199s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_Quote""), ""Step 6: Quote"")",Chrome 115.0.0.0,,,2024-04-11 07:43:10,2024-04-11 07:43:10,0.469s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Portal/Portal_Quote_Label_SubmissionNum""), 30)",Chrome 115.0.0.0,,,2024-04-11 07:43:10,2024-04-11 07:43:11,0.455s,PASSED
+"SubmissionNumber = getText(findTestObject(""Object Repository/Portal/Portal_Quote_Label_SubmissionNum""))",Chrome 115.0.0.0,,,2024-04-11 07:43:11,2024-04-11 07:43:11,0.429s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:43:11,2024-04-11 07:43:13,1.689s,PASSED
+"click(findTestObject(""Portal/Portal_Quote_Button_NextAdditionalInfo""))",Chrome 115.0.0.0,,,2024-04-11 07:43:13,2024-04-11 07:43:13,0.489s,PASSED
+"waitForElementHasAttribute(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 7: Additional Info"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:43:13,2024-04-11 07:43:26,12.393s,PASSED
+"verifyElementText(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 7: Additional Info"")",Chrome 115.0.0.0,,,2024-04-11 07:43:26,2024-04-11 07:43:26,0.372s,PASSED
+"setText(findTestObject(""Portal/Portal_AddInfo_TextArea_DescriptionOfOp""), ""Individual"")",Chrome 115.0.0.0,,,2024-04-11 07:43:26,2024-04-11 07:43:27,0.960s,PASSED
+"setText(findTestObject(""Portal/Portal_AccAndInsCont_TextBox_FirstName""), ""AccAndIns_FirstName"")",Chrome 115.0.0.0,,,2024-04-11 07:43:27,2024-04-11 07:43:28,1.000s,PASSED
+"setText(findTestObject(""Portal/Portal_AccAndInsCont_TextBox_LastName""), ""LastName"" + RandomStringUtils.randomAlphabetic(5))",Chrome 115.0.0.0,,,2024-04-11 07:43:28,2024-04-11 07:43:29,0.924s,PASSED
+"sendKeys(findTestObject(""Portal/Portal_AccAndIns_TextBox_PhoneNum""), Keys.chord(""8567123411""))",Chrome 115.0.0.0,,,2024-04-11 07:43:29,2024-04-11 07:43:30,0.527s,PASSED
+"click(findTestObject(""Portal/Portal_Common_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:43:30,2024-04-11 07:43:30,0.655s,PASSED
+"setText(findTestObject(""Portal/Portal_AccInfo_TextBox_FirstName""), ""Test"")",Chrome 115.0.0.0,,,2024-04-11 07:43:30,2024-04-11 07:43:31,0.888s,PASSED
+"setText(findTestObject(""Portal/Portal_AccInfo_TextBox_LastName""), ""Person"")",Chrome 115.0.0.0,,,2024-04-11 07:43:31,2024-04-11 07:43:32,0.921s,PASSED
+"setText(findTestObject(""Portal/Portal_FirstCall_TextBox_EmailAddress""), ""ssomasundaram@hastingsmutual.com"")",Chrome 115.0.0.0,,,2024-04-11 07:43:32,2024-04-11 07:43:33,1.234s,PASSED
+"setText(findTestObject(""Portal/Portal_AdditionalInfo_input_IN_BureauID""), ""914543212"")",Chrome 115.0.0.0,,,2024-04-11 07:43:33,2024-04-11 07:43:34,1.093s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:43:34,2024-04-11 07:43:37,2.673s,PASSED
+"click(findTestObject(""Portal/Portal_Common_Button_NextReview""))",Chrome 115.0.0.0,,,2024-04-11 07:43:37,2024-04-11 07:43:37,0.488s,PASSED
+"waitForElementHasAttribute(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 8: Review"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:43:37,2024-04-11 07:44:00,22.579s,PASSED
+"verifyElementText(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 8: Review"")",Chrome 115.0.0.0,,,2024-04-11 07:44:00,2024-04-11 07:44:00,0.349s,PASSED
+"comment(""User should be able to quote the submission in Portal"")",Chrome 115.0.0.0,,,2024-04-11 07:44:00,2024-04-11 07:44:00,0.001s,PASSED
+SubmissionNumber = SubmissionNumber,Chrome 115.0.0.0,,,2024-04-11 07:44:00,2024-04-11 07:44:00,0.000s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:44:00,2024-04-11 07:44:02,1.611s,PASSED
+"comment(""Login to PC and approve UW issues"")",Chrome 115.0.0.0,,,2024-04-11 07:44:02,2024-04-11 07:44:02,0.003s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_Login""), [""PC_Username"":PC_Username, ""PC_Password"":PC_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:44:02,2024-04-11 07:44:52,49.579s,PASSED
+"SubmissionNumber = SubmissionNumber.replace(""Quote No. "", """")",Chrome 115.0.0.0,,,2024-04-11 07:44:52,2024-04-11 07:44:52,0.001s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_SearchSubmission""), [""SubmissionNumber"":SubmissionNumber], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:44:52,2024-04-11 07:44:53,1.878s,PASSED
+"click(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_Common_LeftPanel_RiskAnalysis""))",Chrome 115.0.0.0,,,2024-04-11 07:44:53,2024-04-11 07:44:55,1.338s,PASSED
+"verifyElementText(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title""), ""Risk Analysis"")",Chrome 115.0.0.0,,,2024-04-11 07:44:55,2024-04-11 07:44:56,1.060s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_RiskAnalysisScreen_ApproveUWIssues""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:44:56,2024-04-11 07:45:12,15.671s,PASSED
+"click(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_Common_Button_ReleaseLock""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:45:12,2024-04-11 07:45:45,33.511s,PASSED
+"selectOptionByLabel(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_UWActivity_Dropdown_AssignTo""), ""Test Processor3 (Renewal Com Proc)"", false, OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:45:45,2024-04-11 07:46:19,33.492s,PASSED
+"click(findTestObject(""PolicyCenter/PolicyCenterObjects/PC_UWActivity_Button_Release""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:46:19,2024-04-11 07:46:52,33.708s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:46:52,2024-04-11 07:46:53,0.609s,PASSED
+"callTestCase(findTestCase(""PolicyCenter_Pages/PC_CommonScreens/PC_LogOut""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:46:53,2024-04-11 07:46:54,1.226s,PASSED
+"callTestCase(findTestCase(""Portal_Pages/Portal_CommonScreens/Portal_Login""), [""Portal_Username"":Portal_Username, ""Portal_Password"":Portal_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:46:54,2024-04-11 07:47:54,1m - 0.057s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Tab_Quote""))",Chrome 115.0.0.0,,,2024-04-11 07:47:54,2024-04-11 07:48:02,8.253s,PASSED
+"comment(""User should able to search the quote in Portal"")",Chrome 115.0.0.0,,,2024-04-11 07:48:02,2024-04-11 07:48:02,0.003s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard""), ""New Business Dashboard"")",Chrome 115.0.0.0,,,2024-04-11 07:48:02,2024-04-11 07:48:33,30.276s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Quote_TextBox_SearchFor""), SubmissionNumber)",Chrome 115.0.0.0,,,2024-04-11 07:48:33,2024-04-11 07:49:33,1m - 0.316s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:49:33,2024-04-11 07:49:33,0.016s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Button_Search""))",Chrome 115.0.0.0,,,2024-04-11 07:49:33,2024-04-11 07:49:57,24.189s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:49:57,2024-04-11 07:49:57,0.016s,PASSED
+"click(findTestObject(""Portal/Portal_Quote_Table_QuoteNum"", [""SubmissionNumber"":SubmissionNumber]))",Chrome 115.0.0.0,,,2024-04-11 07:49:57,2024-04-11 07:50:01,4.070s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:50:01,2024-04-11 07:50:02,0.522s,PASSED
+"waitForElementHasAttribute(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 8: Review"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:50:02,2024-04-11 07:50:15,13.408s,PASSED
+"verifyElementText(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 8: Review"")",Chrome 115.0.0.0,,,2024-04-11 07:50:15,2024-04-11 07:50:16,0.457s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:50:16,2024-04-11 07:50:17,1.724s,PASSED
+"click(findTestObject(""Portal/Portal_Common_Button_NextPayment""))",Chrome 115.0.0.0,,,2024-04-11 07:50:17,2024-04-11 07:50:18,0.562s,PASSED
+"waitForElementHasAttribute(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 9: Payment"", 10, OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:50:18,2024-04-11 07:50:29,10.719s,PASSED
+"verifyElementText(findTestObject(""Portal/Portal_Common_Label_Header""), ""Step 9: Payment"", OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:50:29,2024-04-11 07:50:29,0.529s,PASSED
+"mouseOver(findTestObject(""Portal/Portal_Payment_DirectBill_PaymentPlan_Radio_FullPay""))",Chrome 115.0.0.0,,,2024-04-11 07:50:29,2024-04-11 07:51:03,33.617s,FAILED
+,,,,,,,
+Test Cases/Portal_WorkersCompensation/WC_SmokeTest_AllState/Portal_SmokeTest_MIState,Chrome 115.0.0.0,,,2024-04-11 07:51:03,2024-04-11 07:55:44,4m - 41.119s,FAILED
+"comment(""Portal Smoke Test"")",Chrome 115.0.0.0,,,2024-04-11 07:51:04,2024-04-11 07:51:04,0.003s,PASSED
+"callTestCase(findTestCase(""Portal_Pages/Portal_CommonScreens/Portal_Login""), [""Portal_Username"":Portal_Username, ""Portal_Password"":Portal_Password], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:51:04,2024-04-11 07:52:01,57.631s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Tab_Quote""))",Chrome 115.0.0.0,,,2024-04-11 07:52:01,2024-04-11 07:52:14,12.925s,PASSED
+"comment(""User is able to Initiate the quote successfully"")",Chrome 115.0.0.0,,,2024-04-11 07:52:14,2024-04-11 07:52:14,0.002s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard""), ""New Business Dashboard"")",Chrome 115.0.0.0,,,2024-04-11 07:52:14,2024-04-11 07:52:44,30.182s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Title_StartANewBusiness""))",Chrome 115.0.0.0,,,2024-04-11 07:52:44,2024-04-11 07:53:12,27.545s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Quote_Dropdown_SelectLineOfBusiness""))",Chrome 115.0.0.0,,,2024-04-11 07:53:12,2024-04-11 07:53:13,1.205s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_LOB_TypeList_WorkersComp""))",Chrome 115.0.0.0,,,2024-04-11 07:53:13,2024-04-11 07:53:14,0.527s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_Next""))",Chrome 115.0.0.0,,,2024-04-11 07:53:14,2024-04-11 07:53:15,1.752s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_PreQual_Title_PreQualification""), ""Pre-Qualification"")",Chrome 115.0.0.0,,,2024-04-11 07:53:15,2024-04-11 07:53:18,2.054s,PASSED
+"comment(""Prequalification statement should be displayed."")",Chrome 115.0.0.0,,,2024-04-11 07:53:18,2024-04-11 07:53:18,0.002s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PreQual_CheckBox_RiskDoesNotHaveAny""))",Chrome 115.0.0.0,,,2024-04-11 07:53:18,2024-04-11 07:53:18,0.494s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PreQual_Button_Agree""))",Chrome 115.0.0.0,,,2024-04-11 07:53:18,2024-04-11 07:53:19,0.587s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_AccInfo_Header_AccInfo""), ""Step 1: Account Information"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:53:19,2024-04-11 07:53:30,11.376s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_AccInfo_Header_AccInfo""), ""Step 1: Account Information"")",Chrome 115.0.0.0,,,2024-04-11 07:53:30,2024-04-11 07:53:30,0.442s,PASSED
+"comment(""User successfully navigated to Account Information screen"")",Chrome 115.0.0.0,,,2024-04-11 07:53:30,2024-04-11 07:53:30,0.001s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Dropdown_SearchOrQuoteFor""))",Chrome 115.0.0.0,,,2024-04-11 07:53:30,2024-04-11 07:53:31,0.434s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_Individual""))",Chrome 115.0.0.0,,,2024-04-11 07:53:31,2024-04-11 07:53:31,0.578s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_FirstName""), ""Auto_FirstName"")",Chrome 115.0.0.0,,,2024-04-11 07:53:31,2024-04-11 07:53:33,1.146s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_LastName""), ""LastName"" + RandomStringUtils.randomAlphabetic(5))",Chrome 115.0.0.0,,,2024-04-11 07:53:33,2024-04-11 07:53:34,0.902s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_ZipCode""), ""49058"")",Chrome 115.0.0.0,,,2024-04-11 07:53:34,2024-04-11 07:53:34,0.920s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Button_CreateNewAcc""))",Chrome 115.0.0.0,,,2024-04-11 07:53:34,2024-04-11 07:53:35,0.700s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_AccInfo_SubTitle_AddNewAcc""), ""Add a New Account"")",Chrome 115.0.0.0,,,2024-04-11 07:53:35,2024-04-11 07:53:36,0.945s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:53:36,2024-04-11 07:53:37,0.635s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_Address""), ""1618 W M 43 Hwy"")",Chrome 115.0.0.0,,,2024-04-11 07:53:37,2024-04-11 07:53:38,0.925s,PASSED
+"sendKeys(findTestObject(""Object Repository/Portal/Portal_AccInfo_TextBox_Address""), Keys.chord(SPACE))",Chrome 115.0.0.0,,,2024-04-11 07:53:38,2024-04-11 07:53:38,0.754s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_1stAddress""), OPTIONAL)",Chrome 115.0.0.0,,,2024-04-11 07:53:38,2024-04-11 07:53:39,0.800s,PASSED
+waitForPageLoad(10),Chrome 115.0.0.0,,,2024-04-11 07:53:39,2024-04-11 07:53:39,0.043s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""))",Chrome 115.0.0.0,,,2024-04-11 07:53:39,2024-04-11 07:53:40,0.826s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode""))",Chrome 115.0.0.0,,,2024-04-11 07:53:40,2024-04-11 07:53:41,0.540s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode""))",Chrome 115.0.0.0,,,2024-04-11 07:53:41,2024-04-11 07:53:41,0.726s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode""))",Chrome 115.0.0.0,,,2024-04-11 07:53:41,2024-04-11 07:53:42,0.528s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_AccInfo_Button_AddAccount""))",Chrome 115.0.0.0,,,2024-04-11 07:53:42,2024-04-11 07:53:43,0.793s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_StandardizeAddress_Button_Continue""))",Chrome 115.0.0.0,,,2024-04-11 07:53:43,2024-04-11 07:53:44,1.641s,PASSED
+"AccountNumber = getText(findTestObject(""Portal/Portal_NewAccountCreated_Label_AccountNum""))",Chrome 115.0.0.0,,,2024-04-11 07:53:44,2024-04-11 07:53:46,1.284s,PASSED
+comment(AccountNumber),Chrome 115.0.0.0,,,2024-04-11 07:53:46,2024-04-11 07:53:46,0.002s,PASSED
+println(AccountNumber),Chrome 115.0.0.0,,,2024-04-11 07:53:46,2024-04-11 07:53:46,0.012s,PASSED
+"click(findTestObject(""Portal/Portal_NewAccountCreated_Button_Continue""))",Chrome 115.0.0.0,,,2024-04-11 07:53:46,2024-04-11 07:53:46,0.535s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolicyDetails_Dropdown_OrgType""))",Chrome 115.0.0.0,,,2024-04-11 07:53:46,2024-04-11 07:53:50,3.857s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolDetails_OrgType_TypeList_Individual""))",Chrome 115.0.0.0,,,2024-04-11 07:53:50,2024-04-11 07:53:51,0.613s,PASSED
+"mouseOver(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:53:51,2024-04-11 07:53:51,0.659s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2024-04-11 07:53:51,2024-04-11 07:53:52,0.458s,PASSED
+"sendKeys(findTestObject(""Object Repository/Portal/Portal_PolDetails_TextBox_SSN""), Keys.chord(""123456789""))",Chrome 115.0.0.0,,,2024-04-11 07:53:52,2024-04-11 07:53:52,0.699s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_PolicyDetails_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:53:52,2024-04-11 07:53:53,0.585s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:53:53,2024-04-11 07:53:55,1.572s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextLoc""))",Chrome 115.0.0.0,,,2024-04-11 07:53:55,2024-04-11 07:53:55,0.532s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Loc_Header_Loc""), ""Step 3: Locations"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:53:55,2024-04-11 07:54:07,12.392s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Loc_Header_Loc""), ""Step 3: Locations"")",Chrome 115.0.0.0,,,2024-04-11 07:54:07,2024-04-11 07:54:08,0.441s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_MaxNumOfEmp""), ""51"")",Chrome 115.0.0.0,,,2024-04-11 07:54:08,2024-04-11 07:54:09,0.911s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_WorkClassification""))",Chrome 115.0.0.0,,,2024-04-11 07:54:09,2024-04-11 07:54:10,0.831s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_WorkClassification_TypeList_0005""))",Chrome 115.0.0.0,,,2024-04-11 07:54:10,2024-04-11 07:54:10,0.692s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_TotalPayroll""), ""5000"")",Chrome 115.0.0.0,,,2024-04-11 07:54:10,2024-04-11 07:54:11,1.015s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_FullTimeEmployees""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:54:11,2024-04-11 07:54:12,0.900s,PASSED
+"setText(findTestObject(""Object Repository/Portal/Portal_Loc_TextBox_PartTimeEmployees""), ""10"")",Chrome 115.0.0.0,,,2024-04-11 07:54:12,2024-04-11 07:54:13,1.101s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Loc_Button_Save""))",Chrome 115.0.0.0,,,2024-04-11 07:54:13,2024-04-11 07:54:14,0.668s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:54:14,2024-04-11 07:54:15,1.012s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextStateCov""))",Chrome 115.0.0.0,,,2024-04-11 07:54:15,2024-04-11 07:54:16,0.549s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Cov_Header_Coverages""), ""Step 4: Coverages"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:54:16,2024-04-11 07:54:28,12.350s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Cov_Header_Coverages""), ""Step 4: Coverages"")",Chrome 115.0.0.0,,,2024-04-11 07:54:28,2024-04-11 07:54:28,0.509s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_Chkbox_ExpRating""))",Chrome 115.0.0.0,,,2024-04-11 07:54:28,2024-04-11 07:54:29,0.517s,PASSED
+"setText(findTestObject(""Portal/Portal_StateCov_input_ExpRating""), ""3.22"")",Chrome 115.0.0.0,,,2024-04-11 07:54:29,2024-04-11 07:54:31,2.480s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_MI_Radiobtn_WPSC_LightDutyProgram_Yes""))",Chrome 115.0.0.0,,,2024-04-11 07:54:31,2024-04-11 07:54:32,0.678s,PASSED
+"click(findTestObject(""Portal/Portal_StateCov_MI_Radiobtn_WPSC_MeritOrExperience_Yes""))",Chrome 115.0.0.0,,,2024-04-11 07:54:32,2024-04-11 07:54:34,1.754s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_StateCov_Button_NextLineCov""))",Chrome 115.0.0.0,,,2024-04-11 07:54:34,2024-04-11 07:54:36,1.917s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_LineCov_button_NextSupplementalQues""))",Chrome 115.0.0.0,,,2024-04-11 07:54:36,2024-04-11 07:54:38,1.795s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Supplemental_CheckBox_IhaveReviewed""))",Chrome 115.0.0.0,,,2024-04-11 07:54:38,2024-04-11 07:54:40,1.939s,PASSED
+takeFullPageScreenshot(),Chrome 115.0.0.0,,,2024-04-11 07:54:40,2024-04-11 07:54:42,2.214s,PASSED
+"click(findTestObject(""Object Repository/Portal/Portal_Common_Button_NextQuote""))",Chrome 115.0.0.0,,,2024-04-11 07:54:42,2024-04-11 07:54:42,0.496s,PASSED
+"waitForElementHasAttribute(findTestObject(""Object Repository/Portal/Portal_Quote_Header_Quote""), ""Step 6: Quote"", 10)",Chrome 115.0.0.0,,,2024-04-11 07:54:42,2024-04-11 07:55:23,40.418s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Portal/Portal_Quote_Header_Quote""), ""Step 6: Quote"")",Chrome 115.0.0.0,,,2024-04-11 07:55:23,2024-04-11 07:55:44,21.272s,FAILED

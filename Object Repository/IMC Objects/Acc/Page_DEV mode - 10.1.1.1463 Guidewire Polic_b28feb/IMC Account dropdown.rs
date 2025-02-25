@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>IMC Account dropdown</name>
+   <tag></tag>
+   <elementGuidId>8b09485c-84a9-4e7e-ac5a-52778ebc711d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TabBar-AccountTab']/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TabBar-AccountTab > div.gw-action--expand-button > div.gw-icon.gw-icon--expand</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a3306c60-0d5d-4899-81f8-bf598fad6319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-icon gw-icon--expand</value>
+      <webElementGuid>f8673d95-abaf-4826-b814-e6dd16292ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TabBar-AccountTab&quot;)/div[@class=&quot;gw-action--expand-button&quot;]/div[@class=&quot;gw-icon gw-icon--expand&quot;]</value>
+      <webElementGuid>b15ac5d8-d226-47c7-b67d-6332a4f83727</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TabBar-AccountTab']/div[3]/div</value>
+      <webElementGuid>6af030c4-38aa-461d-873d-aaf950ef1a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div[3]/div</value>
+      <webElementGuid>3f25e9c4-48d4-4f99-872a-dd5ee2c1230c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

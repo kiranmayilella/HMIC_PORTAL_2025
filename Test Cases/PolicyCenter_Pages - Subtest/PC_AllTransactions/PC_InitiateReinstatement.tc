@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_InitiateReinstatement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f325947-f973-4dfc-bc7e-68946c3dfba3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18492f51-a6e6-445a-b708-ed86395b8bf0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18492f51-a6e6-445a-b708-ed86395b8bf0</id>
+      <masked>false</masked>
+      <name>Reinstatement_TransactionNumber</name>
+   </variable>
+</TestCaseEntity>

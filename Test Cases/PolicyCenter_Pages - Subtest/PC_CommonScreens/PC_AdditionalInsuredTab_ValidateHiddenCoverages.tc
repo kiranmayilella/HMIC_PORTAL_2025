@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_AdditionalInsuredTab_ValidateHiddenCoverages</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2dc7173-4e44-4142-a957-094b155488a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>94700c13-e237-4d97-a728-0878043fd89a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>94700c13-e237-4d97-a728-0878043fd89a</id>
+      <masked>false</masked>
+      <name>CoverageNumber</name>
+   </variable>
+</TestCaseEntity>

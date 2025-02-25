@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_SupplementalCoveragesTab_ContractorsCombination_Dropdown_WaitingPeriod</name>
+   <tag></tag>
+   <elementGuidId>8c2e0e4b-b021-4902-9437-3fd5298f2117</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>[name='IM7ContractorsCombinPopup-IM7ContractorsCombinPanelSet-CCSuppCovCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-9-CovTermInputSet-TypekeyTermInput']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='IM7ContractorsCombinPopup-IM7ContractorsCombinPanelSet-CCSuppCovCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-9-CovTermInputSet-TypekeyTermInput']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

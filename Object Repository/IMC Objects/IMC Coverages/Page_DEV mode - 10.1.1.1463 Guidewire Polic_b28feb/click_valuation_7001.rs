@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_valuation_7001</name>
+   <tag></tag>
+   <elementGuidId>e7c98ec1-3031-45c3-a2dd-7791248a7398</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name=&quot;IM7ContractorsEquipmentPopup-IM7ContractorsEquipmentPanelSet-CEClauseCovPatterns-CoverageCategoryInputSet-1-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-IM7CELmtdCESEVal&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

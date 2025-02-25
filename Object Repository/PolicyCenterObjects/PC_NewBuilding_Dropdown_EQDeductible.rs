@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_NewBuilding_Dropdown_EQDeductible</name>
+   <tag></tag>
+   <elementGuidId>2e49717c-f0df-4609-97cc-af58c3f516a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='CP7BuildingPopup-CP7BuildingCV-CP7BuildingCoveragesDV-0-LobCoverageInputSet-CovPatternInputGroup-CovTermIterator-2-CovTermInputSet-OptionTermInput']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_CovPart_AddExistingLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b42d481f-f7d4-435e-999d-48020787082f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb90e0aa-7eda-4d6a-9d85-73a86a75ba19</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fb90e0aa-7eda-4d6a-9d85-73a86a75ba19</id>
+      <masked>false</masked>
+      <name>MiscellaneousFloaterCoverage</name>
+   </variable>
+</TestCaseEntity>

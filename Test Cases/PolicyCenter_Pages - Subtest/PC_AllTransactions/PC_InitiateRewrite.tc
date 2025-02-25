@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_InitiateRewrite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>310f31f9-d8e4-429c-8661-36806ef2dc81</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3c6be408-c17a-4cc2-b458-06e099001edd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3c6be408-c17a-4cc2-b458-06e099001edd</id>
+      <masked>false</masked>
+      <name>Rewrite_TransactionNumber</name>
+   </variable>
+</TestCaseEntity>

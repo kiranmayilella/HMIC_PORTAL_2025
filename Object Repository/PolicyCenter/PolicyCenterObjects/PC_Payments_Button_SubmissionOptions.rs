@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Payments_Button_SubmissionOptions</name>
+   <tag></tag>
+   <elementGuidId>83f3ab0c-559d-429d-8119-29bab085aa4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@id,'JobWizardBillingToolbarButtonSet-SubmissionOptions')]//div[@role='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>319807d4-8cca-4d48-8556-4aa920c8e51a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>eceb4786-dc6f-49fa-86d3-8a0e85fc2492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submission Options</value>
+      <webElementGuid>aa01368f-3f19-49b9-8a88-1ea1607628c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubmissionWizard-SubmissionWizard_PaymentScreen-JobWizardBillingToolbarButtonSet-SubmissionOptions&quot;)/div[@class=&quot;gw-action--inner gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>26aeed44-e5e8-414c-8e75-2436e1993329</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SubmissionWizard-SubmissionWizard_PaymentScreen-JobWizardBillingToolbarButtonSet-SubmissionOptions']/div/div[2]</value>
+      <webElementGuid>9e5cce94-7298-4cac-a0ee-c2586e5336b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SO'])[1]/following::div[1]</value>
+      <webElementGuid>8c545f87-8ea7-475e-9547-14248d9542c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='V'])[1]/following::div[5]</value>
+      <webElementGuid>c66aaa4a-2064-4549-be4d-aeac68ad80a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IP'])[3]/preceding::div[4]</value>
+      <webElementGuid>5765af40-8276-422b-b29c-9b849d22f0cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[7]/div/div[2]</value>
+      <webElementGuid>709d313a-5cdf-4453-b985-807f2294bdd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Submission Options' or . = 'Submission Options')]</value>
+      <webElementGuid>79d34bf5-22be-434b-a572-ea1ef3099685</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

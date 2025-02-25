@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_RadioAndTVTowersAndEquipment_IM7600_ScheduleTextbox_BroadCastEquipmentLimit</name>
+   <tag></tag>
+   <elementGuidId>8bd335ea-4006-4086-be9d-0b6f87ed0a6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@name,'-0-brdLimit')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//input[contains(@name,'-0-brdLimit')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

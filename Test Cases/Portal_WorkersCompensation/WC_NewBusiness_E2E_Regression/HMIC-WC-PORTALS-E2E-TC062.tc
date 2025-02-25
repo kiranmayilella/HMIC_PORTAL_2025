@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HMIC-WC-PORTALS-E2E-TC062</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7acd9a0-09c7-4a22-8ab6-7fafdb6048d2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1a423319-494a-484c-a9fc-750a09e2a555</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HMIC-WC-PORTALS-E2E-TC062'</defaultValue>
+      <description></description>
+      <id>1a423319-494a-484c-a9fc-750a09e2a555</id>
+      <masked>false</masked>
+      <name>TCName</name>
+   </variable>
+</TestCaseEntity>

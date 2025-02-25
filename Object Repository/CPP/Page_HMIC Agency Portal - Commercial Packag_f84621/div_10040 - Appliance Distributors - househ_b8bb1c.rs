@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_10040 - Appliance Distributors - househ_b8bb1c</name>
+   <tag></tag>
+   <elementGuidId>118e120a-a29e-4159-a917-a68a6c9c225f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-19-option-5']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-19-option-5 > div.jut__LookupField__item > div.jut__LookupField__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>52a2a45d-1c85-4658-8734-886f671c0bdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jut__LookupField__title</value>
+      <webElementGuid>52792b15-25b9-471f-b45c-1200212b50d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10040 - Appliance Distributors - household type</value>
+      <webElementGuid>b4298c25-159b-4f33-a137-d0c038293d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-19-option-5&quot;)/div[@class=&quot;jut__LookupField__item&quot;]/div[@class=&quot;jut__LookupField__title&quot;]</value>
+      <webElementGuid>1385e085-57e3-45a7-a0eb-7cc05585e6c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-19-option-5']/div/div</value>
+      <webElementGuid>a2ab79d5-2846-45df-8f98-6489422d052b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[5]/following::div[3]</value>
+      <webElementGuid>4b18b2e0-45e9-4be6-8fe1-be188e2563a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[4]/following::div[7]</value>
+      <webElementGuid>fff3a3a2-f099-42ca-b2a0-454e5bf1c230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[6]/preceding::div[1]</value>
+      <webElementGuid>fa6798c8-3253-45d2-bb27-d4036374f665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[7]/preceding::div[3]</value>
+      <webElementGuid>4ea09fb4-4232-481d-ac2b-1bd77833b267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10040 - Appliance Distributors - household type']/parent::*</value>
+      <webElementGuid>9a75f2ea-40c9-4be6-ae8b-b2eaff41619b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[6]/div/div</value>
+      <webElementGuid>83420bd1-ebbc-4327-932b-45c2f48d3d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '10040 - Appliance Distributors - household type' or . = '10040 - Appliance Distributors - household type')]</value>
+      <webElementGuid>11b4eaf4-871b-4786-a3df-f17e350b7f84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

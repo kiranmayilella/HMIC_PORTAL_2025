@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Portal_Quote_PreQualification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc1d65aa-deff-4f5a-9ea1-9b4e9e436e85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2dbc302b-b812-40e0-97ae-550052ca878d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Agree'</defaultValue>
+      <description></description>
+      <id>2dbc302b-b812-40e0-97ae-550052ca878d</id>
+      <masked>false</masked>
+      <name>PrequalAgree</name>
+   </variable>
+</TestCaseEntity>

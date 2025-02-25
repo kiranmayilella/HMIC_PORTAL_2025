@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Supplemental_TextBox_NatureOfBusinessOrDescriptionOfOperations</name>
+   <tag></tag>
+   <elementGuidId>05cb8977-b96d-488c-92e7-9cfe454da20b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-WC7SupplementalScreen-NatureOfBusiness']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

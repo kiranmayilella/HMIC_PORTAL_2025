@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_CPP_EditModifiersForModificationRange</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>909f76f0-9fb2-495b-b3fb-bcb70bdd4636</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a14a975-5115-4347-8451-f44384891867</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a14a975-5115-4347-8451-f44384891867</id>
+      <masked>false</masked>
+      <name>State</name>
+   </variable>
+</TestCaseEntity>

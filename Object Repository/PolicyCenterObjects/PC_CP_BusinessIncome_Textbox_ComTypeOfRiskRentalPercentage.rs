@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_CP_BusinessIncome_Textbox_ComTypeOfRiskRentalPercentage</name>
+   <tag></tag>
+   <elementGuidId>fa10d605-d5e4-4ec9-a29b-639b380f9d1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='CP7SpecialClassBusinessIncomePopup-CP7SpecClsBICV-LobEntityDV-10-LobInputSet-LobInternalInputSet-Input']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

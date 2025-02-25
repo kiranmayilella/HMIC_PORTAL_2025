@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_CameraAndMusicalInstrument_AdditionalCovIM1263Schedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5e7d432-cdbc-4af0-b615-90f2ac083896</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>041329a1-38ee-4448-86c7-63f350729a63</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa811e0a-920a-4aaa-8fed-ecebc3023052</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>041329a1-38ee-4448-86c7-63f350729a63</id>
+      <masked>false</masked>
+      <name>ValueReplacementCost</name>
+   </variable>
+   <variable>
+      <defaultValue>'20000'</defaultValue>
+      <description></description>
+      <id>fa811e0a-920a-4aaa-8fed-ecebc3023052</id>
+      <masked>false</masked>
+      <name>TenantsImprovementsLimit</name>
+   </variable>
+</TestCaseEntity>

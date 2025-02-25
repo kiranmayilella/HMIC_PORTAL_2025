@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_deductible_val_7001</name>
+   <tag></tag>
+   <elementGuidId>a83f6ccf-f4c6-4cc3-b13f-e54f8b8dcbae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name=&quot;IM7ContractorsEquipmentPopup-IM7ContractorsEquipmentPanelSet-CEClauseCovPatterns-CoverageCategoryInputSet-1-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-IM7CELmtdCESEDedAmt&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

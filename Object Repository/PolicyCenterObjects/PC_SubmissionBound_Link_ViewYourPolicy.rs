@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_SubmissionBound_Link_ViewYourPolicy</name>
+   <tag></tag>
+   <elementGuidId>8a84618c-b440-4e5f-894b-e9e78d097b0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='JobComplete-JobCompleteScreen-JobCompleteDV-ViewPolicy']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action.gw-focus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4092018-568c-43cb-9708-34f44c3206e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-action gw-focus</value>
+      <webElementGuid>bd9aeab6-a2ef-4e0a-b60d-d3aa52a880e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>82362900-5b6b-4123-b3a7-8488d488a6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gw-click</name>
+      <type>Main</type>
+      <value>fireEvent id:JobComplete-JobCompleteScreen-JobCompleteDV-ViewPolicy</value>
+      <webElementGuid>9cbf6deb-b49a-4c93-853d-c158cb49df26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>22d63f2e-691d-436c-b650-1418cf6ee3e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View your policy (#A000251147)</value>
+      <webElementGuid>f89a121e-8765-4f25-94d2-cd0c5906dd65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;JobComplete-JobCompleteScreen-JobCompleteDV-ViewPolicy&quot;)/div[@class=&quot;gw-vw--value gw-align-h--left&quot;]/div[@class=&quot;gw-BulletPointTextValueWidget--inner&quot;]/div[@class=&quot;gw-action gw-focus&quot;]</value>
+      <webElementGuid>7f162b4f-d10c-4911-a467-582adf2bc63c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='JobComplete-JobCompleteScreen-JobCompleteDV-ViewPolicy']/div/div/div[2]</value>
+      <webElementGuid>6c08874c-ecc1-4c0d-bc19-be33a9931052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View your submission (#0041147705)'])[1]/following::div[8]</value>
+      <webElementGuid>43cf6613-17aa-458b-9a15-9ceecf28bf2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Submission (#0041147705) has been bound.'])[1]/following::div[23]</value>
+      <webElementGuid>ab5b6516-62f0-47ad-9cc5-c127e127435a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to the submission manager for this account'])[1]/preceding::div[3]</value>
+      <webElementGuid>54373e1f-0a19-4e6c-8429-924a7a75bbff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit an application for a different account'])[1]/preceding::div[11]</value>
+      <webElementGuid>51047692-c6e9-43a7-b110-d8f75a53c9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View your policy (#A000251147)']/parent::*</value>
+      <webElementGuid>219e0383-b920-43f1-bf1d-b040ed7173f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[4]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>94b3603a-6c80-45c8-9e52-01e28c28fb3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'View your policy (#A000251147)' or . = 'View your policy (#A000251147)')]</value>
+      <webElementGuid>1e3dceca-e84c-4da6-afae-649d3c858c1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

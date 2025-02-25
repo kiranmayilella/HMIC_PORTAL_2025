@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_CPP_Modifiers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e560735-b742-41a2-baae-8fca17848515</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6321e19-9c30-4ede-92fa-28b0d6e70b3a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6321e19-9c30-4ede-92fa-28b0d6e70b3a</id>
+      <masked>false</masked>
+      <name>ClassCode</name>
+   </variable>
+</TestCaseEntity>

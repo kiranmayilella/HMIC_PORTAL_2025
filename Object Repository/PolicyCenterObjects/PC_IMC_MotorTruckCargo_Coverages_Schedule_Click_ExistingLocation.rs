@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_MotorTruckCargo_Coverages_Schedule_Click_ExistingLocation</name>
+   <tag></tag>
+   <elementGuidId>1d3bfcaf-5771-43b0-a279-8024d3b6a0fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7MotorTruckCargoPopup-IM7MotorTruckCargoPanelSet-MTCCoverageCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB-addExistingLocations']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>70a504ca-ec63-4622-8241-53d9674bd04c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>7f67df29-2972-4862-b99d-e28602f1f109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Existing Location</value>
+      <webElementGuid>fea7e544-f629-47c3-8894-2777c2b44636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7MotorTruckCargoPopup-IM7MotorTruckCargoPanelSet-MTCCoverageCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB-addExistingLocations&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>768c384f-000c-4bc4-8899-521c902b1e29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IM7MotorTruckCargoPopup-IM7MotorTruckCargoPanelSet-MTCCoverageCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB-addExistingLocations']/div/div[2]</value>
+      <webElementGuid>1f7ef57d-9af5-4143-ab62-bd5b66717ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EL'])[1]/following::div[1]</value>
+      <webElementGuid>ec3adf7e-6402-42a1-862d-e5d8a53fa690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Location'])[1]/following::div[5]</value>
+      <webElementGuid>3d409530-8b3c-42e5-8107-8b3953240780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re'])[1]/preceding::div[12]</value>
+      <webElementGuid>470ad35f-fcd8-45bb-8f7b-714355106c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Existing Location']/parent::*</value>
+      <webElementGuid>27393bd9-7d6f-4edc-8c4d-31887e2502a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div[3]/div[2]/div/div[2]</value>
+      <webElementGuid>22097862-40a5-41ae-8f2b-863145230691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Existing Location' or . = 'Existing Location')]</value>
+      <webElementGuid>26c110f7-84f9-4731-9248-d1212ad6ccf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_AccountsReceivable_Coverage_ExistingLocation</name>
+   <tag></tag>
+   <elementGuidId>90673ff4-b0a8-4f4f-b5c6-a1a37381e44f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7AccountsReceivablePopup-IM7AccountsReceivablePanelSet-ScheduleInputSet-addLocationsTB-addExistingLocations']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31fc4df6-7da0-41ed-ae1e-a148002caf64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>57edfd80-3a2f-40d5-8dcd-b036e83fe075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Existing Location</value>
+      <webElementGuid>1a7ba98a-3e92-4b44-b764-fbfac0fce467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7AccountsReceivablePopup-IM7AccountsReceivablePanelSet-ScheduleInputSet-addLocationsTB-addExistingLocations&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>5f44eba7-154e-4d45-a801-e3c979241e46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IM7AccountsReceivablePopup-IM7AccountsReceivablePanelSet-ScheduleInputSet-addLocationsTB-addExistingLocations']/div/div[2]</value>
+      <webElementGuid>c1582589-f5d1-4e68-9e22-f9bd7a694b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EL'])[1]/following::div[1]</value>
+      <webElementGuid>6fd29c68-4e7c-4789-8ada-30f1bf1bcec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Location'])[1]/following::div[5]</value>
+      <webElementGuid>329e31da-0680-4001-ab01-9b3e2120f0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re'])[2]/preceding::div[12]</value>
+      <webElementGuid>8c9e9512-a253-428c-8947-b481997ac001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Existing Location']/parent::*</value>
+      <webElementGuid>410527e4-dc54-4157-954b-d457f7a2c40f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div[3]/div[2]/div/div[2]</value>
+      <webElementGuid>35e39770-7ee6-4859-99db-ab7f457b7488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Existing Location' or . = 'Existing Location')]</value>
+      <webElementGuid>6e02d301-d0d7-4d00-b5e6-faffb207f0c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

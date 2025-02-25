@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_ValuablePapersRecordsSchedule_DropDown_ReceptacleTypes_Schedule2</name>
+   <tag></tag>
+   <elementGuidId>d2019cd5-6b1b-4349-ad9f-cf2eb804a72b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>[name='IM7ValPapRecPopup-IM7ValPapRecPanelSet-ScheduleInputSet-1-receptCell']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='IM7ValPapRecPopup-IM7ValPapRecPanelSet-ScheduleInputSet-1-receptCell']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

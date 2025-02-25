@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>AgencyPortal_SmokeTest_ULP</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d9c0eb80-c12d-4624-90cc-fc6a3ec1a55d</testSuiteGuid>
+   <testCaseLink>
+      <guid>dfb5eed9-02ce-457f-9306-2de5b7e20d12</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Portal_PersonalUmbrella/ULP_E2E_SmokeTest_AllStates_PolicyIssuance</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c083c1a3-6f38-4f0c-b123-0be6256310bd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Katalon Files/StateWiseExecution/IAStateExecution</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c083c1a3-6f38-4f0c-b123-0be6256310bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Address</value>
+         <variableId>7eec354f-4d12-41b7-a799-8627ef865b88</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c083c1a3-6f38-4f0c-b123-0be6256310bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ZipCode</value>
+         <variableId>e0211cd2-6376-484e-a0c2-2adc945f234f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9336eff4-ce75-4a73-b238-2286296e993b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8ce2df42-a491-47ed-b66c-2e6bed4baacd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>beb389f9-6619-4f83-8866-180191a034bb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>48957afc-c69e-4d0c-9827-9476fc2aa937</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

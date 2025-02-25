@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_AccountsReceivable_Supplemental_GenInfo_AddBtn</name>
+   <tag></tag>
+   <elementGuidId>b0ab1175-e2ec-4af3-a9da-023d5375b9b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SubmissionWizard-SupplementalScreen-IM7Supplenetal-IM7GenericSupplementalPanelSet-AccountReceivablesGridDV-AccountReceivablesGrid-AccountReceivablesGridLV_tb-Add']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e183baf-6ad5-446b-800a-c63b650da641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>b8db6caf-558f-4573-b937-dd2dab9b8f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>3ed574b0-32b9-41f8-980f-6117f5d3c796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubmissionWizard-SupplementalScreen-IM7Supplenetal-IM7GenericSupplementalPanelSet-AccountReceivablesGridDV-AccountReceivablesGrid-AccountReceivablesGridLV_tb-Add&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>7342f6e7-e67b-4457-a357-005a3c63f463</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SubmissionWizard-SupplementalScreen-IM7Supplenetal-IM7GenericSupplementalPanelSet-AccountReceivablesGridDV-AccountReceivablesGrid-AccountReceivablesGridLV_tb-Add']/div/div[2]</value>
+      <webElementGuid>7e7ef8e5-a7d4-4077-a884-ae443725026b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad'])[2]/following::div[1]</value>
+      <webElementGuid>62cb4844-042b-4e31-85ab-781e961de219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History Of Receivables*'])[1]/following::div[16]</value>
+      <webElementGuid>59ad48b0-8aa0-47ba-8803-e5d2a9fd9cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re'])[4]/preceding::div[2]</value>
+      <webElementGuid>fac133c9-e8ca-4447-a379-ed83047e2d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='dd']/parent::*</value>
+      <webElementGuid>0c0a4113-9858-4e22-be22-fe3e6c890c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>9f9e5c41-cfca-4026-b689-5256869a9588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>5692ea4f-40a0-4d19-8e14-c08e073bf38c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

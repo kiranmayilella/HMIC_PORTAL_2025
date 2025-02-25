@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Portal_Policy_SearchPolicy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49cbb73a-7e1f-415b-8882-c908ceb82e30</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32b4aff2-b653-40b7-92bc-df95c2cf741f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.PolicyNumber</defaultValue>
+      <description></description>
+      <id>32b4aff2-b653-40b7-92bc-df95c2cf741f</id>
+      <masked>false</masked>
+      <name>PolicyNumber</name>
+   </variable>
+</TestCaseEntity>

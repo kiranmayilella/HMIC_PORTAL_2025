@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_WC_StateCoverages_Classcode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>036a743d-f9b2-4859-97e0-695c27b674c8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>426a905d-0670-4af2-b0ce-ff6114d28578</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc348eb9-de77-46c4-aced-f7c86a2763f2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b162579-97fd-4c24-a3e3-dc63fd7d4768</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'0008'</defaultValue>
+      <description></description>
+      <id>426a905d-0670-4af2-b0ce-ff6114d28578</id>
+      <masked>false</masked>
+      <name>ClassCode1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Credit'</defaultValue>
+      <description></description>
+      <id>dc348eb9-de77-46c4-aced-f7c86a2763f2</id>
+      <masked>false</masked>
+      <name>ScheduleModificationTypeOverride</name>
+   </variable>
+   <variable>
+      <defaultValue>'45000'</defaultValue>
+      <description></description>
+      <id>9b162579-97fd-4c24-a3e3-dc63fd7d4768</id>
+      <masked>false</masked>
+      <name>Exposure</name>
+   </variable>
+</TestCaseEntity>

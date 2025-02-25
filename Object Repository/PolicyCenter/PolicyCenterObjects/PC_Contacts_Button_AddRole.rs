@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Contacts_Button_AddRole</name>
+   <tag></tag>
+   <elementGuidId>4e20886b-a4ec-4ac0-91f0-d4e60f6d003f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='EditAccountContactPopup-ContactDetailScreen-AccountContactCV-ContactRolesDV-ContactRolesLV_tb-AddRoleButton']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>66301efb-4f43-470f-a810-76c8e9a4ce7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>69791359-7360-4dae-9a2f-3111af5bef8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Role</value>
+      <webElementGuid>e4f342ba-3197-48aa-963c-3ab777b84075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EditAccountContactPopup-ContactDetailScreen-AccountContactCV-ContactRolesDV-ContactRolesLV_tb-AddRoleButton&quot;)/div[@class=&quot;gw-action--inner gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>f7103162-97f6-49ad-bd0f-37766ea1d114</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EditAccountContactPopup-ContactDetailScreen-AccountContactCV-ContactRolesDV-ContactRolesLV_tb-AddRoleButton']/div/div[2]</value>
+      <webElementGuid>9439ccd9-ed01-4296-886e-800048a99e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AR'])[1]/following::div[1]</value>
+      <webElementGuid>e5f9337d-5df1-4372-8732-e05dc9836f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addresses'])[1]/following::div[18]</value>
+      <webElementGuid>98f25540-3b80-4892-a604-43600e607645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AC'])[1]/preceding::div[3]</value>
+      <webElementGuid>94683b04-a3da-4ada-aeaf-e4b7abe95246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounting Contact'])[1]/preceding::div[5]</value>
+      <webElementGuid>a0853370-8312-4e57-9d60-0b338f9dee88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Role']/parent::*</value>
+      <webElementGuid>0883da79-55a4-4199-9fad-970ddf99c046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>60496699-0754-48c3-a754-40684a48d94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add Role' or . = 'Add Role')]</value>
+      <webElementGuid>2578adb7-8718-4aea-a61c-3be38e2f8524</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

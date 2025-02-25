@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_CancellationBound_NavigateToPolicySummaryAndValidatePolicyStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f751bee1-d356-44e2-9347-72b65e4870eb</testCaseGuid>
+</TestCaseEntity>

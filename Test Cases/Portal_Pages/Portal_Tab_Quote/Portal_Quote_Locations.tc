@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Portal_Quote_Locations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2516a6f7-c68d-4051-98c5-fc5652451cc6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>45cf3826-79b3-4767-b0de-ab37c4277965</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'5000'</defaultValue>
+      <description></description>
+      <id>45cf3826-79b3-4767-b0de-ab37c4277965</id>
+      <masked>false</masked>
+      <name>TotalPayroll</name>
+   </variable>
+</TestCaseEntity>

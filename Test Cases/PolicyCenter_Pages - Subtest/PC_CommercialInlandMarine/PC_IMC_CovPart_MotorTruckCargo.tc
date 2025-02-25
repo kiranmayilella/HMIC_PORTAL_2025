@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_CovPart_MotorTruckCargo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a75f4e7f-93d3-454b-b551-fee2c932bab3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a9b92c4b-6e23-4cdb-bd45-9f2b3a8cc966</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a9b92c4b-6e23-4cdb-bd45-9f2b3a8cc966</id>
+      <masked>false</masked>
+      <name>AddAdditionalCoverage</name>
+   </variable>
+</TestCaseEntity>

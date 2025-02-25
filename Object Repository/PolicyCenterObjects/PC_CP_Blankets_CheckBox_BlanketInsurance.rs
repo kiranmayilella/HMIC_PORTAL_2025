@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_CP_Blankets_CheckBox_BlanketInsurance</name>
+   <tag></tag>
+   <elementGuidId>af471e3b-e156-4f66-b0e9-757377257ebb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@name,'-0-LobCoverageInputSet-CovPatternInputGroup-_checkbox')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//input[contains(@name,'-0-LobCoverageInputSet-CovPatternInputGroup-_checkbox')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

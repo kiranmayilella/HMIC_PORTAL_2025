@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_InstallationFloater_AddCov_IM7127</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77f0c129-5828-4ce4-a02e-cb69b4013299</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17b656e2-6c3d-4a0b-a9ef-040c9d0fd0ab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2500'</defaultValue>
+      <description></description>
+      <id>17b656e2-6c3d-4a0b-a9ef-040c9d0fd0ab</id>
+      <masked>false</masked>
+      <name>IM7127_ConstructionTrailersLimit</name>
+   </variable>
+</TestCaseEntity>

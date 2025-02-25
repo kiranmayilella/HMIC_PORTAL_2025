@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_InitiateRewriteRemainder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4048c854-70ec-4814-a5f5-612f69013f30</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0695e46-8ddc-45b2-9958-61f3a7c4d8d7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a0695e46-8ddc-45b2-9958-61f3a7c4d8d7</id>
+      <masked>false</masked>
+      <name>Rewrite_TransactionNumber</name>
+   </variable>
+</TestCaseEntity>

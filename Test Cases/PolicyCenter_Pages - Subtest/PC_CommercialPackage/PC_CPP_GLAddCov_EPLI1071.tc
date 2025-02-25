@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_CPP_GLAddCov_EPLI1071</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1c494f1-7d9b-48c5-8065-3ff6bd34051a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69f73ab8-75e9-4739-b5e6-75cf3da6e183</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'250,000/250,000'</defaultValue>
+      <description></description>
+      <id>69f73ab8-75e9-4739-b5e6-75cf3da6e183</id>
+      <masked>false</masked>
+      <name>EPLI_EachClaimAggregateLimits</name>
+   </variable>
+</TestCaseEntity>

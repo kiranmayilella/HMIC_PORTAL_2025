@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_WorkSheet_ValidateErrorMsgAndUncheckSelectedCov</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9f6d452-720a-4746-afce-6787cf4ac7ee</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>363c63ad-997c-4a7c-a600-f6ebe8b841f4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7864a5ee-6ae7-45e8-a866-e47c765c9757</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0e8117d-cdeb-4618-baf4-8e5b6a53746c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>363c63ad-997c-4a7c-a600-f6ebe8b841f4</id>
+      <masked>false</masked>
+      <name>CoverageNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7864a5ee-6ae7-45e8-a866-e47c765c9757</id>
+      <masked>false</masked>
+      <name>getErrorMessage</name>
+   </variable>
+   <variable>
+      <defaultValue>'\'Vacancy Changes\' and \'Vacancy Permit\' cannot be written on the same property'</defaultValue>
+      <description></description>
+      <id>a0e8117d-cdeb-4618-baf4-8e5b6a53746c</id>
+      <masked>false</masked>
+      <name>ErrorMessage</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_AccountsReceivable_Coverage_Select_Location</name>
+   <tag></tag>
+   <elementGuidId>d6203a67-2935-40b4-97bb-a5e276e14b65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7AccountsReceivablePopup-IM7AccountsReceivablePanelSet-ScheduleInputSet-addLocationsTB-addExistingLocations-0-UnassignedAccountLocation']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bfe09e28-3ece-4f59-9057-d5262c47d630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>047e17e4-a45f-4f00-b4ad-63b5f0b85dc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1: 69 Washington Ave, Cicero, IN</value>
+      <webElementGuid>2c010908-3af4-4d99-b72b-2e48ec1de56f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7AccountsReceivablePopup-IM7AccountsReceivablePanelSet-ScheduleInputSet-addLocationsTB-addExistingLocations-0-UnassignedAccountLocation&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>961052c0-72a6-48c2-a275-884faa2a09d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IM7AccountsReceivablePopup-IM7AccountsReceivablePanelSet-ScheduleInputSet-addLocationsTB-addExistingLocations-0-UnassignedAccountLocation']/div/div[2]</value>
+      <webElementGuid>842d61dd-df1e-4ee0-ab15-9f4b5d8b6d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Existing Location'])[1]/following::div[10]</value>
+      <webElementGuid>7b674796-a2e5-4485-9902-1998bd2edca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EL'])[1]/following::div[11]</value>
+      <webElementGuid>c1f0f577-74bb-4a50-a3a6-15ea31f21c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re'])[2]/preceding::div[2]</value>
+      <webElementGuid>67816b6c-b1a2-4d44-bc86-92c683864f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1: 69 Washington Ave, Cicero, IN']/parent::*</value>
+      <webElementGuid>4de2c332-d147-4da5-8cc5-948c3e23088d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[4]/div/div/div[2]</value>
+      <webElementGuid>593caa2e-b39c-479d-81a2-9a41ef652bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1: 69 Washington Ave, Cicero, IN' or . = '1: 69 Washington Ave, Cicero, IN')]</value>
+      <webElementGuid>dd36ce57-bf5c-47ee-a631-b4555e37531a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

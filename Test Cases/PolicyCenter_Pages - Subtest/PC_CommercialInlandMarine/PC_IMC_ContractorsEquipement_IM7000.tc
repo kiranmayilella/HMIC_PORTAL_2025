@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_ContractorsEquipement_IM7000</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec433add-c672-4b0b-ae7f-0166ca0366b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12155411-d10d-45fb-8581-6c3745408d27</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>354af9db-3c05-4b98-b8c2-c52caee1af41</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7927d178-847f-4964-8f5f-7c2505757afc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Schedule on File'</defaultValue>
+      <description></description>
+      <id>12155411-d10d-45fb-8581-6c3745408d27</id>
+      <masked>false</masked>
+      <name>IM7000_CoveredProperty</name>
+   </variable>
+   <variable>
+      <defaultValue>'7500'</defaultValue>
+      <description></description>
+      <id>354af9db-3c05-4b98-b8c2-c52caee1af41</id>
+      <masked>false</masked>
+      <name>IM7000_CatastropheLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>7927d178-847f-4964-8f5f-7c2505757afc</id>
+      <masked>false</masked>
+      <name>IM7000_BasicLoad</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_CP_Locations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>304fe9eb-f220-4261-ac97-99ac5249b3b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9fd8899d-9eac-458e-bc0a-7dfd018ce1f3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff3beaeb-0737-472f-9934-d41415045bbf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7f2248e8-21d0-4d85-bb1a-88eb04e95b1b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'24'</defaultValue>
+      <description></description>
+      <id>9fd8899d-9eac-458e-bc0a-7dfd018ce1f3</id>
+      <masked>false</masked>
+      <name>EarthquakeTerritoryOrZone</name>
+   </variable>
+   <variable>
+      <defaultValue>'Remainder of Cook County (excluding Chicago ZIP Codes)'</defaultValue>
+      <description></description>
+      <id>ff3beaeb-0737-472f-9934-d41415045bbf</id>
+      <masked>false</masked>
+      <name>PC_CP_Location_TerrorismTerritory</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7f2248e8-21d0-4d85-bb1a-88eb04e95b1b</id>
+      <masked>false</masked>
+      <name>EarthquakeCauseofLossForm</name>
+   </variable>
+</TestCaseEntity>

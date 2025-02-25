@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_CP_Risks_Button_SpecialClass</name>
+   <tag></tag>
+   <elementGuidId>118bce2e-cc5a-4242-b5fd-779ef0660eb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@id,'AddSpecialClassButton')]//div[@role='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ff73d8e-71bc-4755-8309-f5c498058fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>141cdc05-e430-4b7d-9017-bd9ed463cac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Special Class</value>
+      <webElementGuid>a7a561c5-d8cb-42e2-89c9-1cd8f292fb84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-CP7RisksScreen-CP7RisksPanelSet-CP7RiskDetailsPanelSet-AddSpecialClassButton&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>bd65311a-cedd-4636-961d-16f641d3acfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-CP7RisksScreen-CP7RisksPanelSet-CP7RiskDetailsPanelSet-AddSpecialClassButton']/div/div[2]</value>
+      <webElementGuid>cbc154d1-ca22-4154-a185-df4c95bccd7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AS'])[2]/following::div[1]</value>
+      <webElementGuid>61594dc1-bb64-42f8-b487-ca905027b154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Building'])[1]/following::div[5]</value>
+      <webElementGuid>9ae9d6e3-c5c7-4bca-9281-9a90cb3dfcb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Special Class']/parent::*</value>
+      <webElementGuid>228bf026-8712-4393-8af4-fa0c72edb11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/table/tbody/tr/td/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>77307128-4ef1-4250-a951-965eb9118fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add Special Class' or . = 'Add Special Class')]</value>
+      <webElementGuid>8ba7211f-38db-4200-be83-5a009938e6af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

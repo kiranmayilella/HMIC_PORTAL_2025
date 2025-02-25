@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_Common_RiskAnalysis_ValidateUWIssueName_DoesNotExit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>522e409a-51f6-47bf-a727-3f2470549956</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b778e99-789d-44c1-8c58-cc01fc4b81cf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0b778e99-789d-44c1-8c58-cc01fc4b81cf</id>
+      <masked>false</masked>
+      <name>UWIssueName</name>
+   </variable>
+</TestCaseEntity>

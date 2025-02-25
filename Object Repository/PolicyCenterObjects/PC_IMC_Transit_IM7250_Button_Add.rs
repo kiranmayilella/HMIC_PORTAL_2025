@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_Transit_IM7250_Button_Add</name>
+   <tag></tag>
+   <elementGuidId>caf47f10-3e60-47f6-a329-9757a98f77c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7TransitPopup-IM7TransitPanelSet-TransitCovCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d2b4602b-1f78-47a0-a415-1d513e70144a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>3a19eb79-0171-42f5-b52b-5d8ee372326f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>88135b91-57f5-412d-b1b0-d53d91190979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7TransitPopup-IM7TransitPanelSet-TransitCovCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB&quot;)/div[@class=&quot;gw-action--inner gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>0c733a99-e9a2-4526-a412-67fc2436e330</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IM7TransitPopup-IM7TransitPanelSet-TransitCovCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB']/div/div[2]</value>
+      <webElementGuid>c44befb8-d472-4815-8ce5-2d86b8f1572c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad'])[2]/following::div[1]</value>
+      <webElementGuid>929df20c-868f-4017-9420-cd6741c07b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Railroad Train Annual Value Shipped/Sales'])[1]/following::div[20]</value>
+      <webElementGuid>af3ce768-9bf7-4746-a69e-cc72341c4cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NL'])[1]/preceding::div[3]</value>
+      <webElementGuid>fbc14bb4-7f12-473a-8cdc-c2c8b3f3d143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Location'])[1]/preceding::div[5]</value>
+      <webElementGuid>d5288797-bd23-4a96-8013-3fa0b09471b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>02811f5d-f173-49a7-95f2-c71a810e220c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>904f2822-017c-42f1-9290-34d2a2114751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>dcf385d1-30e8-48e2-8b3a-4c01ef9f251b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_PolicySummary_CurrentCancellationActivity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cd1d092-cb80-4f50-aa1d-f777414b7d24</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d9a41ad1-97c5-4190-9f5e-af84a0dd4f12</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d9a41ad1-97c5-4190-9f5e-af84a0dd4f12</id>
+      <masked>false</masked>
+      <name>AssignmentSelectFromList</name>
+   </variable>
+</TestCaseEntity>

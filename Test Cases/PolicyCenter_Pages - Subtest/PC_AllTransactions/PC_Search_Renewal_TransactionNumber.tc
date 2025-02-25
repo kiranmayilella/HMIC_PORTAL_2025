@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_Search_Renewal_TransactionNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4c0e95b-da56-4dfa-b8ec-559b4b8cf674</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ef46f66b-bf51-4679-917a-98671d796fe2</id>
+      <masked>false</masked>
+      <name>Renewal_TransactionNumber</name>
+   </variable>
+</TestCaseEntity>

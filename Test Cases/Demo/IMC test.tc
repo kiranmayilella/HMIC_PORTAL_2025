@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IMC test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>731713e7-9f83-4097-bb6b-9206cf1af466</testCaseGuid>
+   <variable>
+      <defaultValue>'TS01_AUTO_PC_GL_NB_POPC_IN'</defaultValue>
+      <description></description>
+      <id>3570a1e1-f0ad-4abd-b8b1-87cba97f19b6</id>
+      <masked>false</masked>
+      <name>TCName</name>
+   </variable>
+   <variable>
+      <defaultValue>'testuwsup3'</defaultValue>
+      <description></description>
+      <id>d291898b-87e6-437b-9dff-3848ab14a680</id>
+      <masked>false</masked>
+      <name>PC_Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Guide123Wire'</defaultValue>
+      <description></description>
+      <id>62d457c5-b113-43c8-90aa-5ae06a8cc7aa</id>
+      <masked>false</masked>
+      <name>PC_Password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>d40de8fb-b04e-4127-b4a1-87c2c161f570</id>
+      <masked>false</masked>
+      <name>Address1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>f61b3c8e-f32a-49f7-b96b-bae80f676841</id>
+      <masked>false</masked>
+      <name>City</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>84181447-2776-41dd-975a-8d8ea683db16</id>
+      <masked>false</masked>
+      <name>AddressType</name>
+   </variable>
+   <variable>
+      <defaultValue>'AssuredPartners'</defaultValue>
+      <description></description>
+      <id>ed4367f6-4c56-4848-8093-673f62674507</id>
+      <masked>false</masked>
+      <name>AgencyName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>995309ec-c447-41cd-98fe-d3ccf46d585e</id>
+      <masked>false</masked>
+      <name>ProducerCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>f9eab5d7-be3b-4948-ba78-981ce3baa285</id>
+      <masked>false</masked>
+      <name>Zipcode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>fc107347-eb22-4be4-b419-e9d13b98b49f</id>
+      <masked>false</masked>
+      <name>State</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>59973d17-06c7-4aca-a986-503720a7a86b</id>
+      <masked>false</masked>
+      <name>LOB</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>4a3de480-3c96-4723-839f-72aab33bffa8</id>
+      <masked>false</masked>
+      <name>Subline</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>044fab8c-daa0-46d2-97a6-648d5c0432e8</id>
+      <masked>false</masked>
+      <name>LegalEntity</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>9eaa2595-90fa-4908-9dba-ed443fd3f569</id>
+      <masked>false</masked>
+      <name>YearBusinessStarted</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>9ae7f2e6-f9d2-4090-915a-385a2292cd6a</id>
+      <masked>false</masked>
+      <name>RiskType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>cd55e8d2-a0bc-4789-b243-fa11e1f13c71</id>
+      <masked>false</masked>
+      <name>LimitedProductWithdrawalCoverage</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>e3d5a902-f7bf-4fc1-9792-9029794bc92f</id>
+      <masked>false</masked>
+      <name>Limits_EachOccurrenceLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>2a8b918e-87ab-4590-97b9-56a3e06dbbcf</id>
+      <masked>false</masked>
+      <name>Limits_PersonalandAdvertisingInjuryLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>5c561c1f-6007-48c7-a3a0-f8eca6abef0e</id>
+      <masked>false</masked>
+      <name>Limits_GeneralAggregateLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>ed6e81b9-9dab-414f-bd87-bbba28b2bfa5</id>
+      <masked>false</masked>
+      <name>ProdCoAggregateLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>13fe4b39-2596-479c-a4b0-d9f49273222f</id>
+      <masked>false</masked>
+      <name>Select_MedicalPaymentsLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>190dcdbf-de7b-47d2-8dbe-39dc4b152946</id>
+      <masked>false</masked>
+      <name>DamageToPremisesRentedToYouLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>2121c7c8-a464-4751-9c18-f8b48f0c61a5</id>
+      <masked>false</masked>
+      <name>ClassCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>be815c10-d409-495d-8d07-36bc2ba0951b</id>
+      <masked>false</masked>
+      <name>PremOpPDdeductible</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>2ffa0879-e441-498f-af09-602e1a08dfb0</id>
+      <masked>false</masked>
+      <name>PremOpBIdeductible</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>a72be7be-e5fb-4062-9ba6-4152c1304bc6</id>
+      <masked>false</masked>
+      <name>PremOpExposure</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>452dfafb-46d9-4b80-8978-882e6ae92efe</id>
+      <masked>false</masked>
+      <name>PremOpIfAnyBasis</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>faa27cae-18ed-4e89-95eb-53005ea2311c</id>
+      <masked>false</masked>
+      <name>SelectOtherStateForSubline</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>e7780150-f035-427d-bd03-9a07daff0567</id>
+      <masked>false</masked>
+      <name>GL_AddCov1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>002457a9-4966-42cd-b9bd-050547219fc3</id>
+      <masked>false</masked>
+      <name>GL_AddCov2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>fc2f69a3-48c0-4084-802e-3fdbed2619a5</id>
+      <masked>false</masked>
+      <name>GL_AddCov4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>17f756f9-d60a-401c-812d-4df828b8e2a9</id>
+      <masked>false</masked>
+      <name>GL_AddCov3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>f4b17324-cc1f-44b6-b3f6-60f48fda0792</id>
+      <masked>false</masked>
+      <name>NewLoc1_ZipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>a08cd3d3-ba24-4c34-9d91-70417384be9a</id>
+      <masked>false</masked>
+      <name>NewLoc1_Address1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>8506417e-f124-4f92-9497-db6825eb0e53</id>
+      <masked>false</masked>
+      <name>NewLoc1_City</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>85b99f7a-ca1e-415e-a2f7-5495cf3f5ce2</id>
+      <masked>false</masked>
+      <name>NewLoc1_State</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>0e5bf229-a357-414e-a5b7-b37476d2a252</id>
+      <masked>false</masked>
+      <name>NewLocationNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>4e910730-89a5-4159-9e4b-08559e8c08a8</id>
+      <masked>false</masked>
+      <name>Exp_AddCov1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>eba53f21-06d8-4aab-998d-b42c6f23c6de</id>
+      <masked>false</masked>
+      <name>ClassCode2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>9e263e01-798f-4132-a8c3-7bb74a1ad727</id>
+      <masked>false</masked>
+      <name>Exposures_LocationIndex</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>0f03db75-b11e-4e96-8433-2dbb5d67f4ee</id>
+      <masked>false</masked>
+      <name>Exp_AddCov2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>2d29351f-44b3-4a14-bea4-1ad852ccb07a</id>
+      <masked>false</masked>
+      <name>ExpFormNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>e0c01f23-2568-43ca-8f17-d6c7ed229195</id>
+      <masked>false</masked>
+      <name>ExpFormEditionDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>4e31f404-397f-48b0-920c-5a6427ab3dcd</id>
+      <masked>false</masked>
+      <name>ExpFormDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>a09cdffe-ed6d-4767-b97c-4dc674672cf5</id>
+      <masked>false</masked>
+      <name>Exp_GLFormNumber3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>c89ad47e-eae2-4a00-8b47-a88450928b87</id>
+      <masked>false</masked>
+      <name>Exp_GLFormEditionDate3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>53a7a6b7-1a04-4950-b7ce-78f9eac7153c</id>
+      <masked>false</masked>
+      <name>Exp_GLFormDescription3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>0e645738-25ed-4e0b-8658-8ab491fe60bb</id>
+      <masked>false</masked>
+      <name>Exp_GLFormNumber1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>7ab141ad-76ad-422a-8e20-b972c806e04a</id>
+      <masked>false</masked>
+      <name>Exp_GLFormEditionDate1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>a1104f93-b5d2-4773-8b0b-dc3236cdc0e2</id>
+      <masked>false</masked>
+      <name>Exp_GLFormDescription1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>d08a89d2-6c76-4855-bd5c-1971f909249f</id>
+      <masked>false</masked>
+      <name>Exp_GLFormNumber4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>c2fcc5af-549a-4169-9458-10e575a1c97c</id>
+      <masked>false</masked>
+      <name>Exp_GLFormEditionDate4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>03d4379e-0e74-4636-b9f6-7bdd629fd274</id>
+      <masked>false</masked>
+      <name>Exp_GLFormDescription4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>630a5d99-5a8a-48d8-a7cf-899ad8753382</id>
+      <masked>false</masked>
+      <name>ExpFormNumber2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>fbc4e6c0-c28f-4423-a2bf-d59002f0309b</id>
+      <masked>false</masked>
+      <name>ExpFormEditionDate2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>e4eb04ae-08f2-41a4-9cac-a0d4b2e85599</id>
+      <masked>false</masked>
+      <name>ExpFormDescription2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>0c8b6c27-9ea3-473e-8802-4183fc587904</id>
+      <masked>false</masked>
+      <name>Exp_GLFormNumber2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>15517b70-9884-4da2-859a-49b7c42f6508</id>
+      <masked>false</masked>
+      <name>Exp_GLFormEditionDate2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/PolicyCenter/TS01_AUTO_PC_GL_NB_POPC_IN')</defaultValue>
+      <description></description>
+      <id>5bd4c188-9856-4dee-9ec1-d00995e85e5d</id>
+      <masked>false</masked>
+      <name>Exp_GLFormDescription2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6fbb9d3c-9a1c-4c10-9d9d-94e121a33437</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>48ba1f6c-b825-4290-923f-b1033c06e837</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>

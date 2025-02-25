@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_CrimeScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50f82f23-62d3-442b-8c6f-ccbb0e30a71d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0ec5c34-1cd8-402c-ab74-2c38ff9e83ed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1795c6f-862b-49a2-a718-71e1723a14a5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70c17d11-8fb5-4356-b846-de630893b8ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b94d872e-c6e2-4cc5-84a3-45c14192b71a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48629ca6-7845-44dc-a743-abc18c5130f4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Commercial Crime'</defaultValue>
+      <description></description>
+      <id>f0ec5c34-1cd8-402c-ab74-2c38ff9e83ed</id>
+      <masked>false</masked>
+      <name>CoverageForms</name>
+   </variable>
+   <variable>
+      <defaultValue>'100'</defaultValue>
+      <description></description>
+      <id>c1795c6f-862b-49a2-a718-71e1723a14a5</id>
+      <masked>false</masked>
+      <name>TotalNoOfRatableEmps</name>
+   </variable>
+   <variable>
+      <defaultValue>'Accommodation And Food Services'</defaultValue>
+      <description></description>
+      <id>70c17d11-8fb5-4356-b846-de630893b8ee</id>
+      <masked>false</masked>
+      <name>MajorIndustryGroup</name>
+   </variable>
+   <variable>
+      <defaultValue>'Accommodations'</defaultValue>
+      <description></description>
+      <id>b94d872e-c6e2-4cc5-84a3-45c14192b71a</id>
+      <masked>false</masked>
+      <name>PredominantActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bed and breakfasts'</defaultValue>
+      <description></description>
+      <id>48629ca6-7845-44dc-a743-abc18c5130f4</id>
+      <masked>false</masked>
+      <name>ClassDescription</name>
+   </variable>
+</TestCaseEntity>

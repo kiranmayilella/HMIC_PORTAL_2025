@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_CovPart_InstallationFloater</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b274300-fc17-4fe9-b53b-6ab148fdce56</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5bf9dbb3-fcea-4641-8668-f756b9eefc31</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1316d42-03aa-4619-aee9-4130b8c8c617</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ee3a2d0-c20a-401f-9ef4-d08e237d8c0c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26609d9d-8676-4eff-8048-2c6720e719f4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6952f6b-2fe7-40b6-adfe-812e45315b39</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'IM 7100'</defaultValue>
+      <description></description>
+      <id>ff7a43dd-2f9c-4288-a1f7-b20ab81239a3</id>
+      <masked>false</masked>
+      <name>InstallationFloaterCoverage</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1316d42-03aa-4619-aee9-4130b8c8c617</id>
+      <masked>false</masked>
+      <name>AddAdditionalCoverage</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ee3a2d0-c20a-401f-9ef4-d08e237d8c0c</id>
+      <masked>false</masked>
+      <name>CoverageNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Blanket Coverage'</defaultValue>
+      <description></description>
+      <id>26609d9d-8676-4eff-8048-2c6720e719f4</id>
+      <masked>false</masked>
+      <name>IM7100_PropertyCovered</name>
+   </variable>
+   <variable>
+      <defaultValue>'Schedule Equipment'</defaultValue>
+      <description></description>
+      <id>d6952f6b-2fe7-40b6-adfe-812e45315b39</id>
+      <masked>false</masked>
+      <name>IM7102_ScheduledContractorsEquipment</name>
+   </variable>
+</TestCaseEntity>

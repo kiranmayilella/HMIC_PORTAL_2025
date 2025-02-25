@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Policychange_PolicyDetails_Entity_Select_Individual</name>
+   <tag></tag>
+   <elementGuidId>4b812f87-f38a-4d95-9694-dc580aa5ff0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'react-select-4-option-1' and (text() = 'Individual' or . = 'Individual')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[@id='react-select-4-option-1']</value>
+      <webElementGuid>ae40379a-bf3d-488b-85c8-c58a04413413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/following::div[1]</value>
+      <webElementGuid>442320d6-4b47-4fac-a1f4-1807542fd3c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]</value>
+      <webElementGuid>85146e7d-5d1c-4c82-9c68-2d04ae23b644</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

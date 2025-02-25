@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_REGECovPart_ElecricityReplacement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea9b72f2-09a3-4024-912b-5cf0320ffdfe</testCaseGuid>
+   <variable>
+      <defaultValue>'25000'</defaultValue>
+      <description></description>
+      <id>553e0697-4b8e-4ce7-8e4d-fbdc446d964c</id>
+      <masked>false</masked>
+      <name>ElectricityReplacementLimit</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_Common_RiskAnalysis_ValidateUWIssueName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfec8637-b89c-4883-a220-10cf8fb55c95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>395de3a9-3f0e-484b-b6b8-abf622255951</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>395de3a9-3f0e-484b-b6b8-abf622255951</id>
+      <masked>false</masked>
+      <name>UWIssueName</name>
+   </variable>
+</TestCaseEntity>

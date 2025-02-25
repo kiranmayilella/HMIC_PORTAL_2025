@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Account_PolicySummary_Button_Cancel Policy</name>
+   <tag></tag>
+   <elementGuidId>75c42221-d247-4ce1-8c2f-781452a6e3aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='managePolicy_1077722406']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#managePolicy_1077722406 > a.jut__DropdownMenu__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>49ff0271-c209-4603-b494-db69fadfa2bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jut__DropdownMenu__link</value>
+      <webElementGuid>afc3ddad-46b3-4ca5-b08c-e53dff2a0168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>659b21af-b659-4c15-aa29-757b42cff381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/policies/A000142049/cancel</value>
+      <webElementGuid>ea077d01-83de-482c-b8d9-0e93403ed9e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel Policy</value>
+      <webElementGuid>a18ff952-1b27-4b0a-a109-155b9cb36460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;managePolicy_1077722406&quot;)/a[@class=&quot;jut__DropdownMenu__link&quot;]</value>
+      <webElementGuid>f2e0eda3-87d5-4dab-b5e2-74267f088a7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='managePolicy_1077722406']/a</value>
+      <webElementGuid>a2f83248-38b1-4a5e-a3a0-e233ca8d300c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cancel Policy')]</value>
+      <webElementGuid>52ad850f-819f-4f59-b690-e79d46cf3186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='manage policy'])[1]/following::a[1]</value>
+      <webElementGuid>0abb6f59-927a-4ae6-8b44-d9b3968f2dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Methods'])[1]/following::a[1]</value>
+      <webElementGuid>50c08b94-7927-48fc-b407-746d41d6a7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policy Summary'])[1]/preceding::a[1]</value>
+      <webElementGuid>3ef0c31e-6932-4e78-ae0a-72a9aea82a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policy Charges'])[1]/preceding::a[1]</value>
+      <webElementGuid>b53d45ef-1002-4847-ac33-582f82730f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel Policy']/parent::*</value>
+      <webElementGuid>c43e2a1a-f425-4f1d-bda8-b44c0f0860b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/policies/A000142049/cancel')]</value>
+      <webElementGuid>c06b37a8-365d-4f1d-ace0-a682eb68ecc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/a</value>
+      <webElementGuid>29b747ab-81be-43e8-b6cb-8516088264c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/policies/A000142049/cancel' and (text() = 'Cancel Policy' or . = 'Cancel Policy')]</value>
+      <webElementGuid>772952da-51ba-4bb8-9e3c-3723757ba706</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

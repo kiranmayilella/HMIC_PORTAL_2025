@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_WC_StateCoverages_Click_InterLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57c5d8d7-dbcf-4b66-a5c2-1daf0524eaa7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f4c1f55-2978-4e74-98ed-7716f3f3b990</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f4c1f55-2978-4e74-98ed-7716f3f3b990</id>
+      <masked>false</masked>
+      <name>State</name>
+   </variable>
+</TestCaseEntity>

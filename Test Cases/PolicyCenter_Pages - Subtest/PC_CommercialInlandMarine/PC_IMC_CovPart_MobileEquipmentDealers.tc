@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_CovPart_MobileEquipmentDealers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71705565-31c5-442a-b03e-9c63355f00a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be993d0b-87e1-4332-b800-35e2966be1f5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>404d3584-6ed8-4458-a0e7-98f41ba5c16c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b25f161-5c6e-4a58-867a-0ca98f668733</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be993d0b-87e1-4332-b800-35e2966be1f5</id>
+      <masked>false</masked>
+      <name>MobEquipDealrsPropAtPremNotDescribedOnSchdlOfCov</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>404d3584-6ed8-4458-a0e7-98f41ba5c16c</id>
+      <masked>false</masked>
+      <name>MobEquipDealrsPropertyInTransit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b25f161-5c6e-4a58-867a-0ca98f668733</id>
+      <masked>false</masked>
+      <name>MobEquipDealrsNewlyAcquiredLoc</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_GL_AddCov_TextBox_DescriptionAndLocations</name>
+   <tag></tag>
+   <elementGuidId>1bbcb4e9-798f-43cc-89e7-05f254516a1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-GL7GeneralLiabilityCoveragesScreen-GL7SublinesCV-GL7AdditionalCoveragesPerSublinePanelSet-GL7CoveragesPerSublineDV-0-3-LobCoverageInputSet-CovPatternInputGroup-LobScheduleInputSet-LobScheduledItemsLVInputSet-LobScheduledItemsLV-ScheduledItemsIterator-0-1-UnvalidatedScheduledItemColumnInput-LobScheduledItemColumnInput-StringValue']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

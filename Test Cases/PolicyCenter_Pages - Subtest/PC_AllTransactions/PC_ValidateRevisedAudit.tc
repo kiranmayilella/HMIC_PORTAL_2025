@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_ValidateRevisedAudit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2461f1b-3742-413d-bb13-e3d13421118c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>150d648f-cc4a-4ecb-b884-7a5118840f10</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Closed within last 12 months'</defaultValue>
+      <description></description>
+      <id>150d648f-cc4a-4ecb-b884-7a5118840f10</id>
+      <masked>false</masked>
+      <name>PC_AuditSchedule_DropdownStatus</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Common_Label_LOB</name>
+   <tag></tag>
+   <elementGuidId>668afb2f-3e90-4eb3-8074-9170f378ec36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SubmissionWizard-JobWizardInfoBar-LOBLabel']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SubmissionWizard-JobWizardInfoBar-LOBLabel > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7cbb6e36-63eb-4eab-97ba-7d04e854af4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>29d874e1-7f51-441f-a775-caf9157e6245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commercial Package</value>
+      <webElementGuid>746a2935-3b78-4be6-a539-381e448a39aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubmissionWizard-JobWizardInfoBar-LOBLabel&quot;)/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>06c415c4-4df2-45d2-bdff-ae8797ff61ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SubmissionWizard-JobWizardInfoBar-LOBLabel']/div</value>
+      <webElementGuid>92d54027-c0fb-4592-8b8b-43c4a9115e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submission (Draft)'])[1]/following::div[3]</value>
+      <webElementGuid>2d974d1c-7fe0-4f7c-ba9f-41814d784197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::div[22]</value>
+      <webElementGuid>17bdb29d-c6a8-4836-ab8e-3f83dcdc46a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective: 02/28/2023'])[1]/preceding::div[1]</value>
+      <webElementGuid>32dec666-efed-477d-9345-abfe52cedb09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary:'])[1]/preceding::div[3]</value>
+      <webElementGuid>c1b5f5df-b347-4390-a1c4-d7d41a242ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Commercial Package']/parent::*</value>
+      <webElementGuid>42ea95b0-6ed6-41a1-944e-4a444d7751e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div[3]/div</value>
+      <webElementGuid>278fb3b1-686d-475d-b48b-a8767dbcd5f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Commercial Package' or . = 'Commercial Package')]</value>
+      <webElementGuid>25687ca5-fbae-41bb-8774-43d6687c267a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_91342 - CarpentryUnknown</name>
+   <tag></tag>
+   <elementGuidId>f039fbb2-386c-4350-b745-95149b556a60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-19-option-934']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-19-option-934</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9488243a-552c-4c63-acfa-a6bc6930f89d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-19-option-934</value>
+      <webElementGuid>f7b13402-6a1e-4aca-a7b0-1ab728d57460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>dcbb9f45-ec9a-484c-9dc2-2a1b48dfa93e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jut__LookupField__option jut__LookupField__focused</value>
+      <webElementGuid>2f9b82c7-e5b9-4315-9a8f-80724bb4d9ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>91342 - CarpentryUnknown</value>
+      <webElementGuid>07b250f2-0ad0-45a6-a3f4-3f7a92aa9822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-19-option-934&quot;)</value>
+      <webElementGuid>0800a0be-711f-48a3-997b-7438fdb8bd13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-19-option-934']</value>
+      <webElementGuid>3dd3d31a-ca03-4a2c-a862-26cfe4b1a407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[5]/following::div[1]</value>
+      <webElementGuid>d44ea514-f3c3-4f4a-8ff7-5365b5b52f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carp'])[4]/following::div[2]</value>
+      <webElementGuid>cb6f2890-d3c5-46bf-94e5-16e3bd4a3380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[6]</value>
+      <webElementGuid>8f836f46-f383-4c95-8b65-ff95f2ec6417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-19-option-934' and (text() = '91342 - CarpentryUnknown' or . = '91342 - CarpentryUnknown')]</value>
+      <webElementGuid>896a642b-f1e6-4332-ab70-9b0b7f1f5a89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

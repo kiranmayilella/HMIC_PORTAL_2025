@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Supplemental_HotelQuesFireProtection_Textbox_Sprinklerednopercentageiisnot</name>
+   <tag></tag>
+   <elementGuidId>05a42b45-804b-46db-b0c2-7f83bae43c45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@name,'FireProtection-QuestionSetLV-3-QuestionModalInput')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='SubmissionWizard-SupplementalScreen-GL7Supplenetal-GL7GenericSupplementalPanelSet-FireProtection-QuestionSetLV-3-QuestionModalInput-IntegerFieldInput_NoPost']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

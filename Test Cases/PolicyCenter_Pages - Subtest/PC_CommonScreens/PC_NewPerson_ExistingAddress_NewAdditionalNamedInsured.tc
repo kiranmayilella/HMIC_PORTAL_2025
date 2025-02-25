@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_NewPerson_ExistingAddress_NewAdditionalNamedInsured</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a818ca9-fec1-41a8-81e6-74213273578e</testCaseGuid>
+</TestCaseEntity>

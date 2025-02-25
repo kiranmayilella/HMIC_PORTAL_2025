@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_Transit_AddCov_IM7265BackhaulCoverage_TextBox_CatastropheLimit</name>
+   <tag></tag>
+   <elementGuidId>0a291a3e-7e80-4540-903a-1b592631a42c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7TransitPopup-IM7TransitPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup-IM7TransitBackhaulCovTransitBackhaulCatasLmt_Input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='IM7TransitPopup-IM7TransitPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup-IM7TransitBackhaulCovTransitBackhaulCatasLmt']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

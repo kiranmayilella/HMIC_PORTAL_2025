@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_MotorTruckCargo_Verify_IM7483</name>
+   <tag></tag>
+   <elementGuidId>65639501-bb6b-46d4-aff2-5886bd021f70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7MotorTruckCargoPopup-IM7MotorTruckCargoPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-InputGroup--header--label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cab4b3b1-62e2-4d5a-8d24-4d8ba4143548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-InputGroup--header--label</value>
+      <webElementGuid>b13031e7-bb43-4fee-8cd0-43186621f992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IM 7483 Personal Property Coverage</value>
+      <webElementGuid>26123b54-edc5-4ea8-ba97-d5d4beb836bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7MotorTruckCargoPopup-IM7MotorTruckCargoPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup&quot;)/div[@class=&quot;gw-InputGroup--header&quot;]/div[@class=&quot;gw-InputGroup--header--label&quot;]</value>
+      <webElementGuid>9701c9d9-ef16-4b2a-a203-76502e33002d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IM7MotorTruckCargoPopup-IM7MotorTruckCargoPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup']/div/div[2]</value>
+      <webElementGuid>eb4d2e81-da31-4952-9168-3620a7341144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Coverages'])[1]/following::div[8]</value>
+      <webElementGuid>e737bd50-6fac-498e-93ae-0bed24f880bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AC'])[3]/following::div[9]</value>
+      <webElementGuid>67d08a39-5b87-4ba9-95ce-3d807a417347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Personal Property Limit'])[1]/preceding::div[1]</value>
+      <webElementGuid>aac6d1f8-3df5-4172-a6ad-f324ddf629c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Property Deductible'])[1]/preceding::div[6]</value>
+      <webElementGuid>6d80319d-4e36-4ad8-924d-9fd395cceece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IM 7483 Personal Property Coverage']/parent::*</value>
+      <webElementGuid>578ad9bf-8a8a-4413-8121-b646a926d263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>1c0200c9-4b9f-418f-a51c-2e6d923475d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IM 7483 Personal Property Coverage' or . = 'IM 7483 Personal Property Coverage')]</value>
+      <webElementGuid>48a2157e-9d0a-43e8-8301-443de03b4bd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

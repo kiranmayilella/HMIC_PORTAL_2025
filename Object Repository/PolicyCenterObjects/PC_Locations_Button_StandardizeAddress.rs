@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Locations_Button_StandardizeAddress</name>
+   <tag></tag>
+   <elementGuidId>4326bde1-83fc-462a-b1a1-514aa35bff6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='GL7LocationPopup-LocationScreen-GL7LocationDetailCV-LocationDetailDV-GL7LocationDetailInputSet-GL7TargetedAddressInputSet-globalAddressContainer-GLGlobalAddressInputSet-StdAddressIS-standardize']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0b24cdc-d7e6-43d4-b479-f4df94325d47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>cf06449d-0141-4f04-b27d-c85600c41d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Standardize Address</value>
+      <webElementGuid>ec7283ac-16c7-45a1-84ab-220d9f4d35ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GL7LocationPopup-LocationScreen-GL7LocationDetailCV-LocationDetailDV-GL7LocationDetailInputSet-GL7TargetedAddressInputSet-globalAddressContainer-GLGlobalAddressInputSet-StdAddressIS-standardize&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>4a06c185-9c18-46b6-a0fe-75253ae5214e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GL7LocationPopup-LocationScreen-GL7LocationDetailCV-LocationDetailDV-GL7LocationDetailInputSet-GL7TargetedAddressInputSet-globalAddressContainer-GLGlobalAddressInputSet-StdAddressIS-standardize']/div/div[2]</value>
+      <webElementGuid>653ac27a-47d9-4e73-a1eb-3b4954394ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SA'])[1]/following::div[1]</value>
+      <webElementGuid>9b0c9f78-9805-43f4-ba74-1a6d9189ea48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Standardized'])[1]/following::div[13]</value>
+      <webElementGuid>055e3e26-702b-446b-8c65-d0fd79c2d592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ov'])[1]/preceding::div[1]</value>
+      <webElementGuid>b99887e1-30d2-47fc-82bb-4218b6011b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Override'])[1]/preceding::div[3]</value>
+      <webElementGuid>9e48a39d-fc39-42c2-8afb-26b780813ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Standardize Address']/parent::*</value>
+      <webElementGuid>9eab9748-f9f9-46a0-bb13-205c220d3ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div[2]/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>e11bf9d6-7a89-4347-bdfb-7f95bc2955d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Standardize Address' or . = 'Standardize Address')]</value>
+      <webElementGuid>ecccc1e5-d210-4c64-be27-5867fea7f0fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

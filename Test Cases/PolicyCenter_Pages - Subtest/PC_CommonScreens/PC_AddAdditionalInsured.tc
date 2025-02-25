@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_AddAdditionalInsured</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a502a5c5-5d5e-48ed-9056-3445a3e9e873</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6cd2e773-a089-4bd9-9fda-bd64d856d89c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6cd2e773-a089-4bd9-9fda-bd64d856d89c</id>
+      <masked>false</masked>
+      <name>CoverageNumber</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_ValidateRewriteRemainderBoundAndNavigateToPolicySummary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dc01081-014d-440a-a806-871e32a282b2</testCaseGuid>
+</TestCaseEntity>

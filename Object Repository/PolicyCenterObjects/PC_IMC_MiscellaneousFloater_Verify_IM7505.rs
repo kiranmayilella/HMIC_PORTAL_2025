@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_MiscellaneousFloater_Verify_IM7505</name>
+   <tag></tag>
+   <elementGuidId>dd904ea0-855a-4172-b568-d52c9fa3ece4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IM7MiscellaneousFloaterPopup-IM7MiscellaneousFloaterPanelSet-MFCovCovPatterns-CoverageCategoryInputSet-5-CoverageInputSet-CovPatternInputGroup']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#IM7MiscellaneousFloaterPopup-IM7MiscellaneousFloaterPanelSet-MFCovCovPatterns-CoverageCategoryInputSet-5-CoverageInputSet-CovPatternInputGroup > div.gw-InputGroup--header > div.gw-InputGroup--header--label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e82c447-2760-442f-b60c-316287cb4978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-InputGroup--header--label</value>
+      <webElementGuid>ef1ee972-97c7-4fa0-8dd6-d3a4e0e392b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IM 7505 Mobile Equipment Floater</value>
+      <webElementGuid>72873c8d-755d-4bf3-9af6-4f7a312c5cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7MiscellaneousFloaterPopup-IM7MiscellaneousFloaterPanelSet-MFCovCovPatterns-CoverageCategoryInputSet-5-CoverageInputSet-CovPatternInputGroup&quot;)/div[@class=&quot;gw-InputGroup--header&quot;]/div[@class=&quot;gw-InputGroup--header--label&quot;]</value>
+      <webElementGuid>76aa50fc-af62-42b1-bb42-eb8a878ebf55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IM7MiscellaneousFloaterPopup-IM7MiscellaneousFloaterPanelSet-MFCovCovPatterns-CoverageCategoryInputSet-5-CoverageInputSet-CovPatternInputGroup']/div/div[2]</value>
+      <webElementGuid>02afe66d-2ff7-4913-839c-572a33260195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IM 7505 Mobile Equipment Floater'])[1]/following::div[5]</value>
+      <webElementGuid>a2050154-ab8e-4027-8986-f5f230a2184d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IM 7504 Sales Representative Floater'])[1]/following::div[14]</value>
+      <webElementGuid>ca3a6fb6-ebb8-4319-a1b9-d36e35a21973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div[2]</value>
+      <webElementGuid>acabe264-7935-4ef1-b3fd-b0f6c16586b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IM 7505 Mobile Equipment Floater' or . = 'IM 7505 Mobile Equipment Floater')]</value>
+      <webElementGuid>c5469b6b-54f6-4c5f-8f96-514d49d606f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

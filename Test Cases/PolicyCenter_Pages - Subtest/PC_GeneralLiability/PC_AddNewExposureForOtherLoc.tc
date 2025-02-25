@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_AddNewExposureForOtherLoc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ceb277a-c5d9-436f-b9ea-db6b45a0fcea</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9345754-d58b-4c56-91fc-24e38ac4978d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea1a4a51-054f-4e1a-8b14-bcd38f40375e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>497edba8-e24a-47c1-ad3b-eb8b3bc1386a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c9345754-d58b-4c56-91fc-24e38ac4978d</id>
+      <masked>false</masked>
+      <name>ClassCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea1a4a51-054f-4e1a-8b14-bcd38f40375e</id>
+      <masked>false</masked>
+      <name>Subline</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>497edba8-e24a-47c1-ad3b-eb8b3bc1386a</id>
+      <masked>false</masked>
+      <name>Exposures_LocationIndex</name>
+   </variable>
+</TestCaseEntity>

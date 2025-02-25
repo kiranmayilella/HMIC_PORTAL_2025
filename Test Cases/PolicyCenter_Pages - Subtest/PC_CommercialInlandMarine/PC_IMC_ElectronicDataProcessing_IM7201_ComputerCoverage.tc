@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_ElectronicDataProcessing_IM7201_ComputerCoverage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffc75f5c-63b8-4268-842b-dbf9ebfc5c2c</testCaseGuid>
+</TestCaseEntity>

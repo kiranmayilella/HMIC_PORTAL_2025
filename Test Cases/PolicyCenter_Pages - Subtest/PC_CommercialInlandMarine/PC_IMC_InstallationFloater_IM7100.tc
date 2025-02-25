@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_InstallationFloater_IM7100</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6dbc30d2-efa8-480d-ad9d-1b23843b51ad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b7ea82c-23a6-446c-b800-f8153f236fca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Blanket Coverage'</defaultValue>
+      <description></description>
+      <id>9b7ea82c-23a6-446c-b800-f8153f236fca</id>
+      <masked>false</masked>
+      <name>IM7100_PropertyCovered</name>
+   </variable>
+</TestCaseEntity>

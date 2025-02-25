@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_SublineSelection_SelectOtherStates</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c07e1397-dbc1-45b7-9632-c8dab13d70ef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f015e9a-888e-41c6-aff9-6dec0bf1df42</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd141be3-2716-4251-b271-1694f7ce3c99</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f015e9a-888e-41c6-aff9-6dec0bf1df42</id>
+      <masked>false</masked>
+      <name>Subline</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dd141be3-2716-4251-b271-1694f7ce3c99</id>
+      <masked>false</masked>
+      <name>SelectOtherStateForSubline</name>
+   </variable>
+</TestCaseEntity>

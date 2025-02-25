@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_PolicySummary_ValidateCurrentActivity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70974979-4fdc-4b11-8604-48a8836af11f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ae171e64-8bfe-4aee-8b66-22bbbc1996c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ae171e64-8bfe-4aee-8b66-22bbbc1996c5</id>
+      <masked>false</masked>
+      <name>ActivitySubject</name>
+   </variable>
+</TestCaseEntity>

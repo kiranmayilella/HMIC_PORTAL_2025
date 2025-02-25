@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_SearchPolicy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf0201b7-226d-4b2b-ba71-2cda78b35878</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24e5e779-0a2c-4611-9696-c04dbb82571a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.PolicyNumber</defaultValue>
+      <description></description>
+      <id>24e5e779-0a2c-4611-9696-c04dbb82571a</id>
+      <masked>false</masked>
+      <name>PolicyNumber</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_PolicySummary_PerformPreRenewalDirection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af33d09e-aef6-4728-b837-92c73053f879</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3542dd98-3c75-454d-84b1-f3c50154b9f0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Refer to Processing'</defaultValue>
+      <description></description>
+      <id>3542dd98-3c75-454d-84b1-f3c50154b9f0</id>
+      <masked>false</masked>
+      <name>PreRenewalDirection</name>
+   </variable>
+</TestCaseEntity>

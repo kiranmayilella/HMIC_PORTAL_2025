@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_Reinstatement_StartReinstatement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4575ba8d-9372-4009-847a-d764a02f1c44</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00512aef-8748-4e75-9602-6d3272af5213</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd239d05-ca3e-4912-8370-9c30477b230c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00512aef-8748-4e75-9602-6d3272af5213</id>
+      <masked>false</masked>
+      <name>Reinstatement_ReceivedDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other'</defaultValue>
+      <description></description>
+      <id>cd239d05-ca3e-4912-8370-9c30477b230c</id>
+      <masked>false</masked>
+      <name>Reinstatement_Reason</name>
+   </variable>
+</TestCaseEntity>

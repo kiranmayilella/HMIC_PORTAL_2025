@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_CP_AddCov_CP1218</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9b53d0a-d3f1-4ffd-bb00-8a2f8aab620e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7bf4535a-c879-48b8-82a6-30717ab01680</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ac1fb54-bf26-449b-8f57-5be576ab5d87</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f7eb8f6-60f0-464a-8a20-038122bf0d53</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7bf4535a-c879-48b8-82a6-30717ab01680</id>
+      <masked>false</masked>
+      <name>DescriptionOfProperty</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ac1fb54-bf26-449b-8f57-5be576ab5d87</id>
+      <masked>false</masked>
+      <name>CP_1218_Address</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f7eb8f6-60f0-464a-8a20-038122bf0d53</id>
+      <masked>false</masked>
+      <name>CP_1218_Name</name>
+   </variable>
+</TestCaseEntity>

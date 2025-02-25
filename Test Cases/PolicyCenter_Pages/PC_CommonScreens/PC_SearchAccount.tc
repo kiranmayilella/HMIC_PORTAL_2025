@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_SearchAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09c806e8-aa73-4f62-bad0-bc1e85800b2b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04b5385a-5306-4624-8dab-08112b2bdc7d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>04b5385a-5306-4624-8dab-08112b2bdc7d</id>
+      <masked>false</masked>
+      <name>AccountNumber</name>
+   </variable>
+</TestCaseEntity>

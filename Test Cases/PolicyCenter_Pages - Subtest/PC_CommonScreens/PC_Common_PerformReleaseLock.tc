@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_Common_PerformReleaseLock</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99612044-0493-4894-be5e-4d2ad350a410</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28e292fd-95fa-4144-8d0b-87880140b4c3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>28e292fd-95fa-4144-8d0b-87880140b4c3</id>
+      <masked>false</masked>
+      <name>PC_Username</name>
+   </variable>
+</TestCaseEntity>

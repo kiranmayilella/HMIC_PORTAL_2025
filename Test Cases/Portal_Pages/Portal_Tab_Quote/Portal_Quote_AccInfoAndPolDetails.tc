@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Portal_Quote_AccInfoAndPolDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acbf1bfb-02b5-4cbf-b150-6db540cde90d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>369a7446-fe36-4e7b-bca9-27e8edbe4405</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>facc3719-d99c-4767-8c9c-abe5fb006273</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3696fc23-29be-4e30-97da-473400b5feaa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>369a7446-fe36-4e7b-bca9-27e8edbe4405</id>
+      <masked>false</masked>
+      <name>State</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>facc3719-d99c-4767-8c9c-abe5fb006273</id>
+      <masked>false</masked>
+      <name>ZipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3696fc23-29be-4e30-97da-473400b5feaa</id>
+      <masked>false</masked>
+      <name>Address1</name>
+   </variable>
+</TestCaseEntity>

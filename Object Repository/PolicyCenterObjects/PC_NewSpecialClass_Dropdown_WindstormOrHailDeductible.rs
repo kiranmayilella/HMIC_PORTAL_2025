@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_NewSpecialClass_Dropdown_WindstormOrHailDeductible</name>
+   <tag></tag>
+   <elementGuidId>0a64e75c-e30c-4bbd-ae1d-8c72f56717bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>[name='CP7SpecialClassPopup-CP7SpecialClassCV-CP7SpecialClassCoveragesDV-0-LobCoverageInputSet-CovPatternInputGroup-CovTermIterator-2-LobCovTermWithPostOnChangeInputSet-OptionTermInput']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='CP7SpecialClassPopup-CP7SpecialClassCV-CP7SpecialClassCoveragesDV-0-LobCoverageInputSet-CovPatternInputGroup-CovTermIterator-2-LobCovTermWithPostOnChangeInputSet-OptionTermInput']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

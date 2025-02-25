@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_FineArtsFloater_IM7400FineArtCoverage_FineArtFloater</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb58416a-e7c8-47bf-b12e-75e4bffca7c5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>790b429e-2ac9-4b93-8410-bc1f6c04ae6f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>111fe592-e29e-45c8-b378-493535e55a35</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5411e1e5-cb37-4449-b115-2fa6701f9b6d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>790b429e-2ac9-4b93-8410-bc1f6c04ae6f</id>
+      <masked>false</masked>
+      <name>Description_FineArtsFloater</name>
+   </variable>
+   <variable>
+      <defaultValue>'25000'</defaultValue>
+      <description></description>
+      <id>111fe592-e29e-45c8-b378-493535e55a35</id>
+      <masked>false</masked>
+      <name>Limit_FineArtsFloater</name>
+   </variable>
+   <variable>
+      <defaultValue>'0.11'</defaultValue>
+      <description></description>
+      <id>5411e1e5-cb37-4449-b115-2fa6701f9b6d</id>
+      <masked>false</masked>
+      <name>SpecialPerilsLoad_FineArtsFloater</name>
+   </variable>
+</TestCaseEntity>

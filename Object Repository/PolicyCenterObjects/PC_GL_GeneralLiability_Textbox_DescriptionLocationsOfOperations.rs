@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_GL_GeneralLiability_Textbox_DescriptionLocationsOfOperations</name>
+   <tag></tag>
+   <elementGuidId>1f296fdf-9299-4d7b-9910-2b2aca3b7459</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-GL7GeneralLiabilityCoveragesScreen-GL7SublinesCV-GL7AdditionalCoveragesPerSublinePanelSet-GL7CoveragesPerSublineDV-0-2-LobCoverageInputSet-CovPatternInputGroup-LobScheduleInputSet-LobScheduledItemsLVInputSet-LobScheduledItemsLV-ScheduledItemsIterator-0-1-UnvalidatedScheduledItemColumnInput-LobScheduledItemColumnInput-StringValue']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

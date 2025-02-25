@@ -1,0 +1,454 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Portal_Loc_WorkClassification_TypeList_0005",
+      "brokenLocator": "//div[(text() \u003d \u00270005 - Farm: Nursery Employees And Drivers\u0027 or . \u003d \u00270005 - Farm: Nursery Employees And Drivers\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Next: State Coverages\u0027])[2]/following::div[10]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Portal_Loc_WorkClassification_TypeList_0005_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCov_Otherstates_Select_Listed states",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-19-option-2\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027All states except\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCov_Otherstates_Select_Listed states_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCov_Includedstates_Select_Iowa",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-21-option-15\u0027]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Unknown\u0027])[15]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCov_Includedstates_Select_Iowa_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PORTAL_HMIC/PORTAL_LINECOVERAGE3/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_Cov_SeByCondition",
+      "brokenLocator": "//div[@id\u003d\u0027clause-search-wrapper\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Previous\u0027])[1]/preceding::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PORTAL_HMIC/PORTAL_LINECOVERAGE3/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_Cov_SeByCondition_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Portal_StandardizeAddress_Button_Continue",
+      "brokenLocator": "//*/text()[normalize-space(.)\u003d\u0027Continue\u0027]/parent::*",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Continue\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Portal_StandardizeAddress_Button_Continue_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PORTAL_HMIC/PORTAL_LINECOVERAGE/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCoverages_AllStatesExcept",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-19-option-1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027All other non-monopolistic states\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PORTAL_HMIC/PORTAL_LINECOVERAGE/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCoverages_AllStatesExcept_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCov_Otherstate_Exlude States_Please Describe_Colorado",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-21-option-5\u0027]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Unknown\u0027])[5]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCov_Otherstate_Exlude States_Please Describe_Colorado_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCov_Blanket_Select_Illinois",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-21-option-1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Please Select\u0027])[2]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCov_Blanket_Select_Illinois_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Portal_Common_Button_NextLoc",
+      "brokenLocator": "//button[@id\u003d\u0027next\u0027]/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Portal_Common_Button_NextLoc_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PolicyCenter/PolicyCenterObjects/PC_Common_Button_Quote",
+      "brokenLocator": "//div[contains(@id,\u0027ToolbarButtonSet-Quote\u0027)]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[(text() \u003d \u0027Quote\u0027 or . \u003d \u0027Quote\u0027)]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PolicyCenter/PolicyCenterObjects/PC_Common_Button_Quote_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PORTAL_HMIC/PORTAL_POLICY DETAILS/Portal_PolicyDetails_Operations/Page_Policy Details/Portal_PolicyDetails_Operations_dropdown",
+      "brokenLocator": "//div[@id\u003d\u0027typeOfOperations-wrapper\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Commercial\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PORTAL_HMIC/PORTAL_POLICY DETAILS/Portal_PolicyDetails_Operations/Page_Policy Details/Portal_PolicyDetails_Operations_dropdown_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Portal_Supplemental_CheckBox_IhaveReviewed",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div[6]/div/div/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div[6]/div/div/div/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Portal_Supplemental_CheckBox_IhaveReviewed_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PORTAL_PAYMENT/Page_HMIC Agency Portal - Workers Compensation - Payment/Portal_Payments_Insured_Button_Add New Payment Method",
+      "brokenLocator": "(//button[@id\u003d\u0027addPaymentInstrument\u0027]/span/span)[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Change payment plan at renewal?\u0027])[1]/preceding::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PORTAL_PAYMENT/Page_HMIC Agency Portal - Workers Compensation - Payment/Portal_Payments_Insured_Button_Add New Payment Method_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Page_Agent Dashboard/Portal_Common_Tab_Accounts",
+      "brokenLocator": "//a[@id\u003d\u0027ACCOUNTS\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Page_Agent Dashboard/Portal_Common_Tab_Accounts_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PORTAL_PAYMENT/Page_HMIC Agency Portal - Workers Compensation - Payment/Portal_Payments_Auto_PaymentMethod_Downpayments_Add Payment Method_Selection",
+      "brokenLocator": "//div[4]/div/div/div/div[3]/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[4]/div/div/div/div[3]/i",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PORTAL_PAYMENT/Page_HMIC Agency Portal - Workers Compensation - Payment/Portal_Payments_Auto_PaymentMethod_Downpayments_Add Payment Method_Selection_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Portal_AccInfo_TextBox_FirstName",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/input",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Portal_AccInfo_TextBox_FirstName_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Portal_AccInfo_TextBox_LastName",
+      "brokenLocator": "//input[@id\u003d\u0027lastName\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Portal_AccInfo_TextBox_LastName_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PORTAL_POLICY DETAILS/Page_Policy Details/Portal_PolicyDetails_EntityType_Dropdown1",
+      "brokenLocator": "//div[@id\u003d\u0027orgType-wrapper\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027orgType-wrapper\u0027]/div/div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PORTAL_POLICY DETAILS/Page_Policy Details/Portal_PolicyDetails_EntityType_Dropdown1_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCov_Blanket_ButtonSave",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/button/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027State\u0027])[1]/following::span[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCov_Blanket_ButtonSave_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PORTAL_LINECOVERAGE4/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCoverage_Limit_PAPE_100,000100,0001,000,000",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Next: Supplemental Questions\u0027])[2]/following::div[7]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/following::div[7]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PORTAL_LINECOVERAGE4/Page_HMIC Agency Portal - Workers Compensation - Line Coverages/Portal_LineCoverage_Limit_PAPE_100,000100,0001,000,000_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Portal_StandardizeAddress_Button_Continue",
+      "brokenLocator": "//*/text()[normalize-space(.)\u003d\u0027Continue\u0027]/parent::*",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[2]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Portal_StandardizeAddress_Button_Continue_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Portal_Loc_WorkClassification_TypeList_0005",
+      "brokenLocator": "//*/text()[normalize-space(.)\u003d\u00270005 - Farm: Nursery Employees And Drivers\u0027]/parent::*",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.jut__LookupField__title",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Portal_Loc_WorkClassification_TypeList_0005_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Portal/Portal_PolDetails_OrgType_TypeList_Individual",
+      "brokenLocator": "//*/text()[normalize-space(.)\u003d\u0027Individual\u0027]/parent::*",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[6]/div/div/div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Portal/Portal_PolDetails_OrgType_TypeList_Individual_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PolicyCenter_Login/input_PC_Login_Button_Login",
+      "brokenLocator": "//input[@id\u003d\u0027login\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[@id \u003d \u0027login\u0027 and @type \u003d \u0027submit\u0027]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PolicyCenter_Login/input_PC_Login_Button_Login_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/IMC Objects/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Create New Account",
+      "brokenLocator": "//div[@id\u003d\u0027NewAccount-NewAccountScreen-NewAccountButton\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027R\u0027])[1]/following::div[8]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/IMC Objects/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_R_gw-click-overlay",
+      "brokenLocator": "//*[@id\u003d\"NewAccount-NewAccountScreen-NewAccountSearchDV-SearchAndResetInputSet-SearchLinksInputSet-Search\"]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027gw-click-overlay\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/IMC Objects/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_R_gw-click-overlay_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/IMC Objects/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Rate",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-IM7StateSpecificInfoScreen-JobWizardToolbarButtonSet-QuoteTypeToolbarButtonSet-Rate\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Ra\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/IMC Objects/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Rate_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/IMC Objects/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_FinishQuote",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-SubmissionWizard_QuoteScreen-JobWizardToolbarButtonSet-QuoteTypeToolbarButtonSet-FinishQuote\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Next\u0027])[1]/following::div[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/IMC Objects/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_FinishQuote_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/IMC Objects/IMC Coverages/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/select_none2505001,0002,5005,00010,00025,000",
+      "brokenLocator": "//select[@name\u003d\u0027IM7ContractorsEquipmentPopup-IM7ContractorsEquipmentPanelSet-CEClauseCovPatterns-CoverageCategoryInputSet-2-CoverageInputSet-CovPatternInputGroup-IM7CEDeductibleAmount\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Deductible Type\u0027])[1]/following::select[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/IMC Objects/IMC Coverages/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/select_none2505001,0002,5005,00010,00025,000_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Next",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-Next\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.gw-action--inner.gw-hasDivider.gw-focus \u003e div.gw-label",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Next_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Rate",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-IM7StateSpecificInfoScreen-JobWizardToolbarButtonSet-QuoteTypeToolbarButtonSet-Rate\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.gw-action--inner.gw-hasDivider.gw-focus \u003e div.gw-label",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Rate_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_FinishQuote",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-SubmissionWizard_QuoteScreen-JobWizardToolbarButtonSet-QuoteTypeToolbarButtonSet-FinishQuote\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.gw-action--inner.gw-hasDivider.gw-focus \u003e div.gw-label",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_FinishQuote_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Select_1",
+      "brokenLocator": "//td/div/div/div/div[contains(text(),\u0027Commercial Inland Marine\u0027)]/preceding-sibling::td/div/div/div[contains(text(),\u0027Select\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Commercial Inland Marine\u0027])[1]/preceding::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/select_noneFarmCommercial",
+      "brokenLocator": "//select[@name\u003d\u0027SubmissionWizard-LOBWizardStepGroup-SubmissionWizard_PolicyInfoScreen-SubmissionWizard_PolicyInfoDV-PolicyInfoInputSet-TypeofOperation\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Type Of Operation\u0027])[1]/following::select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/select_noneFarmCommercial_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_AdAdd",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-IM7InlandMarineScreen-IM7InlandMarinePanelSet-addCoverablePartSelection\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Accept Certified Acts of Terrorism Coverage\u0027])[1]/following::div[17]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_AdAdd_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Contractors Equipment",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-IM7InlandMarineScreen-IM7InlandMarinePanelSet-addCoverablePartSelection-IM7ContractorsEquipment\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027CE\u0027])[2]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Contractors Equipment_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/select_noneSchedule on FileSchedule Equipment",
+      "brokenLocator": "//select[@name\u003d\u0027IM7ContractorsEquipmentPopup-IM7ContractorsEquipmentPanelSet-CEClauseCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-IM7CECompContractorsEquipCECCECvrdProp\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027IM 7000 Contractors Equipment - Comprehensive\u0027])[1]/following::select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/select_noneSchedule on FileSchedule Equipment_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Rate",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-IM7StateSpecificInfoScreen-JobWizardToolbarButtonSet-QuoteTypeToolbarButtonSet-Rate\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Ra\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Rate_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_FinishQuote",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-SubmissionWizard_QuoteScreen-JobWizardToolbarButtonSet-QuoteTypeToolbarButtonSet-FinishQuote\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div[2]/div[4]/div/div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_FinishQuote_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/IMC Objects/IMC Coverages/Page_DEV mode - 10.1.1.1463 Guidewire Polic_b28feb/div_Actions (1)",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-WizardMenuActions\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027LO\u0027])[1]/following::div[9]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CPP/Page_HMIC Agency Portal - Commercial Packag_b66ff7/input_Address_addressTypeAhead_contact-h0t3_37bc04",
+      "brokenLocator": "//input[@id\u003d\u0027addressTypeAhead_contact-h0t3a8nl54t-address-vjmpktr27ad-googleAddressAPI\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CPP/Page_HMIC Agency Portal - Commercial Packag_b66ff7/input_Address_addressTypeAhead_contact-h0t3_37bc04_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CPP/Page_HMIC Agency Portal - Commercial Packag_b66ff7/div_0008020-0000-HOUSE House Code",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-6-option-2\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Please Select\u0027])[2]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CPP/Page_HMIC Agency Portal - Commercial Packag_b66ff7/div_0008020-0000-HOUSE House Code_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CPP/Page_HMIC Agency Portal - Commercial Packag_b66ff7/div_0008020-0000-HOUSE House Code",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-6-option-2\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u00270008020-0000-HOUSE House Code\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CPP/Page_HMIC Agency Portal - Commercial Packag_b66ff7/div_0008020-0000-HOUSE House Code_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CPP/Page_HMIC Agency Portal - Commercial Packag_2c3a54/div_Trust",
+      "brokenLocator": "//div[@id\u003d\u0027react-select-16-option-1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[6]/div/div/div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CPP/Page_HMIC Agency Portal - Commercial Packag_2c3a54/div_Trust_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CPP/Page_HMIC Agency Portal - Commercial Packag_2c3a54/input_FEIN_contact-s5kyvs4qs-feinId",
+      "brokenLocator": "//input[@id\u003d\u0027contact-s5kyvs4qs-feinId\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div/div[6]/div/div/div[2]/div/div/div[4]/div/div/div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CPP/Page_HMIC Agency Portal - Commercial Packag_2c3a54/input_FEIN_contact-s5kyvs4qs-feinId_idRelative.png"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>HMIC-WC-PORTALS-E2E-TC052</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>42cab307-6648-46bc-b139-ac6fa55188cd</dataFileGUID>
+   <dataSourceUrl>C:\Users\motuvin\Katalon Studio\HMIC-Portal\Data Files\Functional Regression\HMIC-WC-PORTALS-E2E-TC052.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

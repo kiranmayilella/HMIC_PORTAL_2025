@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_RiskAnalysisScreen_PriorLosses</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bd75181-541c-4af1-9c24-af57f25f8f4f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>762c3cf5-3906-4ca7-ab13-f7ba45ca5465</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b646a69-a49b-445c-a078-dbbfb27e064e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08034432-8165-44da-8d41-fe9b94cef9c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>762c3cf5-3906-4ca7-ab13-f7ba45ca5465</id>
+      <masked>false</masked>
+      <name>subrogation</name>
+   </variable>
+   <variable>
+      <defaultValue>'Manually Entered'</defaultValue>
+      <description></description>
+      <id>6b646a69-a49b-445c-a078-dbbfb27e064e</id>
+      <masked>false</masked>
+      <name>LossHistoryType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Closed'</defaultValue>
+      <description></description>
+      <id>08034432-8165-44da-8d41-fe9b94cef9c5</id>
+      <masked>false</masked>
+      <name>HistoricalLossesStatus</name>
+   </variable>
+</TestCaseEntity>

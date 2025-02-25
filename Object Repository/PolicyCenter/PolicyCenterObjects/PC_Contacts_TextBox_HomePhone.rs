@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Contacts_TextBox_HomePhone</name>
+   <tag></tag>
+   <elementGuidId>fc226b16-6e5c-4569-b635-29a11eb61b26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='EditAccountContactPopup-ContactDetailScreen-AccountContactCV-AccountContactDV-ContactNameInputSet-HomePhone-GlobalPhoneInputSet-NationalSubscriberNumber']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

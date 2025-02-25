@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Supplemental_HotelQues_CheckBox_TypeOfOperations_Hotel</name>
+   <tag></tag>
+   <elementGuidId>eec9e515-4924-4038-b765-27b71a143ad8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='SubmissionWizard-SupplementalScreen-GL7Supplenetal-GL7GenericSupplementalPanelSet-GenralInformation-QuestionSetLV-2-QuestionModalInput-BooleanCheckboxInput_NoPost']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//input[@name='SubmissionWizard-SupplementalScreen-GL7Supplenetal-GL7GenericSupplementalPanelSet-GenralInformation-QuestionSetLV-2-QuestionModalInput-BooleanCheckboxInput_NoPost']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

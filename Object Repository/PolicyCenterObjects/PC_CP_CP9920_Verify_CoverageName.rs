@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_CP_CP9920_Verify_CoverageName</name>
+   <tag></tag>
+   <elementGuidId>35078aa2-e67e-447f-9dba-a2633863e2af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CP7BuildingPopup-CP7BuildingCV-BuildingLevelExclusionsAndConditions-LobExclusionsAndConditionsPanelSet-ConditionsPanel-LobClausesDV-0-LobCoverageInputSet-CovPatternInputGroup']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#CP7BuildingPopup-CP7BuildingCV-BuildingLevelExclusionsAndConditions-LobExclusionsAndConditionsPanelSet-ConditionsPanel-LobClausesDV-0-LobCoverageInputSet-CovPatternInputGroup > div.gw-InputGroup--header > div.gw-InputGroup--header--label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>466a2da7-facd-467d-813f-0c1371859cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-InputGroup--header--label</value>
+      <webElementGuid>1410315b-8b9e-4c06-b60d-d41a7164307b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CP 99 20 Contributing Insurance</value>
+      <webElementGuid>1d5f57b1-60ee-4016-a9d3-359186473957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CP7BuildingPopup-CP7BuildingCV-BuildingLevelExclusionsAndConditions-LobExclusionsAndConditionsPanelSet-ConditionsPanel-LobClausesDV-0-LobCoverageInputSet-CovPatternInputGroup&quot;)/div[@class=&quot;gw-InputGroup--header&quot;]/div[@class=&quot;gw-InputGroup--header--label&quot;]</value>
+      <webElementGuid>b475b039-98d8-4d97-876b-0a69598efa97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CP7BuildingPopup-CP7BuildingCV-BuildingLevelExclusionsAndConditions-LobExclusionsAndConditionsPanelSet-ConditionsPanel-LobClausesDV-0-LobCoverageInputSet-CovPatternInputGroup']/div/div[2]</value>
+      <webElementGuid>279bb4da-9f33-4180-8527-6d0a69ab2a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CP 99 20 Contributing Insurance'])[1]/following::div[5]</value>
+      <webElementGuid>c180b24f-501a-43cd-a58c-50d012592263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policy Conditions'])[1]/following::div[14]</value>
+      <webElementGuid>b75ad0f8-cad4-440a-a1e5-521911951070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Percent of Contributing Insurance'])[1]/preceding::div[8]</value>
+      <webElementGuid>cd9b3c9e-6fac-46b3-bec2-c0d4681379aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Building Limit'])[1]/preceding::div[20]</value>
+      <webElementGuid>c1cf578c-5b0b-4d19-b220-db1c58535907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div[2]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>1591f89f-d9f3-4e69-b8f9-767fd3b50a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CP 99 20 Contributing Insurance' or . = 'CP 99 20 Contributing Insurance')]</value>
+      <webElementGuid>d3cacacc-65c7-403a-b31f-372d915a51fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

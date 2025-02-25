@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_Valuable Papers and Records Coverage_Schedule2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97072aa2-535b-44fc-9baa-e8f4795ffdd7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2451f8bf-8c79-4b7f-b9d7-160981b35fef</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1626b0d4-f5af-40eb-8b9c-85a1468b061d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb8b36aa-543c-446e-afe4-1f320c7cfae0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f25a3d48-c87d-4009-859c-7d89ffa97516</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'A'</defaultValue>
+      <description></description>
+      <id>2451f8bf-8c79-4b7f-b9d7-160981b35fef</id>
+      <masked>false</masked>
+      <name>SectionOfBuilding</name>
+   </variable>
+   <variable>
+      <defaultValue>'800000'</defaultValue>
+      <description></description>
+      <id>1626b0d4-f5af-40eb-8b9c-85a1468b061d</id>
+      <masked>false</masked>
+      <name>ScheduleLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>'All other safes, vaults or cabinets\r\n'</defaultValue>
+      <description></description>
+      <id>fb8b36aa-543c-446e-afe4-1f320c7cfae0</id>
+      <masked>false</masked>
+      <name>ReceptacleType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>f25a3d48-c87d-4009-859c-7d89ffa97516</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

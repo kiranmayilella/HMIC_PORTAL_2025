@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_AuditSummary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d1aa770-5565-4ee9-9c52-7af46b805f0f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e5f65df-c01b-4feb-a06f-09ab73e81269</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dad9b4fe-b20f-44fa-ade4-6a6881b0c010</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Phone'</defaultValue>
+      <description></description>
+      <id>1e5f65df-c01b-4feb-a06f-09ab73e81269</id>
+      <masked>false</masked>
+      <name>MethodActual</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>dad9b4fe-b20f-44fa-ade4-6a6881b0c010</id>
+      <masked>false</masked>
+      <name>UseSameAuditMethodforFuturePeriods</name>
+   </variable>
+</TestCaseEntity>

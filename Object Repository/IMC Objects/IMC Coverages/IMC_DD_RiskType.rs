@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>IMC_DD_RiskType</name>
+   <tag></tag>
+   <elementGuidId>53cbb324-2f1c-4c56-8585-c3cbf3917467</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name=&quot;SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-CPPLineSelectionScreen-CPPLineSelectionDV-SpecialProgram&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

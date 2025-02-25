@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_CP1534_AddCov_TextBox_BasicGroupIITimeElementRate</name>
+   <tag></tag>
+   <elementGuidId>6d93598b-5b93-45d6-aafd-ad3f7934fcc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//Input[@name='CP7SpecialClassBusinessIncomePopup-CP7SpecClsBICV-LobAdditionalCoveragesPanelSet-LobClausesDV-0-LobCoverageInputSet-CovPatternInputGroup-LobScheduleInputSet-LobScheduledItemsLVInputSet-LobScheduledItemsLV-ScheduledItemsIterator-0-10-UnvalidatedScheduledItemColumnInput-LobScheduledItemColumnInput-DecimalValue']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

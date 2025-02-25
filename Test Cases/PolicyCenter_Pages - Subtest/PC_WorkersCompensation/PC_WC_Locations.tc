@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_WC_Locations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f96ec48f-b6dc-44ec-a898-dc34d72afac3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>feb3be25-065d-4df0-9681-85c91a7eb19e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'51'</defaultValue>
+      <description></description>
+      <id>feb3be25-065d-4df0-9681-85c91a7eb19e</id>
+      <masked>false</masked>
+      <name>MaxNoOfEmps</name>
+   </variable>
+</TestCaseEntity>

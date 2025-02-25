@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_RadioAndTVTowersAndEquipment_IM7600_ScheduleDropdown_WindLoadingZone</name>
+   <tag></tag>
+   <elementGuidId>701d8d8d-6300-4df5-80da-d487946cdff5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[contains(@name,'-0-windLoadZoneCell')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//select[contains(@name,'-0-windLoadZoneCell')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

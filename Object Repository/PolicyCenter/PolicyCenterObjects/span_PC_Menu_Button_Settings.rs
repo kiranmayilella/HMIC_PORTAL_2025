@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PC_Menu_Button_Settings</name>
+   <tag></tag>
+   <elementGuidId>28703424-3150-43ee-864b-d8bdd99c7917</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gw-TabBarWidget--settings']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-focus > span.gw-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>517ef055-8498-435d-8188-47382c51b00e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-icon</value>
+      <webElementGuid>3aa1caff-9c93-42be-8234-d74e0d2a7bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1f1a87cc-5195-4365-addb-d70d747a83f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gw-TabBarWidget--settings&quot;)/div[@class=&quot;gw-action--inner gw-focus&quot;]/span[@class=&quot;gw-icon&quot;]</value>
+      <webElementGuid>16955127-b229-41fa-b692-1f1e27b6ff2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gw-TabBarWidget--settings']/div/span</value>
+      <webElementGuid>72868711-cd05-4925-951f-9b702b272698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/span</value>
+      <webElementGuid>a54f333c-7ff4-41e1-8de6-ee172fc77684</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

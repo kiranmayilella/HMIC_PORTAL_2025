@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_AdditionalCoverageTab_ValidateAddedCoverages</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbb5dfe2-4974-4d4f-a0a0-6ff583c3f80c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>911175c4-f8b4-4af5-9795-c76ce51e13a4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04415a4a-30ec-45e6-84ee-385508d297d1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>911175c4-f8b4-4af5-9795-c76ce51e13a4</id>
+      <masked>false</masked>
+      <name>CoverageNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>04415a4a-30ec-45e6-84ee-385508d297d1</id>
+      <masked>false</masked>
+      <name>CoverageName</name>
+   </variable>
+</TestCaseEntity>

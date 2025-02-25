@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_noneIndividualJoint ventureLimited p_c25258</name>
+   <tag></tag>
+   <elementGuidId>35022afc-78c2-4857-a2af-7bf3b2c6d860</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='Legal Entity']/..//select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;SubmissionWizard-LOBWizardStepGroup-SubmissionWizard_PolicyInfoScreen-SubmissionWizard_PolicyInfoDV-AccountInfoInputSet-OrganizationType&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ea374064-c264-4457-9d00-66e5f7010e83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SubmissionWizard-LOBWizardStepGroup-SubmissionWizard_PolicyInfoScreen-SubmissionWizard_PolicyInfoDV-AccountInfoInputSet-OrganizationType</value>
+      <webElementGuid>04ea09d2-cad4-4861-bfc6-bb8db4718b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5ebfb212-2edd-484b-9d35-dfb83f0f9b0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   &lt;none>IndividualJoint ventureLimited partnershipPartnershipTrustAssociationCorporationEstateHospitalInstitutionLtd Liability CompanyLtd Liability PartnershipMunicipalityNon-profitReligious organizationSchool   </value>
+      <webElementGuid>a200027f-b207-4bc8-88cb-9d328c8fd83c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubmissionWizard-LOBWizardStepGroup-SubmissionWizard_PolicyInfoScreen-SubmissionWizard_PolicyInfoDV-AccountInfoInputSet-OrganizationType&quot;)/div[@class=&quot;gw-vw--value&quot;]/div[@class=&quot;gw-select-wrapper&quot;]/select[1]</value>
+      <webElementGuid>cc6304f3-c7fe-446e-b111-16d511627f34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='SubmissionWizard-LOBWizardStepGroup-SubmissionWizard_PolicyInfoScreen-SubmissionWizard_PolicyInfoDV-AccountInfoInputSet-OrganizationType']</value>
+      <webElementGuid>a390b7e7-b5b5-4c93-ba85-9a0152c8e29c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SubmissionWizard-LOBWizardStepGroup-SubmissionWizard_PolicyInfoScreen-SubmissionWizard_PolicyInfoDV-AccountInfoInputSet-OrganizationType']/div/div/select</value>
+      <webElementGuid>208a2588-5558-48ca-ab32-735f66509772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal Entity'])[1]/following::select[1]</value>
+      <webElementGuid>1e639704-b29d-489e-a5ad-aaa19829002e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description Of Operations Of Other Name Insureds'])[1]/following::select[1]</value>
+      <webElementGuid>e8ac4c8b-e29b-4fed-9769-64da76476939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Number'])[1]/preceding::select[1]</value>
+      <webElementGuid>1a9511f2-3fa8-4972-b74c-7a9d1df3332f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Named Insureds'])[1]/preceding::select[1]</value>
+      <webElementGuid>050380e0-336e-45d4-8fe2-56d19889026c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>1365ba0c-8fe2-4842-98fd-785d328b4eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'SubmissionWizard-LOBWizardStepGroup-SubmissionWizard_PolicyInfoScreen-SubmissionWizard_PolicyInfoDV-AccountInfoInputSet-OrganizationType' and (text() = '   &lt;none>IndividualJoint ventureLimited partnershipPartnershipTrustAssociationCorporationEstateHospitalInstitutionLtd Liability CompanyLtd Liability PartnershipMunicipalityNon-profitReligious organizationSchool   ' or . = '   &lt;none>IndividualJoint ventureLimited partnershipPartnershipTrustAssociationCorporationEstateHospitalInstitutionLtd Liability CompanyLtd Liability PartnershipMunicipalityNon-profitReligious organizationSchool   ')]</value>
+      <webElementGuid>e9933894-2a8a-44a8-a1ea-a779cdf7ab61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

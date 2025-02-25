@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_FineArtFloater_AddCov_IM7415</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ff34dcd-381e-4e2f-b997-169bf6c4ee3e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8507042e-7572-462d-af8d-29f56ea85a94</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'27000'</defaultValue>
+      <description></description>
+      <id>8507042e-7572-462d-af8d-29f56ea85a94</id>
+      <masked>false</masked>
+      <name>IM7415_Limit</name>
+   </variable>
+</TestCaseEntity>

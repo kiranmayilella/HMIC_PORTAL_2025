@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_Transit_AddCov_IM7265BackhaulCoverage_TextArea_CoveredProperty</name>
+   <tag></tag>
+   <elementGuidId>293b1bf2-8a6a-4dc4-9f51-4b5b73c162ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>[name='IM7TransitPopup-IM7TransitPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup-IM7TransitBackhaulCovTransitBackhaulCvdProp']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='IM7TransitPopup-IM7TransitPanelSet-AdditionalCoveragesPanelSet-AdditionalCoveragesDV-0-CoverageInputSet-CovPatternInputGroup-IM7TransitBackhaulCovTransitBackhaulCvdProp']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

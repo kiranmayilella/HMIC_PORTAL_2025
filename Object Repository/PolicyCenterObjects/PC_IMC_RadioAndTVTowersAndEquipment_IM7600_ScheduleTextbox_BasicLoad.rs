@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_IMC_RadioAndTVTowersAndEquipment_IM7600_ScheduleTextbox_BasicLoad</name>
+   <tag></tag>
+   <elementGuidId>448cdf60-ba58-4546-be0d-35272916590a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@name,'-0-basicLoadCell')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//input[contains(@name,'-0-basicLoadCell')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

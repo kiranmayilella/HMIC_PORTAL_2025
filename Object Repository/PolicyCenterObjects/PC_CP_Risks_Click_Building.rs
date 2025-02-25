@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_CP_Risks_Click_Building</name>
+   <tag></tag>
+   <elementGuidId>b66be88f-aa9e-418f-b532-d33eef4ec8a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-CP7RisksScreen-CP7RisksPanelSet-RowTreeLV-0-0-Description']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-CP7RisksScreen-CP7RisksPanelSet-RowTreeLV-0-0-Description > div.gw-vw--value.gw-align-h--left > div.gw-value-readonly-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d6fe88f6-fdce-4b2b-a7d5-3ee716775ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-value-readonly-wrapper</value>
+      <webElementGuid>f9c82817-d79d-494a-919d-aa3e398e16e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Building: 1: Building</value>
+      <webElementGuid>e1cf227c-9bca-4d3e-ab58-5e4ae6b580d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-CP7RisksScreen-CP7RisksPanelSet-RowTreeLV-0-0-Description&quot;)/div[@class=&quot;gw-vw--value gw-align-h--left&quot;]/div[@class=&quot;gw-value-readonly-wrapper&quot;]</value>
+      <webElementGuid>e56db9d3-4173-48d1-9d0e-b2fd996e2dcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-CP7RisksScreen-CP7RisksPanelSet-RowTreeLV-0-0-Description']/div/div</value>
+      <webElementGuid>8265fab0-6ecc-47fe-8e82-5a0d79309293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Construction'])[3]/following::div[55]</value>
+      <webElementGuid>770c1c26-0f4e-4d44-9e9a-2a25cbd9c7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special'])[1]/preceding::div[17]</value>
+      <webElementGuid>447129b9-253a-41ac-8a5f-d9e3de7d7d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frame'])[1]/preceding::div[27]</value>
+      <webElementGuid>3e2fb758-1507-4bf9-9728-a0efdbc3aeb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Building: 1: Building']/parent::*</value>
+      <webElementGuid>d6f431e3-a978-4295-840e-ed52d7f09cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/div/div[3]/div/div</value>
+      <webElementGuid>6cdd295a-8905-4593-8234-0eb7dfafc89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Building: 1: Building' or . = 'Building: 1: Building')]</value>
+      <webElementGuid>6c681753-763e-4419-b9bb-dcf191813bb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMCScreen_CoveragePartSelectionTab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>297445de-afce-42cc-83e4-ce7864a197fb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f040bb5b-22e3-40da-a781-25dd26bcf1e2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Apartment House'</defaultValue>
+      <description></description>
+      <id>f040bb5b-22e3-40da-a781-25dd26bcf1e2</id>
+      <masked>false</masked>
+      <name>RiskType</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Common_Link_PolicyNumber</name>
+   <tag></tag>
+   <elementGuidId>e63e3de8-cdb1-48eb-b00a-9e88efb9cdee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@id,'WizardInfoBar-PolicyNumber')]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#JobComplete-JobWizardInfoBar-PolicyNumber > div.gw-label.gw-infoValue</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a504da75-be8d-4782-a9fc-4e575ca2cb97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label gw-infoValue</value>
+      <webElementGuid>ec4e1d2f-847c-460f-93ec-03d2a67287f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A000251147</value>
+      <webElementGuid>29ef65db-73dc-4e37-a9bf-4fe776d4add2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;JobComplete-JobWizardInfoBar-PolicyNumber&quot;)/div[@class=&quot;gw-label gw-infoValue&quot;]</value>
+      <webElementGuid>47291aac-f7a0-4ec0-954f-5ad254d35bac</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

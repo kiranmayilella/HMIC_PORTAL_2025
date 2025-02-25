@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Supplemental_ErrorsOmmissions_CalenderButton_PriorEffectiveDate</name>
+   <tag></tag>
+   <elementGuidId>7bd2b280-9b52-41d2-95c1-b7e4974c45db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SubmissionWizard-SupplementalScreen-GL7Supplenetal-GL7GenericSupplementalPanelSet-contrErrorEmissionSupplemetal-QuestionSetLV-9-QuestionModalInput-DateFieldInput_NoPost_dateIcon']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//div[@id='SubmissionWizard-SupplementalScreen-GL7Supplenetal-GL7GenericSupplementalPanelSet-contrErrorEmissionSupplemetal-QuestionSetLV-9-QuestionModalInput-DateFieldInput_NoPost_dateIcon']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

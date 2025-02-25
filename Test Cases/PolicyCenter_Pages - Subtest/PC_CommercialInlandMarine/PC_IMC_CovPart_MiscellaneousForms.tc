@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_CovPart_MiscellaneousForms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>673bfb08-db06-4499-ae14-3d65581aa9dd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8213253c-9ba0-4ed1-96dc-f42d109964e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8213253c-9ba0-4ed1-96dc-f42d109964e6</id>
+      <masked>false</masked>
+      <name>MainCoverageNumber</name>
+   </variable>
+</TestCaseEntity>

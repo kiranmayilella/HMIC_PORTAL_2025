@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Portal_Quote_StartANewBusiness</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86804c32-68f6-4443-8359-340849e434e3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3aef86e-7a3c-437c-9fe2-bfb4decf6553</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c3aef86e-7a3c-437c-9fe2-bfb4decf6553</id>
+      <masked>false</masked>
+      <name>LOB</name>
+   </variable>
+</TestCaseEntity>

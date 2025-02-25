@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_BuildersRisk_AddCov_IM7075</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed31636a-e455-4d5e-8ffe-58a312f1a0d4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a55611b8-b421-4123-8d95-110e11f01bb4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2000'</defaultValue>
+      <description></description>
+      <id>a55611b8-b421-4123-8d95-110e11f01bb4</id>
+      <masked>false</masked>
+      <name>ExpeditingExpensesCoverageLimit</name>
+   </variable>
+</TestCaseEntity>

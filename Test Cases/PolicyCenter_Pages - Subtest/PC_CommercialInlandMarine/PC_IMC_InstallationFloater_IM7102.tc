@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_InstallationFloater_IM7102</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c50454d5-03a9-4e25-b843-e3a4b81a6907</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40787a85-6463-4583-a584-b1a5c5b7b9bd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Schedule Equipment'</defaultValue>
+      <description></description>
+      <id>40787a85-6463-4583-a584-b1a5c5b7b9bd</id>
+      <masked>false</masked>
+      <name>IM7102_ScheduledContractorsEquipment</name>
+   </variable>
+</TestCaseEntity>

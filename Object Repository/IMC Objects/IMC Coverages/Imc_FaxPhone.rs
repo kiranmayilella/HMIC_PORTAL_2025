@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Imc_FaxPhone</name>
+   <tag></tag>
+   <elementGuidId>2f42443b-23a9-4c86-b53a-2b2a9600f23f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='CreateAccount-CreateAccountScreen-CreateAccountDV-CreateAccountContactInputSet-FaxPhone-GlobalPhoneInputSet-NationalSubscriberNumber']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

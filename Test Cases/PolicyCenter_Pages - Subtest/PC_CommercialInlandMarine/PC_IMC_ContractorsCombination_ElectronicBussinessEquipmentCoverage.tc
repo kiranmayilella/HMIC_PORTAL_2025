@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_ContractorsCombination_ElectronicBussinessEquipmentCoverage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea0bb51a-becf-43fd-a863-de464866f9dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>65e4ea8b-6387-4506-8d8b-1da8aa458743</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>274fe7f6-6638-46dc-a021-631069c600d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90dbeb5e-0966-452e-8098-083b64fca411</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'25000'</defaultValue>
+      <description></description>
+      <id>65e4ea8b-6387-4506-8d8b-1da8aa458743</id>
+      <masked>false</masked>
+      <name>LocationLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>'30000'</defaultValue>
+      <description></description>
+      <id>274fe7f6-6638-46dc-a021-631069c600d6</id>
+      <masked>false</masked>
+      <name>LimitForAllBusinessEquipment</name>
+   </variable>
+   <variable>
+      <defaultValue>'Frame'</defaultValue>
+      <description></description>
+      <id>90dbeb5e-0966-452e-8098-083b64fca411</id>
+      <masked>false</masked>
+      <name>ElectronicBussinessEquipConstructionType</name>
+   </variable>
+</TestCaseEntity>

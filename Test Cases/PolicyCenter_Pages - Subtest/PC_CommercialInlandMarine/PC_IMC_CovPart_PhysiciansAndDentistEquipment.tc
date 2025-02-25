@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_CovPart_PhysiciansAndDentistEquipment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ee48ca2-8e1c-49ab-a13f-ad370edad2b0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba293d2e-236d-4cce-befe-4f9c76045284</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b2448de1-ba75-44e8-b771-53fe17e9e23f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55bfd69e-3e93-4118-b82a-8742332a2610</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>ba293d2e-236d-4cce-befe-4f9c76045284</id>
+      <masked>false</masked>
+      <name>IM1412</name>
+   </variable>
+   <variable>
+      <defaultValue>'IM 1273'</defaultValue>
+      <description></description>
+      <id>b2448de1-ba75-44e8-b771-53fe17e9e23f</id>
+      <masked>false</masked>
+      <name>ExclusionsConditions</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>55bfd69e-3e93-4118-b82a-8742332a2610</id>
+      <masked>false</masked>
+      <name>AddExclusionOrConditions</name>
+   </variable>
+</TestCaseEntity>

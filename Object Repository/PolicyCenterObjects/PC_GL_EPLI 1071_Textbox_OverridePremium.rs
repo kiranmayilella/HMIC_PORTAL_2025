@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_GL_EPLI 1071_Textbox_OverridePremium</name>
+   <tag></tag>
+   <elementGuidId>d3d03403-b1a7-4bc8-bebf-268103905005</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-GL7WizardStepGroup-GL7StateSpecificInfoScreen-GL7StateSpecificInfoPanelSet-GL7SublinesCV-0-LobClausesDV-0-LobCoverageInputSet-CovPatternInputGroup-CovTermIterator-4-CovTermInputSet-CovTermDirectInputSet-DirectTermInput']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

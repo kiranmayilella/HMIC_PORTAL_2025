@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_InitiateManualRenewal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f21c63e-21bd-4ab4-a05d-058fd0b1bf4c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d69b04a7-c55e-4b64-b014-fcda43be0d01</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d69b04a7-c55e-4b64-b014-fcda43be0d01</id>
+      <masked>false</masked>
+      <name>Renewal_TransactionNumber</name>
+   </variable>
+</TestCaseEntity>

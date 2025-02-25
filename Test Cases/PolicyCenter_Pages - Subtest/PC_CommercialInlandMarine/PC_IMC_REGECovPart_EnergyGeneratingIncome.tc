@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_IMC_REGECovPart_EnergyGeneratingIncome</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccd93af1-7e65-44ec-8abe-193baf517875</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fef1848b-40d4-4c8d-9016-39cfc3f09c03</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6626c359-cf19-488c-a293-affd17772567</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'25000'</defaultValue>
+      <description></description>
+      <id>fef1848b-40d4-4c8d-9016-39cfc3f09c03</id>
+      <masked>false</masked>
+      <name>EnergyGeneratingIncomeLimit</name>
+   </variable>
+   <variable>
+      <defaultValue>'24 Hours'</defaultValue>
+      <description></description>
+      <id>6626c359-cf19-488c-a293-affd17772567</id>
+      <masked>false</masked>
+      <name>EnergyGeneratingIncomeWatingPeriod</name>
+   </variable>
+</TestCaseEntity>

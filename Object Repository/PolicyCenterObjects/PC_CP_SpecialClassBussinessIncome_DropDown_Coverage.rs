@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_CP_SpecialClassBussinessIncome_DropDown_Coverage</name>
+   <tag></tag>
+   <elementGuidId>191e91ec-d6f2-428d-8e57-cbf8ae5db446</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>[name='CP7SpecialClassBusinessIncomePopup-CP7SpecClsBICV-LobEntityDV-1-LobInputSet-LobInternalInputSet-Input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='CP7SpecialClassBusinessIncomePopup-CP7SpecClsBICV-LobEntityDV-1-LobInputSet-LobInternalInputSet-Input']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

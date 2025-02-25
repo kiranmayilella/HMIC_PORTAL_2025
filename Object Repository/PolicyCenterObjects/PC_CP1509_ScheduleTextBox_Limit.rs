@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_CP1509_ScheduleTextBox_Limit</name>
+   <tag></tag>
+   <elementGuidId>7325e58e-05c0-4f1d-b41f-8222bd92ebc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name='CP7SpecialClassBusinessIncomePopup-CP7SpecClsBICV-LobAdditionalCoveragesPanelSet-LobClausesDV-0-LobCoverageInputSet-CovPatternInputGroup-LobScheduleInputSet-LobScheduledItemsLVInputSet-LobScheduledItemsLV-ScheduledItemsIterator-0-10-UnvalidatedScheduledItemColumnInput-LobScheduledItemColumnInput-IntRangeValue']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

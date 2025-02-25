@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HMIC-WC-PORTALS-E2E-TC063</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51bce74a-d7d5-44b3-942c-ed4763c42cb3</testCaseGuid>
+   <variable>
+      <defaultValue>'HMIC-WC-PORTALS-E2E-TC063'</defaultValue>
+      <description></description>
+      <id>2a49f828-6b13-4ca3-b688-1c6edfc04aac</id>
+      <masked>false</masked>
+      <name>TCName</name>
+   </variable>
+</TestCaseEntity>
